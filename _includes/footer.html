@@ -1,0 +1,19 @@
+<footer>
+    <div class="container">
+        <div id="logos" class="row">
+            <div class="col-md-12">
+                <img src="/img/usp-branco-ok.png">
+                <img src="/img/each-branco-ok.png">
+                <p>Laboratório conveniado ao MACC.</p>
+            </div>
+        </div>
+        <div class="row">
+            <span class="social-bar-text">Acompanhe-nos</span>
+            {% for network in site.social %}
+            <a itemprop="url" class="{{ network.url }}" title="{{ network.url }}" href="{{ network.url }}">
+                <i class="fa fa-{{ network.title }}" aria-hidden="true"></i><span class="screen-reader-text"></span>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</footer>
