@@ -5,13 +5,12 @@ subtitle:   ""
 date:       2018-07-16 12:00:00
 author:     "Rafael Luiz Testa"
 header-img: "img/projects/facial-expression-synthesis/processo-basico.png"
-categories: jekyll
 ---
 O projeto nasce da necessidade de ajudar portadores de distúrbios psiquiátricos a aprenderem reconhecer expressões faciais que representam emoções. Essas pessoas poderiam se beneficiar de um jogo em que elas possam treinar suas habilidades em reconhecer expressões faciais. A ideia por trás do projeto é alterar a imagem de modo a gerar expressões faciais em fotografias para que possam ser utilizadas no jogo. Por exemplo, a pessoa pode escolher a foto de um parente para ser utilizada no jogo. O jogo será capaz de modificar esta foto de maneira que ela fique com a expressão facial da emoção de raiva. Então o jogador deve identificar a emoção qual emoção está sendo expressa na foto.
 
 A ferramenta que altera a expressão facial por detrás deste jogo é o objetivo deste trabalho. Essa alteração da expressão facial da fotografia se baseia em modificar a foto a partir de um exemplo. Ou seja, existe um conjunto de exemplos (banco de expressões faciais) e a ferramenta escolhe aquele que mais se parece com a face fornecida pelo usuário (jogador). Então, são identificadas as alterações referentes a expressão facial na imagem escolhida. Em seguida, essas alterações identificadas são usadas como base para a modificar a imagem fornecida. Por fim, essas modificações da expressão são mescladas a face fornecida de modo gerar a nova imagem contendo a expressão facial desejada, como exemplificado na figura abaixo.
 
-![enter image description here](http://lapis.each.usp.br:1973/wp-content/uploads/2018/04/processo-basico-1.png)
+<img src="/sitelab/img/projects/facial-expression-synthesis/processo-basico.png" style="width: 100%;">
 
 A imagem original pode ser
 encontrada em "
