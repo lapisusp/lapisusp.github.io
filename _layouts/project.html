@@ -20,12 +20,14 @@ layout: default
     </div>
 </header>
 <hr>
+
+
 <!-- Post Content -->
 <article>
     <div id="post" class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		<hr>
+		        <hr>
 
 				{{ content }}
 
@@ -33,6 +35,17 @@ layout: default
 
             </div>
         </div>
+        {% for research in site.researches %}
+            {% if research.project == page.title %}
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <hr>
+                            {{ research.output }}
+                        <hr>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </article>
 

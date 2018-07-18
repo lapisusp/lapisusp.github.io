@@ -19,6 +19,8 @@ social:
 phone: "(11) 3018 1040"
 
 collections:
+  researches:
+    output: false
   projects:
     output: true
     permalink: /project/:name
