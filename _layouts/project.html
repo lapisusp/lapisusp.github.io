@@ -58,10 +58,32 @@ layout: default
             {% if research.project == page.title %}
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                        <hr>
-                            <h2>{{ research.title }}</h2>
-                            {{ research.output }}
-                        <hr>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <hr>
+                                <h2>{{ research.title }}</h2>
+                                     {{ research.output }}
+                                <hr>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Membros:</p>
+                            </div>
+                            <div class="col-md-12">
+                                <ul>
+                                    {% for project_member in research.members %}
+                                        {% for lapis_member in site.members %}
+                                            {% if project_member.name == lapis_member.name %}
+                                                <li>
+                                                    <a href="{{ lapis_member.url | absolute_url }}">{{ lapis_member.name }}</a>
+                                                </li>
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             {% endif %}

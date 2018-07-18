@@ -2,8 +2,9 @@ encoding: utf-8
 
 # Site settings
 title: Laboratório de Aplicações de Informática em Saúde
-email:
+email: fatima.nunes@usp.br
 description: Laboratório de Aplicações de Informática em Saúde
+header-img: "img/code.jpg"
 
 baseurl: "/sitelab" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://renan-vinicius.github.io" # the base hostname & protocol for your site
@@ -19,6 +20,9 @@ social:
 phone: "(11) 3018 1040"
 
 collections:
+  members:
+    output: True
+    permalink: /member/:name
   researches:
     output: false
   projects:
