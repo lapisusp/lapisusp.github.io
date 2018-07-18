@@ -1,29 +1,12 @@
----
-layout:     project
-title:      "Representação de emoções"
-subtitle:   ""
-date:       2018-07-16 12:00:00
-author:     "Rafael Luiz Testa"
-header-img: "img/projects/facial-expression-synthesis/processo-basico.png"
----
-O projeto nasce da necessidade de ajudar portadores de distúrbios psiquiátricos a aprenderem reconhecer expressões faciais que representam emoções. Essas pessoas poderiam se beneficiar de um jogo em que elas possam treinar suas habilidades em reconhecer expressões faciais. A ideia por trás do projeto é alterar a imagem de modo a gerar expressões faciais em fotografias para que possam ser utilizadas no jogo. Por exemplo, a pessoa pode escolher a foto de um parente para ser utilizada no jogo. O jogo será capaz de modificar esta foto de maneira que ela fique com a expressão facial da emoção de raiva. Então o jogador deve identificar a emoção qual emoção está sendo expressa na foto.
-
-A ferramenta que altera a expressão facial por detrás deste jogo é o objetivo deste trabalho. Essa alteração da expressão facial da fotografia se baseia em modificar a foto a partir de um exemplo. Ou seja, existe um conjunto de exemplos (banco de expressões faciais) e a ferramenta escolhe aquele que mais se parece com a face fornecida pelo usuário (jogador). Então, são identificadas as alterações referentes a expressão facial na imagem escolhida. Em seguida, essas alterações identificadas são usadas como base para a modificar a imagem fornecida. Por fim, essas modificações da expressão são mescladas a face fornecida de modo gerar a nova imagem contendo a expressão facial desejada, como exemplificado na figura abaixo.
-
-<img src="/sitelab/img/projects/facial-expression-synthesis/processo-basico.png" style="width: 100%;">
-
-A imagem original pode ser
-encontrada em "
-[Mursi Boy](https://flic.kr/p/21KYU3y)" Ela foi fotografada por
-[Rod Waddington](https://www.flickr.com/photos/rod_waddington/) e está sobre a licença
-[CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/)
-
-
-**Resumo do projeto:**
-
-
-Processar e identificar emoções faciais constituem ações essenciais para estabelecer interação entre pessoas. Alguns transtornos psiquiátricos podem limitar a capacidade de um indivíduo em reconhecer emoções em expressões faciais. A fim de contribuir com a solução deste problema, técnicas computacionais podem ser utilizadas para compor ferramentas destinadas ao diagnóstico, avaliação e treinamento no reconhecimento de tais expressões. Com essa motivação, o objetivo desta proposta é definir, implementar e avaliar um método para sintetizar realisticamente expressões faciais que representam emoções em imagens de pessoas reais. Nos trabalhos encontrados na literatura a principal ideia é que a expressão facial da imagem de uma pessoa pode ser reconstituída na imagem de outra pessoa. A presente proposta difere-se das abordagens apresentadas na literatura ao propor uma técnica que considera a similaridade entre imagens faciais para escolher aquela que será empregada como origem para a reconstituição. Desta maneira, pretende-se aumentar o realismo das imagens sintetizadas. A abordagem sugerida para resolver o problema, além de buscar as faces mais similares em banco de imagens, faz a deformação dos componentes faciais e o mapeamento das diferenças de iluminação na imagem destino. O realismo das imagens geradas será medido por meio da mensuração da similaridade entre a imagem sintetizada e a mesma emoção sendo encenada por um ator, disponível em bancos de imagens públicos. Resultados preliminares mostram que a técnica é promissora na geração das expressões faciais. Além de constituir uma contribuição para a geração de imagens a serem aplicadas em ferramentas de auxílio ao diagnóstico e terapia de distúrbios psiquiátricos, será gerada uma contribuição para a área de Computação, por meio da proposição de novas técnicas de síntese de expressões faciais.
-
-Palavras-chaves: Síntese de Expressão Facial. Animação Facial. Mapeamento de Expressão Facial. Clonagem de Expressão Facial. Transferência de expressão{:}{:en}The ability to process and identify facial emotions are essential factors for an individual's social interaction. Some psychiatric disorders can limit an individual's ability to recognize emotions in facial expressions. This problem could be confronted by usin computational techniques in order to develop learning environments for diagnosis, evaluation and training in identifying facial emotions. The objective of this proposal is to define, implement and evaluate a method to synthesize realistic facial expression that represent emotions in images of real people. The main idea of the studies found in the literature is that a facial expression of one person’s image can be reenacted in an another person’s image. The present proposal differs from the approaches presented in the literature when proposing a technique that considers the similarity between facial images to choose the one that will be used as the origin for reenactment. As a result, we intend to increase the realism of the synthesized images. Our approach to solve the problem, besides searching for the most similar facial components in the image dataset, also deforms the facial elements and maps the differences of illumination in the target image. The realism of the generated images will be measured by similarity between the synthesized image and the same emotion being staged by an actor, available in public image datasets. Preliminary results show that the technique is promising in generating facial expressions. The study will contribute to the generation of the images applied to tools for the diagnosis and therapy of psychiatric disorders, and also contribute to the computational field, through the proposition of new techniques for facial expression synthesis.
-
-Keywords: Facial Expression Synthesis. Facial Animation. Facial Expression Mapping. Facial Expression Cloning. Expression Transfer. Facial Expression Generation.
+---  
+layout:     project  
+title:      "Representação de emoções"  
+date:       2018-07-16 12:00:00  
+author:     "Rafael Luiz Testa"  
+header-img: "img/projects/emotion-representation/sad-smile.jpg"  
+credit-img-author: "Sydney Sims"  
+credit-img-url: "https://unsplash.com/photos/fZ2hMpHIrbI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"  
+credit-img-url: "https://unsplash.com/photos/fZ2hMpHIrbI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"  
+---  
+  
+O projeto nasce da necessidade de ajudar portadores de distúrbios psiquiátricos a aprenderem reconhecer expressões faciais que representam emoções. Essas pessoas poderiam se beneficiar de um jogo em que elas possam treinar suas habilidades em reconhecer expressões faciais. A ideia por de trás do projeto é gerar imagens que possam ser utilizadas no jogo. Essas imagens podem ser caricaturas, modelos 3D ou fotografias depedendo da dificuldade. Por exemplo, a pessoa pode escolher a foto de um parente para ser utilizada no jogo. O jogo será capaz de modificar esta foto de maneira que ela fique com a expressão facial da emoção de raiva. Então o jogador deve identificar a emoção qual emoção está sendo expressa na foto.

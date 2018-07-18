@@ -12,8 +12,7 @@ layout: default
                 {% if page.subtitle %}
                 <h2 class="subheading">{{ page.subtitle }}</h2>
                 {% endif %}
-                <p class="meta">Atualizado por {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} em {{ page.date | date: "%B %-d, %Y" }}</p>
-                <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+                  <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
               </div>
             </div>
         </div>
@@ -21,6 +20,26 @@ layout: default
 </header>
 <hr>
 
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="row">
+                <div class="col-md-6">
+                    {% if page.date %}
+                        <p>Atualizado em {{ page.date | date: "%d/%m/%Y" }}</p>
+                    {% endif %}
+                </div>
+                <div class="col-md-6">
+                    {% if page.credit-img-author and page.credit-img-url %}
+                        <span class="pull-right">
+                            <p>Foto por <a target="_blank" href="{{ page.credit-img-url }}">{{ page.credit-img-author }}</a></p>
+                        </span>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- Post Content -->
 <article>
@@ -40,6 +59,7 @@ layout: default
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                         <hr>
+                            <h2>{{ research.title }}</h2>
                             {{ research.output }}
                         <hr>
                     </div>
