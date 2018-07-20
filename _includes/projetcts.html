@@ -11,7 +11,8 @@
 
 <section class="no-padding">
     <div class="container-fluid">
-      {% for project in site.projects %}
+      {% assign sorted = (site.projects | sort: 'date' | reverse ) %}
+      {% for project in sorted %}
         <div class="row no-gutter">
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ project.url | absolute_url }}" class="portfolio-box">
