@@ -22,10 +22,10 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col">
                         <ul class="list-inline list-social">
                             {% for network in site.social %}
-                            <li class="social-{{ network.title }}">
+                            <li class="list-inline-item social-{{ network.title }}">
                                 <a href="{{ network.url }}" class="btn-social btn-outline">
                                     <i class="fa fa-fw fa-{{ network.title }}"></i>
                                 </a>
@@ -40,4 +40,5 @@
                         width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
+    </div>
 </section>

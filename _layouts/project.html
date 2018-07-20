@@ -6,14 +6,14 @@ layout: default
 <header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="post-heading">
-                <h1>{{ page.title }}</h1>
-                {% if page.subtitle %}
-                <h2 class="subheading">{{ page.subtitle }}</h2>
-                {% endif %}
-                  <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
-              </div>
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+                </div>
             </div>
         </div>
     </div>
@@ -22,16 +22,16 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
             <div class="row">
                 <div class="col-md-6">
                     {% if page.date %}
-                        <p>Atualizado em {{ page.date | date: "%d/%m/%Y" }}</p>
+                    <p>Atualizado em {{ page.date | date: "%d/%m/%Y" }}</p>
                     {% endif %}
                 </div>
                 <div class="col-md-6">
                     {% if page.credit-img-author and page.credit-img-url %}
-                        <span class="pull-right">
+                    <span class="float-right">
                             <p>Foto por <a target="_blank" href="{{ page.credit-img-url }}">{{ page.credit-img-author }}</a></p>
                         </span>
                     {% endif %}
@@ -45,48 +45,48 @@ layout: default
 <article>
     <div id="post" class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		        <hr>
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <hr>
 
-				{{ content }}
+                {{ content }}
 
                 <hr>
 
             </div>
         </div>
         {% for research in site.researches %}
-            {% if research.project == page.title %}
+        {% if research.project == page.title %}
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <hr>
-                                <h2>{{ research.title }}</h2>
-                                     {{ research.output }}
-                                <hr>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <p>Membros:</p>
-                            </div>
-                            <div class="col-md-12">
-                                <ul>
-                                    {% for project_member in research.members %}
-                                        {% for lapis_member in site.members %}
-                                            {% if project_member.name == lapis_member.name %}
-                                                <li>
-                                                    <a href="{{ lapis_member.url | absolute_url }}">{{ lapis_member.name }}</a>
-                                                </li>
-                                            {% endif %}
-                                        {% endfor %}
-                                    {% endfor %}
-                                </ul>
-                            </div>
-                        </div>
+                    <div class="col-md-12">
+                        <hr>
+                        <h2>{{ research.title }}</h2>
+                        {{ research.output }}
+                        <hr>
                     </div>
                 </div>
-            {% endif %}
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>Membros:</p>
+                    </div>
+                    <div class="col-md-12">
+                        <ul>
+                            {% for project_member in research.members %}
+                            {% for lapis_member in site.members %}
+                            {% if project_member.name == lapis_member.name %}
+                            <li>
+                                <a href="{{ lapis_member.url | absolute_url }}">{{ lapis_member.name }}</a>
+                            </li>
+                            {% endif %}
+                            {% endfor %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
         {% endfor %}
     </div>
 </article>
@@ -95,40 +95,40 @@ layout: default
 
 {% if site.disqus_account %}
 <article>
-  <div id="disqus" class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div id="disqus" class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
 
-      <h2 class="section-heading">Leave a comment! We <i style="color:red"class="fa fa-heart"></i> it!</h2>
+                <h2 class="section-heading">Leave a comment! We <i style="color:red"class="fa fa-heart"></i> it!</h2>
 
-      <script id="dsq-count-scr" src="//{{ site.disqus_account }}.disqus.com/count.js" async></script>
+                <script id="dsq-count-scr" src="//{{ site.disqus_account }}.disqus.com/count.js" async></script>
 
 
-      <div id="disqus_thread"></div>
-      <script>
+                <div id="disqus_thread"></div>
+                <script>
 
-      /**
-      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-      /*
-      var disqus_config = function () {
-      this.page.url = {{ post.url | prepend: site.baseurl }};  // Replace PAGE_URL with your page's canonical URL variable
-      this.page.identifier = {{ post.title | prepend: site.baseurl }};; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
+                    /**
+                     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                    /*
+                    var disqus_config = function () {
+                    this.page.url = {{ post.url | prepend: site.baseurl }};  // Replace PAGE_URL with your page's canonical URL variable
+                    this.page.identifier = {{ post.title | prepend: site.baseurl }};; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                  };
+                  */
 
-      (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = '//{{ site.disqus_account }}.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-      })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    (function() { // DON'T EDIT BELOW THIS LINE
+                        var d = document, s = d.createElement('script');
+                        s.src = '//{{ site.disqus_account }}.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
+            </div>
+        </div>
     </div>
-  </div>
-</div>
 </article>
 
 <hr>

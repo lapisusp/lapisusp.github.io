@@ -5,15 +5,15 @@ layout: default
 <header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="post-heading">
-                  {% if page.photo %}
-                    <img src="{{ page.photo | absolute_url }}" class="img-thumbnail pull-left member-photo">
-                  {% endif %}
-                  <h1>{{ page.name }}</h1>
-                  <h2>{{ page.membership }}</h2>
-                  <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
-              </div>
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <div class="post-heading">
+                    {% if page.photo %}
+                    <img src="{{ page.photo | absolute_url }}" class="img-thumbnail float-left member-photo">
+                    {% endif %}
+                    <h1>{{ page.name }}</h1>
+                    <h2>{{ page.membership }}</h2>
+                    <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+                </div>
             </div>
         </div>
     </div>
@@ -22,16 +22,16 @@ layout: default
 
 <div class="container">
     <div id="info" class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
             <div class="row">
                 <div class="col-md-6">
                     {% if page.date %}
-                        <p>Atualizado em {{ page.update | date: "%d/%m/%Y" }}</p>
+                    <p>Atualizado em {{ page.update | date: "%d/%m/%Y" }}</p>
                     {% endif %}
                 </div>
                 <div class="col-md-6">
                     {% if page.credit-img-author and page.credit-img-url %}
-                        <span class="pull-right">
+                    <span class="float-right">
                             <p>Foto por <a target="_blank" href="{{ page.credit-img-url }}">{{ page.credit-img-author }}</a></p>
                         </span>
                     {% endif %}
@@ -45,19 +45,19 @@ layout: default
 <article>
     <div lass="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 {% if page.lattes %}
-                    <a class="btn btn-default btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/icon-lattes.png' | absolute_url }}"> Lattes</a>
+                <a class="btn btn-secondary btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/icon-lattes.png' | absolute_url }}"> Lattes</a>
                 {% endif %}
                 {% if page.mail %}
-                    <a class="btn btn-default btn-large" href="mailto:{{ page.mail }}" target="_top"> <i class="fa fa-envelope"></i> {{ page.mail }}</a>
+                <a class="btn btn-secondary btn-large" href="mailto:{{ page.mail }}" target="_top"> <i class="fa fa-envelope"></i> {{ page.mail }}</a>
                 {% endif %}
                 {% if page.phone %}
-                    <a class="btn btn-default btn-large" href="tel:{{ page.phone }}" target="_top"> <i class="fa fa-phone"></i> {{ page.phone }}</a>
+                <a class="btn btn-secondary btn-large" href="tel:{{ page.phone }}" target="_top"> <i class="fa fa-phone"></i> {{ page.phone }}</a>
                 {% endif %}
                 <hr>
 
-				{{ content }}
+                {{ content }}
 
                 <hr>
 

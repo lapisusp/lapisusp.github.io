@@ -1,19 +1,11 @@
 <footer>
     <div class="container">
         <div id="logos" class="row">
-            <div class="col-md-12">
-                <img src="{{ '/img/usp-branco-ok.png' | absolute_url }}">
-                <img src="{{ '/img/each-branco-ok.png' | absolute_url }}">
-                <p>Laboratório conveniado ao MACC.</p>
+            <div class="col">
+                <a href="http://usp.br/"><img src="{{ '/img/usp-branco-ok.png' | absolute_url }}"></a>
+                <a href="http://each.usp.br//"><img src="{{ '/img/each-branco-ok.png' | absolute_url }}"></a>
+                <div class="mt-2"><a href="https://macc.lncc.br/">Laboratório conveniado ao MACC.</a></div>
             </div>
-        </div>
-        <div class="row">
-            <span class="social-bar-text">Acompanhe-nos</span>
-            {% for network in site.social %}
-            <a itemprop="url" class="{{ network.url }}" title="{{ network.url }}" href="{{ network.url }}">
-                <i class="fa fa-{{ network.title }}" aria-hidden="true"></i><span class="screen-reader-text"></span>
-            </a>
-            {% endfor %}
         </div>
     </div>
 </footer>
