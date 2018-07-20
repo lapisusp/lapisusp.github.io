@@ -15,7 +15,12 @@
         <div class="row no-gutter">
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ project.url | absolute_url }}" class="portfolio-box">
-                    <img src="{{ project.header-img | absolute_url }}" class="img-responsive" alt="">
+                    {% if project.header-img %}
+                        {% assign img = project.header-img  %}
+                    {% elsif site.header-img %}
+                        {% assign img = site.header-img  %}
+                    {% endif %}
+                    <img src="{{ img | absolute_url }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-name">
