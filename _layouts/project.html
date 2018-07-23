@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-
+{% if page.header-img %}
+    {% assign header-img = page.header-img %}
+{% else %}
+    {% assign header-img = site.header-img %}
+{% endif %}'
 <!-- Post Header -->
-<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
