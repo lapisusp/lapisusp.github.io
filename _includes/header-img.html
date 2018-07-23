@@ -1,0 +1,29 @@
+{% if page.header-img %}
+{% assign header-img = page.header-img %}
+{% else %}
+{% assign header-img = site.header-img %}
+{% endif %}
+
+{% unless title %}
+    {% assign title = page.title %}
+{% endunless %}
+
+<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <div class="post-heading">
+                    {% if page.photo %}
+                        <img src="{{ page.photo | absolute_url }}" class="img-thumbnail float-left member-photo">
+                    {% endif %}
+                    <h1>{{ title }}</h1>
+                    {% if subtitle %}
+                    <h2 class="subheading">{{ subtitle }}</h2>
+                    {% endif %}
+                    <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<hr>

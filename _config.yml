@@ -24,7 +24,8 @@ collections:
     output: True
     permalink: /member/:name
   researches:
-    output: false
+    output: true
+    permalink: /research/:name
   projects:
     output: true
     permalink: /project/:name
@@ -34,7 +35,17 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: project
+      layout: "project"
+  - scope:
+      path: ""
+      type: "researches"
+    values:
+      layout: "research"
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
 
 # Build settings
 markdown: kramdown

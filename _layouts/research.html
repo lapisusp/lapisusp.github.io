@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% assign subtitle = page.project %}
+
+{% include header-img.html %}
+
+{% include pre-info.html %}
+
+<div class="row">
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+        <hr>
+
+        <div class="row">
+            <div class="col">
+                <h2>{{ page.title }}</h2>
+                <hr>
+
+                {{ content }}
+
+                <hr>
+            </div>
+        </div>
+        {% if page.members %}
+        <div class="row">
+            <div class="col">
+                <p>Membros:</p>
+            </div>
+        </div>
+        <div class="row">
+            {% for project_member in page.members %}
+                {% for lapis_member in site.members %}
+                    {% if project_member.name == lapis_member.name %}
+                        {% assign member=lapis_member %}
+                        {% include member.html %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+        <hr>
+        {% endif %}
+
+    </div>
+</div>
+

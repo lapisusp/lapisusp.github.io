@@ -1,0 +1,17 @@
+<div class="card-columns">
+    {% assign sorted = (cards | sort: 'date' | reverse ) %}
+    {% for project in sorted %}
+    {% if project.header-img %}
+    {% assign img = project.header-img %}
+    {% elsif site.header-img %}
+    {% assign img = site.header-img %}
+    {% endif %}
+    <div class="card">
+        <img class="card-img-top" src="{{ img | absolute_url }}">
+        <div class="card-body">
+            <a href="{{ project.url | absolute_url }}"><h4 class="card-title text-center">{{ project.title
+                }}</h4></a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

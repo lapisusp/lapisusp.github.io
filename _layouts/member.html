@@ -1,24 +1,10 @@
 ---
 layout: default
 ---
-<!-- Post Header -->
-<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                <div class="post-heading">
-                    {% if page.photo %}
-                    <img src="{{ page.photo | absolute_url }}" class="img-thumbnail float-left member-photo">
-                    {% endif %}
-                    <h1>{{ page.name }}</h1>
-                    <h2>{{ page.membership }}</h2>
-                    <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-<hr>
+{% assign title = page.name %}
+{% assign subtitle = page.membership %}
+
+{% include header-img.html %}
 
 {% include pre-info.html %}
 
