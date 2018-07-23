@@ -1,6 +1,6 @@
 ---
 title: Sistema para recuperação de imagens por conteúdo para Internet
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Recuperação Baseada em Conteúdo"
 members:
   - "Rafael Roberto da Cruz Moraes"

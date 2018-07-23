@@ -1,7 +1,7 @@
 ---
 title: Implementação de Módulo de Avaliação da Aprendizagem em uma ferramenta Virtual
   para Treinamento Médico
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Leonardo Castro Botega"

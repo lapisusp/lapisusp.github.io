@@ -1,7 +1,7 @@
 ---
 title: Recuperação de imagens por conteúdo utilizando Lógica Fuzzy - um estudo de
   caso sobre imagens faciais
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Recuperação Baseada em Conteúdo"
 members:
   - "Leila Cristina Carneiro Bergamasco"

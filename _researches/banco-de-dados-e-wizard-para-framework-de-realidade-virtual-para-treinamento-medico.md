@@ -1,7 +1,7 @@
 ---
 title: Banco de dados e wizard para framework de realidade virtual para treinamento
   médico
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Danilo Justo Rossatto"

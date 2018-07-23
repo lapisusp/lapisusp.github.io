@@ -1,7 +1,7 @@
 ---
 title: 'MoVER: Serious Game aplicado à reabilitação motora usando sensor de movimento
   Kinect'
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Jogos Sérios"
 members:
   - "Valdir D. S. Júnior"

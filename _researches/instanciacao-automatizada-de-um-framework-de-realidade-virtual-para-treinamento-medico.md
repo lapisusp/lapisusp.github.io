@@ -1,7 +1,7 @@
 ---
 title: Instanciação automatizada de um framework de Realidade Virtual para treinamento
   médico
-date: '2016-01-07'
+update: '2016-01-07'
 
 ---
 

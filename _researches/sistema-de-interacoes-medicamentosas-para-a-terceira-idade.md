@@ -1,6 +1,6 @@
 ---
 title: Sistema de Interações Medicamentosas para a Terceira Idade
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Sistemas de Informação"
 members:
   - "Aline Cristina Machado"

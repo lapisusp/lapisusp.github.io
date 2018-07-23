@@ -1,6 +1,6 @@
 ---
 title: Geração de casos para teste de sistemas de realidade virtual com retorno háptico
-date: '2016-01-07'
+update: '2016-01-07'
 
 ---
 

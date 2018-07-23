@@ -1,6 +1,6 @@
 ---
 title: Recuperação de vídeos usando características de imagem e som
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Recuperação Baseada em Conteúdo"
 members:
   - "Vagner Mendonça Gonçalves"

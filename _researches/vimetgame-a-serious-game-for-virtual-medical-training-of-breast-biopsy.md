@@ -1,6 +1,6 @@
 ---
 title: 'ViMeTGame: A serious game for virtual medical training of breast biopsy'
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Jogos Sérios"
 members:
   - "Rafael Siqueira Torres"

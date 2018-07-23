@@ -1,6 +1,6 @@
 ---
 title: Recuperação de Imagens Cardíacas Tridimensionais por Conteúdo
-date: '2016-01-07'
+update: '2016-01-07'
 members:
   - "Leila Cristina Carneiro Bergamasco"
   - "Fátima L. S. Nunes"

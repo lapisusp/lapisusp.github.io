@@ -1,7 +1,7 @@
 ---
 title: Comparação de técnicas de segmentação de estruturas cardíacas em imagens de
   RMN e TC
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Processamento de Imagens"
 members:
   - "Rafael Siqueira Torres"

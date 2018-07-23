@@ -1,6 +1,6 @@
 ---
 title:      "Geração de caricaturas"
-date:       2018-07-16 12:00:00
+update:       2018-07-16 12:00:00
 project: "Representação de emoções"
 members:
     - name: "Liseth Urpy Segundo Carpio"

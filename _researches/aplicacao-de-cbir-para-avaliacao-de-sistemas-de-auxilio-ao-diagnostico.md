@@ -1,6 +1,6 @@
 ---
 title: Aplicação de CBIR para avaliação de sistemas de auxílio ao diagnóstico
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Recuperação Baseada em Conteúdo"
 members:
   - "Vagner Mendonça Gonçalves"

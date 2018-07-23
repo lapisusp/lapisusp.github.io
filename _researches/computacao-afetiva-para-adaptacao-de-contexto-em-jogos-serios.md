@@ -1,7 +1,7 @@
 ---
 title: 'EasyAffecta: um framework baseado em Computação Afetiva para adaptação automática
   de jogos sérios para reabilitação motora'
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Jogos Sérios"
 members:
   - "Renan Vinicius Aranha"

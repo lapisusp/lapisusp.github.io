@@ -1,6 +1,6 @@
 ---
 title: Aplicando aspectos imersivos em um Serious Game para treinamento médico virtual
-date: '2016-01-06'
+update: '2016-01-06'
 project: "Jogos Sérios"
 members:
   - "Rafael Siqueira Torres"

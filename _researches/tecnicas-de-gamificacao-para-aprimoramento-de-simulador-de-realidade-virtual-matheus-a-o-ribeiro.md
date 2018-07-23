@@ -1,6 +1,6 @@
 ---
 title: Técnicas de gamificação para aprimoramento de simulador de Realidade Virtual
-date: '2017-05-24'
+update: '2017-05-24'
 project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Matheus de Lara Ribeiro"

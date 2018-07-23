@@ -1,7 +1,7 @@
 ---  
 layout:     project  
 title:      "Representação de emoções"  
-date:       2018-07-16 12:00:00  
+update:       2018-07-16 12:00:00  
 author:     "Rafael Luiz Testa"  
 header-img: "img/projects/emotion-representation/sad-smile.jpg"  
 credit-img-author: "Sydney Sims"  

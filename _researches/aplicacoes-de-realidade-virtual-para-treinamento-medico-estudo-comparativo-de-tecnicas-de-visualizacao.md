@@ -1,7 +1,7 @@
 ---
 title: 'Aplicações de Realidade Virtual para Treinamento Médico: estudo comparativo
   de Técnicas de visualização'
-date: '2016-01-07'
+update: '2016-01-07'
 project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Marcela Braga Afonso"
