@@ -1,0 +1,13 @@
+<div class="col text-center">
+    <a href="{{ member.url | absolute_url }}">
+        <div class="member-box">
+            {% if member.photo %}
+            <img src="{{ member.photo | absolute_url }}" class="rounded member-thumb">
+            {% else %}
+            <i class="fa fa-5x fa-user wow bounceIn text-primary"></i>
+            {% endif %}
+            <h3>{{ member.name }}</h3>
+            <p class="text-muted">{{ member.membership }}</p>
+        </div>
+    </a>
+</div>

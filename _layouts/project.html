@@ -67,22 +67,19 @@ layout: default
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col">
                         <p>Membros:</p>
                     </div>
-                    <div class="col-md-12">
-                        <ul>
-                            {% for project_member in research.members %}
-                            {% for lapis_member in site.members %}
+                </div>
+                <div class="row">
+                    {% for project_member in research.members %}
+                        {% for lapis_member in site.members %}
                             {% if project_member.name == lapis_member.name %}
-                            <li>
-                                <a href="{{ lapis_member.url | absolute_url }}">{{ lapis_member.name }}</a>
-                            </li>
+                                {% assign member=lapis_member %}
+                                {% include member.html %}
                             {% endif %}
-                            {% endfor %}
-                            {% endfor %}
-                        </ul>
-                    </div>
+                        {% endfor %}
+                    {% endfor %}
                 </div>
             </div>
         </div>
