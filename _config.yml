@@ -45,6 +45,7 @@ defaults:
       type: "members"
     values:
       layout: "member"
+      type: "member"
   - scope:
       type: "members"
     values:

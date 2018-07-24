@@ -1,5 +1,7 @@
 {% if page.header-img %}
 {% assign header-img = page.header-img %}
+{% elsif site.data.imgs.defaults[page.type] %}
+{% assign header-img = site.data.imgs.defaults[page.type] %}
 {% else %}
 {% assign header-img = site.header-img %}
 {% endif %}
