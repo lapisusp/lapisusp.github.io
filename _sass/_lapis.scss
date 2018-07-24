@@ -96,8 +96,16 @@ p{
   font-family: 'Raleway', sans-serif;
 }
 
+.member-box p{
+  font-family: 'Raleway', sans-serif;
+}
+
 .member-box:hover{
   background: #f0f0f0;
+  text-transform: none;
+}
+
+.member-box:hover a{
   text-transform: none;
 }
 
