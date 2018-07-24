@@ -90,6 +90,14 @@ p{
 
 /* Listagem de membros */
 
+.member-box{
+  height: 150px;
+}
+
+.member-box:hover{
+  background: #f0f0f0;
+}
+
 .member-box img{
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
