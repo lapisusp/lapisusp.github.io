@@ -1,14 +1,5 @@
 <section id="members">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ site.data.nav.members[page.language] }}</h2>
-                <hr class="primary">
-                <br />
-            </div>
-        </div>
-    </div>
-    <div class="container">
         {{ page.lang }}
         {% assign members = site.members | where:"language", page.language %}
         {% assign members = (members | sort: 'order') %}
@@ -19,7 +10,7 @@
             {% endif %}
             {% include member.html %}
             {% assign counter=counter | plus:1 %}
-            {% if counter == 5 %}
+            {% if counter == 4 %}
             {% assign counter = 0 %}
         </div>
         {% endif %}
