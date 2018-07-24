@@ -6,9 +6,9 @@ project: "Computação Afetiva"
 members:
   - "Renan Vinicius Aranha"
   - "Fátima L. S. Nunes"
-header-img: "img/projects/emotion-representation/sad-smile.jpg"  
-credit-img-author: "Sydney Sims"  
-credit-img-url: "https://unsplash.com/photos/fZ2hMpHIrbI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"  
+header-img: "img/projects/game.jpg"  
+credit-img-author: "Kelly Sikkema"  
+credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
 ---
 A utilização de jogos sérios tem chamado a atenção de pesquisadores e profissionais da área de saúde por extrapolarem o objetivo de entretenimento, em geral incluindo metas de aprendizagem e/ou treinamento. Apesar de promissor, o desenvolvimento de um jogo sério é um processo complexo e muitas vezes não apresenta resultados eficientes no sentido de manter o interesse do jogador no propósito definido.
 
