@@ -64,5 +64,13 @@ p{
 }
 
 #header{
-  background-attachment:fixed;
+  position: relative;
 }
+
+.overlay{
+  position: absolute;
+  height: 100%;
+  background: #000;
+  width: 100%;
+}
+    opacity: 0.4;
