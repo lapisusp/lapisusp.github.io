@@ -44,3 +44,8 @@ h1, h2{
   color: orange;
   font-family: 'Raleway', sans-serif;
 }
+
+.card-columns .card{
+  height: 400px;
+  overflow: hidden;
+}
