@@ -2,7 +2,7 @@
     <a href="{{ member.url | absolute_url }}">
         <div class="member-box col-lg-4 col-sm-12">
             {% if member.photo %}
-            <img src="{{ member.photo | absolute_url }}" class="img-rounded member-thumb">
+            <img src="{{ member.photo | absolute_url }}" class="rounded member-thumb">
             {% else %}
             <i class="fa fa-5x fa-user wow bounceIn text-primary"></i>
             {% endif %}
