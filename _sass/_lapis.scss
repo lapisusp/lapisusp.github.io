@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 #logos img {
   margin-left: 15px;
@@ -48,4 +49,8 @@ h1, h2{
 .card-columns .card{
   height: 500px;
   overflow: hidden;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
 }
