@@ -1,16 +1,8 @@
+{% if page.date %}
 <div class="container">
     <div id="info" class="row">
-        <div class="col-lg-12 col-md-12">
-            <div class="row">
-                <div class="col">
-                    {% if page.date %}
+        <div class="col-lg-12 col-md-12">                    
                     <p>{{ site.data.pre-info.update[page.language] }} {{ page.update | date: "%d/%m/%Y" }}</p>
-                    {% endif %}
-                </div>
-                <div class="col">
-                 
-                </div>
-            </div>
         </div>
     </div>
 </div>
