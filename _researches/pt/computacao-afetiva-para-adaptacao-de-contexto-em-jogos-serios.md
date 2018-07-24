@@ -11,7 +11,3 @@ A utilização de jogos sérios tem chamado a atenção de pesquisadores e profi
 
 Neste contexto, este projeto de pesquisa tem o objetivo de definir técnicas para adaptar automaticamente e em tempo real os roteiros de jogos sérios usando conceitos de Computação Afetiva. A proposta baseia-se na premissa de que, considerando o estado emocional de cada usuário, será possível adaptar o jogo sério conforme suas necessidades, ampliando a experiência de uso e mantendo o usuário engajado na utilização da aplicação.
 A proposta consiste em um framework que reduz o custo de implementação da adaptação afetiva em jogos ao programador e permite que o fisioterapeuta configure as adaptações que serão executadas no jogo conforme o perfil dos pacientes.
-
-Orientadora: Profa. Dra. Fátima de Lourdes dos Santos Nunes Marques
-
-Orientando: Renan Vinicius Aranha
