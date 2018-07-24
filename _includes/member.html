@@ -2,12 +2,16 @@
     <a href="{{ member.url | absolute_url }}">
         <div class="member-box">
             {% if member.photo %}
-            <img src="{{ member.photo | absolute_url }}" class="rounded member-thumb membro-foto">
+            <div class="member-photo-area"> 
+                <img src="{{ member.photo | absolute_url }}" class="rounded member-thumb membro-foto">
+            </div>
             {% else %}
             <i class="fa fa-5x fa-user wow bounceIn text-primary"></i>
             {% endif %}
-            <h4 class="membro-nome">{{ member.name }}</h3>
-            <p class="text-muted membro-vinculo">{{ member.membership }}</p>
+            <div class="member-details">
+                <h4 class="member-name">{{ member.name }}</h3>
+                <p class="text-muted member-type">{{ member.membership }}</p>
+            </div>
         </div>
     </a>
 </div>
