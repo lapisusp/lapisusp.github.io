@@ -39,12 +39,16 @@ h1, h2{
 
 .post-heading h1{
   font-weight: 900;
+  text-align:left;
+  margin-bottom: 20px;
 }
 
 .intro-header .post-heading .subheading{
   color: orange;
   font-family: 'Raleway', sans-serif;
   text-transform: lowercase;
+  margin: 10px;
+  text-align: left;
 }
 
 .card-columns .card{
