@@ -1,2 +1,2 @@
-{% assign cards = site.researches | where: "project", page.title %}
+{% assign cards = site.researches | where: "project", page.title | where:"language", page.language %}
 {% include cards.html %}

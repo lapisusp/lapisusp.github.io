@@ -22,7 +22,6 @@ phone: "(11) 3018 1040"
 collections:
   members:
     output: True
-    permalink: /member/:name
   researches:
     output: true
     permalink: /research/:name
@@ -46,6 +45,41 @@ defaults:
       type: "members"
     values:
       layout: "member"
+  - scope:
+      type: "members"
+    values:
+      language: "pt"
+      permalink: /pt/member/:name/
+  - scope:
+      path: "_members/en"
+      type: "members"
+    values:
+      language: "en"
+      permalink: /en/member/:name/
+  - scope:
+      path: "_projects/pt"
+      type: "projects"
+    values:
+      language: "pt"
+      permalink: /pt/project/:name/
+  - scope:
+      path: "_projects/en"
+      type: "projects"
+    values:
+      language: "en"
+      permalink: /en/project/:name/
+  - scope:
+      path: "_researches/pt"
+      type: "researches"
+    values:
+      language: "pt"
+      permalink: /pt/research/:name/
+  - scope:
+      path: "_researches/en"
+      type: "researches"
+    values:
+      language: "en"
+      permalink: /en/research/:name/
 
 # Build settings
 markdown: kramdown

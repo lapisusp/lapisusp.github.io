@@ -11,7 +11,7 @@
 
 <section class="no-padding">
     <div class="container-fluid">
-        {% assign cards = site.projects %}
+        {% assign cards = site.projects | where:"language", page.language %}
         {% include cards.html %}
     </div>
 </section>

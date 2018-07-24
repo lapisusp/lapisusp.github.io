@@ -9,7 +9,9 @@
         </div>
     </div>
     <div class="container">
-        {% assign members = (site.members | sort: 'order') %}
+        {{ page.lang }}
+        {% assign members = site.members | where:"language", page.language %}
+        {% assign members = (members | sort: 'order') %}
         {% assign counter = 0 %}
         {% for member in members %}
         {% if counter == 0 %}
