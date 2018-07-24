@@ -12,13 +12,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ page.url | append: '#projects' | absolute_url }}">{{ site.data.nav.projects[page.language] }}</a>
+                    <a class="nav-link js-scroll-trigger" href="{{ page.language | append: '/#projects' | absolute_url }}">{{ site.data.nav.projects[page.language] }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ page.url | append: '#members' | absolute_url }}">{{ site.data.nav.members[page.language] }}</a>
+                    <a class="nav-link js-scroll-trigger" href="{{ page.language | append: '/#members' | absolute_url }}">{{ site.data.nav.members[page.language] }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="{{ page.url | append: '#contact' | absolute_url }}">{{ site.data.nav.contact[page.language] }}</a>
+                    <a class="nav-link js-scroll-trigger" href="{{ page.language | append: '/#contact' | absolute_url }}">{{ site.data.nav.contact[page.language] }}</a>
                 </li>
             </ul>
         </div>
