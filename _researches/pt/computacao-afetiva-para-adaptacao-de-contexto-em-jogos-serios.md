@@ -6,7 +6,7 @@ project: "Computação Afetiva"
 members:
   - "Renan Vinicius Aranha"
   - "Fátima L. S. Nunes"
-header-img: "img/projects/game.jpg"  
+header-img: "img/game.jpg"  
 credit-img-author: "Kelly Sikkema"  
 credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
 ---
