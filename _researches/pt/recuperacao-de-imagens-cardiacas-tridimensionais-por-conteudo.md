@@ -13,6 +13,7 @@ links:
       url: "files/researches/ConducaoACM.pdf"
     - name: "Dissertação"
       url: "files/researches/Protocolo.pdf"
+project:      "Recuperação Baseada em Conteúdo"
 ---
 Os modelos tridimensionais fornecem uma visão mais completa dos objetos analisados por considerar a profundidade de cada um deles. Com o crescimento de modelos tridimensionais disponíveis atualmente na área de saúde, se faz necessária a implementação de mecanismos eficientes de busca, que ofereçam formas alternativas para localizar casos de pacientes com determinadas características. A disponibilização de um histórico de imagens similares em relação àquelas pertencentes ao exame do paciente pode auxiliar no diagnóstico oferecendo casos semelhantes. O presente projeto visa a desenvolver técnicas para recuperação de imagens médicas tridimensionais com base em seu
 conteúdo, com foco no contexto médico, mais especificamente na área cardíaca.

@@ -5,5 +5,6 @@ update: "2016-01-07"
 members:
   - "Everton Note Narciso"
   - "Fátima L. S. Nunes"
+project:      "Recuperação Baseada em Conteúdo"
 ---
 

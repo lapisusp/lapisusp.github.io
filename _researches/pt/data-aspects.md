@@ -27,8 +27,8 @@ Orientada a Aspectos (POA). Assim, neste projeto foi empregado os conceitos de P
 implementar um módulo de registro de dados de interação em um sistema destinado a avaliar
 a aquisição de conhecimento em AVAs.
 
-![Módulo de Monitoramento das Interações dos Usuários]({{ "img/projects/antigos/poa-metodo.png" | absolute_url }})
-![Sistema de Avaliação da Aprendizagem (perfil avaliador) – cadastro nova interação]({{ "img/projects/antigos/poa-ex.jpg" | absolute_url }})
+{% include image.html file="img/projects/antigos/poa-metodo.png" alt="Módulo de Monitoramento das Interações dos Usuários" %}
+{% include image.html file="img/projects/antigos/poa-ex.jpg" alt="Sistema de Avaliação da Aprendizagem (perfil avaliador) – cadastro nova interação" %}
 
 **Palavras-chave**: monitoramento das interações, avaliação da aprendizagem, Ambientes
 Virtuais de Aprendizagem Tridimensionais.
