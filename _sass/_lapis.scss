@@ -133,7 +133,7 @@ p{
 .card{
   border:none;
   border: 1px solid #ddd;
-  border-top: 4px solid orange;
+  border-top: 0px solid orange;
   height: 250px;
   overflow: hidden;
 }
@@ -167,7 +167,8 @@ p{
 
 /* Section */
 
-#researchprojects h2.section-heading"{
+#researchprojects h2.section-heading{
   font-family: 'Raleway', sans-serif;
   font-weight: 900;
+  text-align: center;
 }
