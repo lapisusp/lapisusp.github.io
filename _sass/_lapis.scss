@@ -84,6 +84,14 @@ p{
   opacity: 0.7;
 }
 
+a {
+  color: orange;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
 /* Listagem de membros */
 
 .member-box{
