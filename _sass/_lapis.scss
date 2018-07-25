@@ -51,11 +51,6 @@ h1, h2{
   text-align: left;
 }
 
-.card-columns .card{
-  height: 400px;
-  overflow: hidden;
-}
-
 p{
   font-family: 'Roboto', sans-serif;
 }
@@ -137,9 +132,10 @@ p{
 
 .card{
   border:none;
-  border-top: 2px solid orange;
   border: 1px solid #ddd;
+  border-top: 4px solid orange;
   height: 200px;
+  overflow: hidden;
 }
 
 .card img{
