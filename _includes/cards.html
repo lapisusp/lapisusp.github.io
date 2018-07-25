@@ -1,5 +1,5 @@
 <div class="card-columns">
-    {% assign sorted = (cards | sort: 'date' | reverse ) %}
+    {% assign sorted = (cards | sort: 'update' | reverse ) %}
     {% for project in sorted %}
     {% if project.img-thumb %}
     {% assign img = project.img-thumb %}
