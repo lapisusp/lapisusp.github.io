@@ -1,10 +1,17 @@
 ---
 title: Aplicação de CBIR para avaliação de sistemas de auxílio ao diagnóstico
-update: '2016-01-06'
+update: "2016-01-06"
 project: "Recuperação Baseada em Conteúdo"
 members:
   - "Vagner Mendonça Gonçalves"
   - "Fátima L. S. Nunes"
+links:
+    - name: "Biblioteca"
+      url: "http://www.bv.fapesp.br/pt/bolsas/75157/aplicacao-cbir-avaliacao-sistemas-auxilio/"
+    - name: "Feature Extractors"
+      url: "files/researches/FeatureExtractors.rar"
+    - name: "Similarity Functions"
+      url: "files/researches/SimilarityFunctions.rar"
 ---
 
 **Resumo**
@@ -41,8 +48,4 @@ Computer-Aided Diagnosis (CAD) systems are systems aiming at providing a second 
 
 **Conclusões.**
  O trabalho contribui com a especificação de uma metodologia objetiva de avaliação para esquemas de CAD e sistemas de segmentação de imagens. Os resultados obtidos são relevantes e demonstram uma abordagem inovadora, com grande potencial para aplicação.
-
-<a href="http://www.bv.fapesp.br/pt/bolsas/75157/aplicacao-cbir-avaliacao-sistemas-auxilio/" class="btn btn-outline-primary">Biblioteca Virtual do CDI-FAPESP</a>
-<a href="{{ 'files/researches/FeatureExtractors.rar' | absolute_url }}" class="btn btn-outline-primary">Feature Extractors</a>
-<a href="{{ 'files/researches/SimilarityFunctions.rar' | absolute_url }}" class="btn btn-outline-primary">Similarity Functions</a>
 

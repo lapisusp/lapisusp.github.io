@@ -1,6 +1,6 @@
 ---
-title: 'EasyAffecta: vídeos'
-update: '2017-04-26'
+title: "EasyAffecta: vídeos"
+update: "2017-04-26"
 project: "Jogos Sérios"
 members:
   - "Renan Vinicius Aranha"

@@ -1,6 +1,6 @@
 ---
 title: Técnicas de gamificação para aprimoramento de simulador de Realidade Virtual
-update: '2017-05-24'
+update: "2017-05-24"
 project: "Jogos Sérios"
 members:
   - "Matheus de Lara Ribeiro"
@@ -29,9 +29,9 @@ Elementos de gamificação adicionados:
 Imagens do jogo sério:
 
 
-![menuInicial]({{ 'img/projects/antigos/menuInicial.png' | absolute_url }})
+![menuInicial]({{ "img/projects/antigos/menuInicial.png" | absolute_url }})
 
-![jogoEmAcao]({{ 'img/projects/antigos/jogoEmAcao.png' | absolute_url }})
+![jogoEmAcao]({{ "img/projects/antigos/jogoEmAcao.png" | absolute_url }})
 
 <object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/bMHrQ-WiC50">
 </object>

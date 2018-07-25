@@ -1,6 +1,6 @@
 ---
-title: 'Um framework de Computação Afetiva para adaptação automática de jogos sérios para reabilitação motora'
-update: '2016-01-06'
+title: "Um framework de Computação Afetiva para adaptação automática de jogos sérios para reabilitação motora"
+update: "2016-01-06"
 project: "Computação Afetiva"
 members:
   - name: "Renan Vinicius Aranha"

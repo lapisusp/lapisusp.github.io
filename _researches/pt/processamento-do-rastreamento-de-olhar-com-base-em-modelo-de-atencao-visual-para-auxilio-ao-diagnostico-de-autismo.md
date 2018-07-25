@@ -1,7 +1,7 @@
 ---
 title: Processamento do rastreamento de olhar com base em modelo de atenção visual
   para auxílio ao diagnóstico de autismo
-update: '2016-01-07'
+update: "2016-01-07"
 project: "Processamento de Imagens"
 members:
   - "Jéssica dos Santos Oliveira"

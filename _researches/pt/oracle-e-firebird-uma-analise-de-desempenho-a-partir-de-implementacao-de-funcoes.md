@@ -1,7 +1,7 @@
 ---
-title: 'Oracle e Firebird: uma análise de desempenho a partir de implementação de
-  funções'
-update: '2016-01-06'
+title: "Oracle e Firebird: uma análise de desempenho a partir de implementação de
+  funções"
+update: "2016-01-06"
 project: "Banco de Dados"
 members:
   - "João Paulo Coltri Marri"

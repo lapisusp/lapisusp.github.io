@@ -7,6 +7,9 @@ members:
     - name: "Eunice Pereira dos Santos Nunes"
     - name: "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/poa-ex.jpg"
+link:
+    - name: "Relatório"
+      url: "files/researches/Testa2012POA.pdf"
 ---
 
 Com a popularização dos Ambientes Virtuais de Aprendizagem (AVAs) o processo de
@@ -24,10 +27,8 @@ Orientada a Aspectos (POA). Assim, neste projeto foi empregado os conceitos de P
 implementar um módulo de registro de dados de interação em um sistema destinado a avaliar
 a aquisição de conhecimento em AVAs.
 
-![Módulo de Monitoramento das Interações dos Usuários]({{ 'img/projects/antigos/poa-metodo.png' | absolute_url }})
-![Sistema de Avaliação da Aprendizagem (perfil avaliador) – cadastro nova interação]({{ 'img/projects/antigos/poa-ex.jpg' | absolute_url }})
+![Módulo de Monitoramento das Interações dos Usuários]({{ "img/projects/antigos/poa-metodo.png" | absolute_url }})
+![Sistema de Avaliação da Aprendizagem (perfil avaliador) – cadastro nova interação]({{ "img/projects/antigos/poa-ex.jpg" | absolute_url }})
 
 **Palavras-chave**: monitoramento das interações, avaliação da aprendizagem, Ambientes
 Virtuais de Aprendizagem Tridimensionais.
-
-<a href="{{ 'files/researches/Testa2012POA.pdf' | absolute_url }}" class="btn btn-outline-primary">Relatório</a>

@@ -7,7 +7,12 @@ members:
     - name: "Fátima L. S. Nunes"
     - name: "Ariane Machado Lima"
 header-img: "img/projects/emotion-representation/cap4-fig2-grafo.png"
----
+links:
+    - name: "Dissertação"
+      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.php"
+    - name: "Código fonte"
+      url: "https://github.com/lapisusp/STEF"
+ ---
 
 ****  
   
@@ -15,9 +20,7 @@ A capacidade inata do homem em reconhecer emoções faciais desempenha um papel 
 
 O presente trabalho apresenta a proposta e os resultados iniciais de um projeto que tem como objetivo desenvolver um algoritmo de estimação de parâmetros de um grafo And-Or para caracterização de emoções faciais a partir de uma amostra de treinamento. Este projeto faz parte de um projeto maior que visa desenvolver um jogo sério de reconhecimento de emoções faciais. A metodologia que segue é a definição da estrutura do grafo And-Or para a caracterização de emoções faciais, processamento de imagens de treinamento e estimação dos parâmetros do grafo And-Or.
 
-![Grafo]({{ 'img/projects/emotion-representation/cap4-fig2-grafo.png' | absolute_url }})
-![Imagem]({{ 'img/projects/emotion-representation/cap4-fig9-resultados.png' | absolute_url }})
+![Grafo]({{ "img/projects/emotion-representation/cap4-fig2-grafo.png" | absolute_url }})
+![Imagem]({{ "img/projects/emotion-representation/cap4-fig9-resultados.png" | absolute_url }})
 
 
-<a href="http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.php" class="btn btn-outline-primary">Dissertação</a>
-<a href="https://github.com/lapisusp/STEF" class="btn btn-outline-primary">Código fonte</a>

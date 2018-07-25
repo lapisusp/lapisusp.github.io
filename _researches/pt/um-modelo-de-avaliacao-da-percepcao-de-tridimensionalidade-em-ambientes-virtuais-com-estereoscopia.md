@@ -1,7 +1,7 @@
 ---
 title: Um modelo de avaliação da percepção de tridimensionalidade para sistemas de
   realidade virtual estereoscópicos
-update: '2016-01-07'
+update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Sahra Karolina Gomes e Silva"

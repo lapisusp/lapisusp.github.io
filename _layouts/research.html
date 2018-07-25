@@ -16,6 +16,11 @@ layout: default
                 </div>
                 <div class="container research-content">
                         {{ content }}
+
+                    {% for link in page.links %}
+                        {{internal}}
+                        <a href="{{ link.url | absolute_url }}" class="btn btn-outline-primary">{{ link.name }}</a>
+                    {% endfor %}
                 </div>
 
             </div>

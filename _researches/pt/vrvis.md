@@ -1,5 +1,5 @@
 ---
-update: '2017-08-24'
+update: "2017-08-24"
 title: "VRVis Manager – Uma ferramenta para visualização de grandes volumes de dados usando realidade virtual"
 project: "Visualização de Dados"
 members:
