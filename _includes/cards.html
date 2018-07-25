@@ -1,7 +1,9 @@
 <div class="card-columns">
     {% assign sorted = (cards | sort: 'date' | reverse ) %}
     {% for project in sorted %}
-    {% if project.header-img %}
+    {% if project.img-thumb %}
+    {% assign img = project.img-thumb %}
+    {% elsif project.header-img %}
     {% assign img = project.header-img %}
     {% elsif site.header-img %}
     {% assign img = site.header-img %}
