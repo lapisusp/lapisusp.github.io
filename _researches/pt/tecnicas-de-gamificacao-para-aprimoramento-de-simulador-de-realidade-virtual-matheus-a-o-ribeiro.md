@@ -1,10 +1,12 @@
 ---
 title: Técnicas de gamificação para aprimoramento de simulador de Realidade Virtual
 update: '2017-05-24'
-project: "Realidade Virtual e Computação Gráfica"
+project: "Jogos Sérios"
 members:
   - "Matheus de Lara Ribeiro"
+  - "Cleber Gimenez Correa"
   - "Fátima L. S. Nunes"
+header-img: "img/projects/antigos/jogoEmAcao.png"
 ---
 Considerando a importância do treinamento na área de saúde, incluindo aulas práticas para ensino
 de procedimentos médicos e clínicos, o uso de ferramentas adequadas torna-se necessário.
@@ -16,29 +18,20 @@ Por outro lado, recentemente tem alcançado destaque na literatura o termo gamif
 Elementos de gamificação adicionados:
 
 
-*Pontuações
+* Pontuações
+* Conquistas/troféus
+* Fases
+* Medidor de tempo
+* Presença de sons/música
+* Ranking
 
- 	
-*Conquistas/troféus
 
- 	
-*Fases
-
- 	
-*Medidor de tempo
-
- 	
-*Presença de sons/música
-
- 	
-*Ranking
 Imagens do jogo sério:
 
 
-[![menuInicial](http://lapis.each.usp.br/wp-content/uploads/2017/05/menuInicial.png)](http://lapis.each.usp.br/wp-content/uploads/2017/05/menuInicial.png)
+![menuInicial]({{ 'img/projects/antigos/menuInicial.png' | absolute_url }})
 
+![jogoEmAcao]({{ 'img/projects/antigos/jogoEmAcao.png' | absolute_url }})
 
-[![jogoEmAcao](http://lapis.each.usp.br/wp-content/uploads/2017/05/jogoEmAcao.png)](http://lapis.each.usp.br/wp-content/uploads/2017/05/jogoEmAcao.png)
-
-
-[Vídeo demonstrativo](https://www.youtube.com/watch?v=bMHrQ-WiC50)
+<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/bMHrQ-WiC50">
+</object>
