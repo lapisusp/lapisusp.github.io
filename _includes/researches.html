@@ -1,2 +1,4 @@
 {% assign cards = site.researches | where: "project", page.title | where:"language", page.language %}
+<div class="research-list">
 {% include cards.html %}
+</div>
