@@ -228,8 +228,9 @@ a:hover{
   width: 100%;
 }
 
-.research-list .card:hover img{
+.research-list .card:hover .card-image{
   height: 80px;
+  transition: 0.9s;
 }
 
 .research-list .card h4{
