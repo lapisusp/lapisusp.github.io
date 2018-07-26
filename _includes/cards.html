@@ -9,10 +9,14 @@
     {% assign img = site.header-img %}
     {% endif %}
     <div class="card">
-        <a href="{{ project.url | absolute_url }}"><img class="card-img-top" src="{{ img | absolute_url }}">
-        <div class="card-body">
-            <h4 class="card-title">{{ project.title }}</h4>
-        </div></a>
+        <a href="{{ project.url | absolute_url }}">
+            <div class="card-image">
+                <img class="card-img-top" src="{{ img | absolute_url }}">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">{{ project.title }}</h4>
+            </div>
+        </a>
     </div>
     {% endfor %}
 </div>
