@@ -3,9 +3,9 @@ title:   "Registro de dados de interação usando Programação Orientada a Aspe
 update:  "2012-07-20 12:00:00"
 project: "Realidade Virtual e Computação Gráfica"
 members:
-    - name: "Rafael Luiz Testa"
-    - name: "Eunice Pereira dos Santos Nunes"
-    - name: "Fátima L. S. Nunes"
+    - "Rafael Luiz Testa"
+    - "Eunice Pereira dos Santos Nunes"
+    - "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/poa-ex.jpg"
 link:
     - name: "Relatório"

@@ -3,9 +3,9 @@ title:      "Caracterização de etnias, sexos e faixas etárias em imagens faci
 update:       2018-02-15 12:00:00
 project: "Representação de emoções"
 members:
-    - name: "Bruno Sanchez de Araujo"
-    - name: "Fátima L. S. Nunes"
-    - name: "Ariane Machado Lima"
+    - "Bruno Sanchez de Araujo"
+    - "Fátima L. S. Nunes"
+    - "Ariane Machado Lima"
 link:
     - name: "Dissertação"
       url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-12042018-215236/pt-br.php"

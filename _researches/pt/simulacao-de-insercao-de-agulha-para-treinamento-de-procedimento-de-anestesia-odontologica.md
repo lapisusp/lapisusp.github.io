@@ -4,7 +4,6 @@ title: Simulação de inserção de agulha para treinamento de procedimento de a
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
 members:
-    - "nome"
     - "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/ExperimentoII_.preview.png"
 ---

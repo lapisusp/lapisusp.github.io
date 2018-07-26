@@ -3,9 +3,9 @@ title:      "Síntese de expressões faciais em fotografias"
 update:      2018-07-20 12:00:00
 project: "Representação de emoções"
 members:
-    - name: "Rafael Luiz Testa"
-    - name: "Ariane Machado Lima"
-    - name: "Fátima L. S. Nunes"
+    - "Rafael Luiz Testa"
+    - "Ariane Machado Lima"
+    - "Fátima L. S. Nunes"
 header-img: "img/projects/emotion-representation/photograph.png"
 ---
 

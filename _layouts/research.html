@@ -37,7 +37,7 @@ layout: default
             {% assign members = site.members | where:"language", page.language %}
             {% for project_member in page.members %}
                 {% for lapis_member in members %}
-                    {% if project_member.name == lapis_member.name %}
+                    {% if project_member == lapis_member.name %}
                         {% assign member=lapis_member %}
                         {% include member.html %}
                     {% endif %}

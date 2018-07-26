@@ -2,9 +2,9 @@
 title: Definição, implementação e validação de técnicas de retorno háptico para exame
   de palpação mamária
 update: "2016-01-07"
-project: ""
+project: "Realidade Virtual e Computação Gráfica"
 members:
-    - "nome"
+    - "Mateus de Lara Ribeiro"
     - "Fátima L. S. Nunes"
 links:
     - name: "SVR2014RSFinal"

@@ -3,8 +3,8 @@ title: "Um framework de Computação Afetiva para adaptação automática de jog
 update: "2016-01-06"
 project: "Computação Afetiva"
 members:
-  - name: "Renan Vinicius Aranha"
-  - name: "Fátima L. S. Nunes"
+  - "Renan Vinicius Aranha"
+  - "Fátima L. S. Nunes"
 header-img: "img/game.jpg"  
 credit-img-author: "Kelly Sikkema"  
 credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
