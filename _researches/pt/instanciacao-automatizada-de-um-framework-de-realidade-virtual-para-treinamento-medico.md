@@ -4,10 +4,10 @@ title: Instanciação automatizada de um framework de Realidade Virtual para tre
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
 members:
-    - "nome"
+    - "Daniela Oliveira Bertolli"
     - "Fátima L. S. Nunes"
 links:
-    - name: "Dissertação"
+    - name: "Relatório"
       url: "files/researches/Relatorio_Final_DanielaBertolli.pdf"
 ---
 
