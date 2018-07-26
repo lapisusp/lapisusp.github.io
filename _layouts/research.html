@@ -12,7 +12,7 @@ layout: default
         <div class="row">
             <div class="col">
                 <div class="info-research">
-                    <h2>Informações</h2>
+                    <h2>{{ site.data.research.info[page.language] }}</h2>
                 </div>
                 <div class="container research-content">
                         {{ content }}
@@ -29,7 +29,7 @@ layout: default
         <div class="row">
             <div class="col">
                 <div class="info-research">
-                    <h2>Membros</h2>
+                    <h2>{{ site.data.nav.members[page.language] }}</h2>
                 </div>
             </div>
         </div>

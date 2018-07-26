@@ -3,7 +3,7 @@ layout: front
 language: "en"
 title: "Laboratory of Computer Applications for Health Care"
 header:
-    text: "O LApIS (Laboratory of Computer Applications for Health Care) é um laboratório localizado na Escola de Artes, Ciências e Humanidades da Universidade de São Paulo, que tem como&nbsp;objetivo principal a concepção e desenvolvimento de técnicas de baixo custo e ferramentas para a – mas não limitada a – área de saúde."
-    link: "LApIS no Diretório dos Grupos de Pesquisa do CNPq"
-MAAC: Laboratório conveniado ao MACC.
+    text: "The LApIS (Laboratory of Computer Applications for Health Care) is a laboratory located at the School of Arts, Sciences and Humanities of the University of São Paulo, whose main objective is to design and develop low cost techniques and tools for but not limited to - health area."
+    link: "LApIS in the CNPq Research Groups Directory"
+MAAC: "Laboratory associated with  MACC."
 ---
