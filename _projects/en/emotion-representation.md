@@ -3,6 +3,7 @@ layout:     project
 title:      "Emotions representation"  
 update:      2018-07-16 12:00:00  
 author:     "Rafael Luiz Testa"  
+img-thumb:  "img/research_emotionrep.png"
 header-img: "img/projects/emotion-representation/sad-smile.jpg"  
 credit-img-author: "Sydney Sims"  
 credit-img-url: "https://unsplash.com/photos/fZ2hMpHIrbI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"  

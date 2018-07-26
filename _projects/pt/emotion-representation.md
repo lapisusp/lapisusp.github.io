@@ -2,7 +2,6 @@
 layout:     project  
 title:      "Representação de emoções"  
 update:       2018-07-16 12:00:00  
-author:     "Rafael Luiz Testa"  
 img-thumb:  "img/research_emotionrep.png"
 header-img: "img/projects/emotion-representation/sad-smile.jpg"  
 credit-img-author: "Sydney Sims"  
