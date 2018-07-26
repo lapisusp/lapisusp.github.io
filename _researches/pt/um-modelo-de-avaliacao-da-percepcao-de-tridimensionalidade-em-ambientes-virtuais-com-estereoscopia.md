@@ -11,10 +11,9 @@ Ambientes virtuais tridimensionais imersivos são frequentemente  utilizados co
 sobre a percepção de tridimensionalidade fornecida por uma técnica, assim como auxiliar na tomada de decisões acerca da utilização de técnicas estereoscópicas em sistemas de RV.
 
 Vídeo demonstrativo do simulador VIDA Odonto
-<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/tqdNkzIbAcQ">
-</object>
-
+{% include youtube.html id="tqdNkzIbAcQ" %}
 
 Vídeo demonstrativo do jogo Esquilo Corredor 3D
-<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/6i-JgeLrE1k">
-</object>
+{% include youtube.html id="6i-JgeLrE1k" %}
+
+

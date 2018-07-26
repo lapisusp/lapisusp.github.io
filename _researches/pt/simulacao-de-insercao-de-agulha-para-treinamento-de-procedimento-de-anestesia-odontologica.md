@@ -16,7 +16,5 @@ A Realidade Virtual tem apresentado importantes contribuições para a área de 
 Palavras chaves: Interação humano-computador, Odontologia, Realidade Virtual, sensação háptica.
 
 
-<video width="640" height="290" controls>
-  <source src="{{ "files/researches/1RVViMeTOdonto.mp4" | absolute_url }}" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+{% include video.html file="files/researches/1RVViMeTOdonto.wmv" %}
+

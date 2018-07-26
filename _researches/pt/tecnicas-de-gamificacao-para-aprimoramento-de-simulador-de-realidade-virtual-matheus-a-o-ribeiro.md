@@ -32,5 +32,4 @@ Imagens do jogo sério:
 {% include image.html file="img/projects/antigos/menuInicial.png" alt="menuInicial" %}
 {% include image.html file="img/projects/antigos/jogoEmAcao.png" alt="jogoEmAcao" %}
 
-<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="http://www.youtube.com/embed/bMHrQ-WiC50">
-</object>
+{% include youtube.html id="bMHrQ-WiC50" %}
