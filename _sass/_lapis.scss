@@ -217,3 +217,13 @@ a:hover{
 .research-list .card{
   height: 350px;
 } 
+
+.research-list .card-image{
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.research-list .card-image img{
+  height: 100%;
+  width 100%;
+}
