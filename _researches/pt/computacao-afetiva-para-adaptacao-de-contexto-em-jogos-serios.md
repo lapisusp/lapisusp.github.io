@@ -17,7 +17,7 @@ links:
 
 A utilização de jogos sérios tem chamado a atenção de pesquisadores e profissionais da área de saúde por extrapolarem o objetivo de entretenimento, em geral incluindo metas de aprendizagem ou treinamento. No contexto do processo de reabilitação motora, jogos sérios têm sido amplamente utilizados com o intuito de tornar tal processo mais atrativo para o paciente, que pode estar sujeito a situações desmotivadoras durante as sessões de fisioterapia como, por exemplo, a sensação de dor durante a realização de algumas atividades. 
 
-Nesse sentido, embora diversas pesquisas científicas apresentam aspectos positivos decorrentes da utilização de jogos sérios neste contexto, o desenvolvimento de um jogo desta natureza pode representar um processo complexo e que muitas vezes não apresenta resultados eficientes no sentido de manter o interesse do jogador após diversas utilizações de um mesmo jogo.
+Nesse sentido, embora diversas pesquisas científicas apresentem aspectos positivos decorrentes da utilização de jogos sérios neste contexto, o desenvolvimento de um jogo desta natureza pode representar um processo complexo e que, muitas vezes, não apresenta resultados eficientes no sentido de manter o interesse do jogador após diversas utilizações de um mesmo jogo.
 
 Com o intuito de contribuir com este cenário, pesquisadores têm investigado estratégias que visam a manutenção do engajamento do usuário durante a utilização de aplicações computacionais, especialmente de jogos. Uma das abordagens que têm recebido crescente interesse por parte dos pesquisadores consiste na adaptação afetiva, que é a adaptação automática de um software a partir do estado emocional do usuário. 
 
@@ -32,5 +32,6 @@ Para tornar essas funcionalidades possíveis, o EasyAffecta consiste em um conju
 A figura a seguir apresenta uma visão geral do framework EasyAffecta, ilustrando o relacionamento entre os módulos do sistema, as atividades previstas em cada módulo e as atribuições que os usuários programador e fisioterapeuta terão em cada um desses módulos. 
 
 {% include image.html file="img/projects/affective-computing/easy-affecta-framework.png" alt="Arquitetura do framework EasyAffecta" %}
+
 
 
