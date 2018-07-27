@@ -16,6 +16,10 @@ layout: default
                 </div>
                 <div class="research-content">
                         {{ content }}
+                        
+                <div class="info-research">
+                    <h2>{{ site.data.research.files[page.language] }}</h2>
+                </div>
 
                     {% for link in page.links %}
                         {{internal}}
