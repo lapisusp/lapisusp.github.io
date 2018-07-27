@@ -9,8 +9,8 @@ header-img: "img/game.jpg"
 credit-img-author: "Kelly Sikkema"  
 credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
 links:
-    - name: "Dissertação"
-      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.phphttp://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php"
+    - name: "Dissertação de mestrado"
+      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php"
     - name: "Artigo - Using Affective Computing to Automatically Adapt Serious Games for Rehabilitation"
       url: "https://ieeexplore.ieee.org/document/8104157/"
 ---
