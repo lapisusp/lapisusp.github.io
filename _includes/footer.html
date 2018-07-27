@@ -1,29 +1,27 @@
 <footer>
     <div class="container">
         <div id="logos" class="row">
-            <div class="col-lg-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-sm-3 col-xs-12">
                 <a href="http://www.each.usp.br//" target="_blank"><img src="{{ '/img/each-branco-ok.png' | absolute_url }}"></a>
                 <a href="http://www.usp.br/" target="_blank"><img src="{{ '/img/usp-branco-ok.png' | absolute_url }}"></a>                
                 <div class="mt-2"><a href="https://macc.lncc.br/">{{ page.MAAC }}</a></div>
             </div>
-            <div class="col-lg-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-sm-3 col-xs-12">
                 <p>Escola de Artes, Ciências e Humanidades
                 Sala T07 - Bloco do Ciclo Básico
                 Avenida Arlindo Béttio, 1000 - CEP: 03828-000
                 Ermelino Matarazzo | São Paulo-SP</p>
             </div>
-            <div class="col-lg-4 col-sm-6 col-xs-12">
-            </div>
-            <div class="col-lg-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-sm-3 col-xs-12">
                 <ul class="list-inline list-social">
-                            {% for network in site.social %}
+                      {% for network in site.social %}
                             <li class="list-inline-item social-{{ network.title }}">
                                 <a href="{{ network.url }}" class="btn-social btn-outline">
                                     <i class="fa fa-fw fa-{{ network.title }}"></i>
                                 </a>
                             </li>
                             {% endfor %}
-                        </ul>
+                  </ul>
             </div>
         </div>
     </div>
