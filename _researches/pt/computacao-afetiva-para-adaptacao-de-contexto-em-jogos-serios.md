@@ -5,9 +5,9 @@ project: "Computação Afetiva"
 members:
   - "Renan Vinicius Aranha"
   - "Fátima L. S. Nunes"
-header-img: "img/game.jpg"  
-credit-img-author: "Kelly Sikkema"  
-credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
+header-img: "img/projects/affective-computing/woman-using-computer.jpg"  
+credit-img-author: "Bruce Mars"  
+credit-img-url: "https://www.pexels.com/photo/photo-of-woman-using-her-laptop-935756/"  
 links:
     - name: "Dissertação de mestrado"
       url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php"
