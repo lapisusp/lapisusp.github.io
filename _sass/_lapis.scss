@@ -25,7 +25,7 @@
 }
 
 .member-thumb {
-  width: 140pxpx;
+  width: 140px;
 }
 
 .row{
@@ -269,3 +269,15 @@ footer .container{
   margin-bottom: -10px;
 }
 
+/* Search */
+/* hide the blue outline */
+.search-box {
+  .form-control:focus {
+    outline: 0 !important;
+    border-color: initial;
+    box-shadow: none;
+  }
+  .btn {
+    background-color: white;
+  }
+}
