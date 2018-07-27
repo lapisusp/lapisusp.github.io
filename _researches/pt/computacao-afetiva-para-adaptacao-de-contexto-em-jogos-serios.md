@@ -8,6 +8,11 @@ members:
 header-img: "img/game.jpg"  
 credit-img-author: "Kelly Sikkema"  
 credit-img-url: "https://unsplash.com/photos/PgToaHfQjq0"  
+links:
+    - name: "Dissertação"
+      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.phphttp://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php"
+    - name: "Using Affective Computing to Automatically Adapt Serious Games for Rehabilitation"
+      url: "https://ieeexplore.ieee.org/document/8104157/"
 ---
 
 A utilização de jogos sérios em muitas atividades, incluindo casos de saúde, como o processo de reabilitação motora, tem demonstrado resultados satisfatórios que encorajam o desenvolvimento de novas aplicações neste cenário. Jogos podem tornar tais atividades mais interessantes e divertidas para os pacientes, como também auxiliar as etapas do processo de reabilitação. Nestas aplicações, estratégias que visam a manutenção do nível de motivação do usuário durante a utilização são muito importantes. Assim, esta pesquisa investiga a adaptação de contexto em jogos sérios com a utilização de técnicas de Computação Afetiva. 
