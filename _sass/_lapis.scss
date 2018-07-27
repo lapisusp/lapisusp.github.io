@@ -116,7 +116,7 @@ a:hover{
 }
 
 .member-photo-area{
-  height: 180px;
+  height: auto;
   overflow: hidden;
 }
 
@@ -141,6 +141,11 @@ a:hover{
 .member-name{
   font-weight: 900;
   color: #333;
+}
+
+.member-type{
+  font-weight: 700;
+  text-align: center;
 }
 
 /* Cards */
