@@ -15,20 +15,31 @@ layout: default
                     <h2>{{ site.data.research.info[page.language] }}</h2>
                 </div>
                 <div class="research-content">
-                        {{ content }}
-                        
+                        {{ content }}                  
+                </div>
+            </div>
+        </div>
+   
+        {% if page.links %}
+        <div class="row">
+            <div class="col">        
                 <div class="info-research">
                     <h2>{{ site.data.research.files[page.language] }}</h2>
                 </div>
+                </div>
+        </div>
+        <div class="row">
 
                     {% for link in page.links %}
                         {{internal}}
                         <a href="{{ link.url | absolute_url }}" class="btn btn-outline-primary">{{ link.name }}</a>
                     {% endfor %}
-                </div>
-
-            </div>
         </div>
+          {% endif %}
+        
+        
+        
+        
         {% if page.members %}
         <div class="row">
             <div class="col">
