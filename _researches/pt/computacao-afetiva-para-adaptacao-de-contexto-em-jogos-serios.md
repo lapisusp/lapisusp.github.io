@@ -27,6 +27,6 @@ Para tornar essas funcionalidades possíveis, o EasyAffecta consiste em um conju
 
 A figura a seguir apresenta uma visão geral do framework EasyAffecta, ilustrando o relacionamento entre os módulos do sistema, as atividades previstas em cada módulo e as atribuições que os usuários programador e fisioterapeuta terão em cada um desses módulos. 
 
-{% include image.html file="img/projects/affective-computing/easy-affecta-framwork.png" alt="Arquitetura do framework EasyAffecta" %}
+{% include image.html file="img/projects/affective-computing/easy-affecta-framework.png" alt="Arquitetura do framework EasyAffecta" %}
 
 
