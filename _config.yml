@@ -6,8 +6,8 @@ email: fatima.nunes@usp.br
 description: Laboratório de Aplicações de Informática em Saúde
 header-img: "img/code.jpg"
 
-baseurl: "/sitelab" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://renan-vinicius.github.io" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "http://lapis.each.usp.br" # the base hostname & protocol for your site
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
