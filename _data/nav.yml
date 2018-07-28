@@ -4,9 +4,9 @@ projects:
 members:
   en: Members
   pt: Membros
-contact:
-  en: Contact
-  pt: Contato
+location:
+  en: Location
+  pt: Localização
 search:
   en: Search...
   pt: Buscar...
