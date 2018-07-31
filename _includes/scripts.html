@@ -29,3 +29,25 @@
   })();
 </script>
 {% endif %}
+
+<!-- Google custom search -->
+<script>
+    (function() {
+        var cx = '013225600336977498979:vsodzatpt-a';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+         //custom
+        var q = window.location.href.split("q=")[1];
+        if (q) {
+            $('#searchModal .modal-title').append(' ' + q);
+            $('#searchModal').modal('show');
+        } else {
+            $('#searchModal').modal('hide');
+        }
+     })();
+</script> 
+

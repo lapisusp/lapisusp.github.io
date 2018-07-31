@@ -10,4 +10,10 @@ location:
 search:
   en: Search...
   pt: Buscar...
+close:
+  en: Close
+  pt: Fechar
+results:
+  en: Results for
+  pt: Resultados para
 
