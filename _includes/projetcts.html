@@ -12,10 +12,10 @@
                 <hr>
             </div>
         </div>
-        {% if page.language == 'en' %}
-        <div class="alert alert-warning" role="alert">
-            <a href="{{ '/pt/' | absolute_url }}">{{ page.alert }}</a>
-        </div>
+        {% if page.alert.text %}
+            <div class="alert alert-warning" role="alert">
+                <a href="{{ page.alert.url | absolute_url }}">{{ page.alert.text }}</a>
+            </div>
         {% endif %}
         {% assign cards = site.projects | where:"language", page.language %}
         {% include cards.html %}
