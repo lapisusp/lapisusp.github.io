@@ -14,7 +14,7 @@
         </div>
         {% if page.language == 'en' %}
         <div class="alert alert-warning" role="alert">
-            This translation of {{ site.url }} has no active maintenance and may contain obsolete information or even errors. Please access the original <a href="{{ '/pt/' | absolute_url }}"><strong>portuguese website</strong></a> for more up-to-date content.
+            <a href="{{ '/pt/' | absolute_url }}">{{ page.alert }}</a>
         </div>
         {% endif %}
         {% assign cards = site.projects | where:"language", page.language %}

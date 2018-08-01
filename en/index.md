@@ -7,4 +7,5 @@ header:
     link: "LApIS in the CNPq Research Groups Directory"
 location: "LApIS is located in Room T07 - \"Ciclo Básico\" block of the School of Arts, Sciences and Humanities of the University of São Paulo."
 MAAC: "Laboratory associated with  MACC."
+alert: Not all projects have an English versions.
 ---
