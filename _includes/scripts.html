@@ -41,7 +41,8 @@
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(gcse, s);
          //custom
-        var q = window.location.href.split("q=")[1];
+        var url = new URL(window.location.href);
+        var q = url.searchParams.get("q");
         if (q) {
             $('#searchModal .modal-title').append(' ' + q);
             $('#searchModal').modal('show');
