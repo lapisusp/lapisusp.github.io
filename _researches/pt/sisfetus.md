@@ -1,12 +1,12 @@
 ---
 title: "SisFetus: Sistema de Representação e Manipulação de Estruturas"
-update: "2025-01-09"
+update: "2006-01-09"
 members:
-    - Rosiane Wolf Luz
+    - "Rosiane Wolf Luz"
     - "Fátima L. S. Nunes"
 project: "Visualização de Informação"
 links:
-    - name: "Dissertação"
+    - name: "Dissertação de Mestrado"
       url: "files/researches/Disserta__oRosianeLuz.pdf"
 ---
 
