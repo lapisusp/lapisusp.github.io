@@ -4,7 +4,7 @@ update: "2025-01-09"
 members:
     - Rosiane Wolf Luz
     - "Fátima L. S. Nunes"
-project: "Visualização de Dados"
+project: "Visualização de Informação"
 links:
     - name: "Dissertação"
       url: "files/researches/Disserta__oRosianeLuz.pdf"
