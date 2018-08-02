@@ -3,7 +3,7 @@ layout: "sole"
 language: "en"
 title: "Adapting software with Affective Computing: a systematic review"
 subtitle: "Protocol"
-redirect_from: "/files/ac-protocol.html"
+redirect_from: "files/ac-protocol.html"
 ---
 
 **Objective:** Identify the state of art of adapting applications using Affective Computing (AC).
