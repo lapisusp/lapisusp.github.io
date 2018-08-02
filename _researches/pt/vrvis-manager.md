@@ -7,7 +7,7 @@ members:
     - "Silvia Helena de Oliveira Santos"
     - "Fátima L. S. Nunes"
 links:
-    - name: "Relatório"
+    - name: "Dissertação de Mestrado"
       url: "files/researches/VRVISMANAGER.pdf"
 ---
 
