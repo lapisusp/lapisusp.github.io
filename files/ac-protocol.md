@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: sole
 language: en
-title: Nome do projeto?
+title: Adapting software with Affective Computing: a systematic review
 subtitle: Protocol
+redirect_from: "/files/ac-protocol.html"
 ---
+
 **Objective:** Identify the state of art of adapting applications using Affective Computing (AC).
 
 **Research questions:**
