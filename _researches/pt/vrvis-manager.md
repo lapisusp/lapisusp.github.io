@@ -2,9 +2,9 @@
 title: VRVis Manager – Uma ferramenta para visualização de grandes volumes de dados
   usando realidade virtual
 update: "2016-01-07"
-project: "Visualização de Dados"
+project: "Visualização de Informação"
 members:
-    - "SILVIA HELENA DE OLIVEIRA SANTOS"
+    - "Silvia Helena de Oliveira Santos"
     - "Fátima L. S. Nunes"
 links:
     - name: "Relatório"
