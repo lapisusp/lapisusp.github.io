@@ -3,10 +3,10 @@ title: "VRVis: Ferramenta de Realidade Virtual para Visualização de Informaç�
 update: "2010-03-05"
 project: "Visualização de Informação"
 members:
-  - "Cláudia Beatriz Berti"
+  - "Claudia Beatriz Berti"
   - "Fátima L. S. Nunes"
 links:
-    - name: "Dissertação"
+    - name: "Dissertação de Mestrado"
       url: "files/researches/Disserta__o_ClaudiaBerti.pdf"
 ---
 
