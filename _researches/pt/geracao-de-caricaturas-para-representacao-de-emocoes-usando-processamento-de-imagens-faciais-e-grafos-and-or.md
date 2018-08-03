@@ -11,6 +11,8 @@ links:
       url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.php"
     - name: "Código fonte"
       url: "https://github.com/lapisusp/STEF"
+    - name: "Artigo CBMS"
+      url: https://ieeexplore.ieee.org/abstract/document/7167505/
 project: "Representação de emoções"
 ---
 
