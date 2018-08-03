@@ -5,7 +5,7 @@ project: "Sistemas de Informação"
 members:
   - "Aline Cristina Machado"
   - "Fátima L. S. Nunes"
-link:
+links:
     - name: "Monografia"
       url: "files/researches/MonografiaAlineCristinaMachado.pdf"
 ---

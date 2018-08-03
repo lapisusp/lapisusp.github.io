@@ -1,11 +1,14 @@
 ---
-title: Simulação de inserção de agulha para treinamento de procedimento de anestesia
-  odontológica
+title: "Simulação de inserção de agulha para treinamento de procedimento de anestesia odontológica"
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
 members:
+    - "Cleber Gimenez Correa"
     - "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/ExperimentoII_.preview.png"
+links:
+    - name: "Tese"
+      url: "http://www.teses.usp.br/teses/disponiveis/3/3141/tde-12022016-161324/pt-br.php"
 ---
 
 {% include image.html file="img/projects/antigos/ExperimentoII_.preview.png" %}
@@ -14,6 +17,4 @@ A Realidade Virtual tem apresentado importantes contribuições para a área de 
 
 Palavras chaves: Interação humano-computador, Odontologia, Realidade Virtual, sensação háptica.
 
-
-{% include video.html file="files/researches/1RVViMeTOdonto.wmv" %}
-
+{% include youtube.html id="rrkjGDJDDws" %}

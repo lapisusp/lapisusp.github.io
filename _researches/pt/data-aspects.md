@@ -7,7 +7,7 @@ members:
     - "Eunice Pereira dos Santos Nunes"
     - "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/poa-ex.jpg"
-link:
+links:
     - name: "Relatório"
       url: "files/researches/Testa2012POA.pdf"
 ---

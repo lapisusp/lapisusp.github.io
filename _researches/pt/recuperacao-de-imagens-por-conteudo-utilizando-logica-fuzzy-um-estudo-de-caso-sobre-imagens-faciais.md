@@ -6,7 +6,7 @@ members:
   - "Leila Cristina Carneiro Bergamasco"
   - "Fátima L. S. Nunes"
 header-img: "img/projects/antigos/rr2.preview.png"
-link:
+links:
     - name: "Monografia"
       url: "files/researches/MonografiaFinalLeila.pdf"
 ---

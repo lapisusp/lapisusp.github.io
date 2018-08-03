@@ -6,7 +6,7 @@ members:
     - "Bruno Sanchez de Araujo"
     - "Fátima L. S. Nunes"
     - "Ariane Machado Lima"
-link:
+links:
     - name: "Dissertação"
       url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-12042018-215236/pt-br.php"
     - name: "Código fonte"

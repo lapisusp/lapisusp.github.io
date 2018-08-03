@@ -6,7 +6,7 @@ project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Danilo Justo Rossatto"
   - "Fátima L. S. Nunes"
-link:
+links:
     - name: "Dissertação"
       url: "files/researches/tcc_completo_12_12_DEFINITIVO.pdf"
 ---

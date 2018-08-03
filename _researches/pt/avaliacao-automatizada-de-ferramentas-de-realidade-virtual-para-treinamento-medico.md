@@ -6,7 +6,7 @@ project: "Realidade Virtual e Computação Gráfica"
 members:
   - "Lucas Prieto Nogueira"
   - "Fátima L. S. Nunes"
-link:
+links:
     - name: "Dissertação"
       url: "files/researches/Relatorio-Final-Lucas-Prieto-Nogueira.pdf"
 ---
