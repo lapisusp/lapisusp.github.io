@@ -7,7 +7,7 @@ members:
   - "Ricardo Nakamura"
   - "Fátima L. S. Nunes"
   - "Samir Garbaya"
-header-img: "img/projects/emotion-representation/3dcube.png"
+header-img: "img/projects/vi/3dcube.png"
 ---
 
 
