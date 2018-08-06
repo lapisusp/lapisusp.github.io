@@ -1,6 +1,6 @@
 ---
 title: "Visualização de Informação aplicada à compreensão de resultados de Recuperação de Imagens Baseada em Conteúdo"
-update: "2018-01-05"
+update: "2014-01-05"
 project: "Visualização de Informação"
 members:
   - "Davi Silva Rodrigues"
