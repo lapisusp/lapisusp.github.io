@@ -1,12 +1,12 @@
 ---
 title: "Visualização Tridimensional de Programas Orientados a Objeto"
-update: "2006-03-05"
+update: "2006-10-05"
 project: "Visualização de Informação"
 members:
   - "Roque Maitino Neto"
   - "Fátima L. S. Nunes"
 links:
-    - name: "Dissertação"
+    - name: "Dissertação de Mestrado"
       url: "files/researches/visualizacaodissertaroquefinal.pdf"
 ---
 
