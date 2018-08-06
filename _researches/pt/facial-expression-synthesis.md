@@ -11,7 +11,7 @@ header-img: "img/projects/emotion-representation/photograph.png"
 
 A ferramenta que altera a expressão facial em fotografias por de trás deste jogo é um dos objetivos desta pesquisa. Essa alteração da expressão facial da fotografia se baseia em modificar a foto a partir de um exemplo. Ou seja, existe um conjunto de exemplos (banco de expressões faciais) e a ferramenta escolhe aquele que mais se parece com a face fornecida pelo usuário (jogador). Então, são identificadas as alterações referentes a expressão facial na imagem escolhida. Em seguida, essas alterações identificadas são usadas como base para a modificar a imagem fornecida. Por fim, essas modificações da expressão são mescladas a face fornecida de modo gerar a nova imagem contendo a expressão facial desejada, como exemplificado na figura abaixo.
 
-{% include image.html file="img/projects/emotion-representation/photograph.png" alt="Grafo" %}
+{% include image.html file="img/projects/emotion-representation/photograph.png" alt="Processo básico" %}
 
 A imagem original pode ser
 encontrada em "
