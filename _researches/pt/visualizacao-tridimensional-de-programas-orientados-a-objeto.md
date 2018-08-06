@@ -6,7 +6,7 @@ members:
   - "Davi Silva Rodrigues"
   - "Fátima L. S. Nunes"
 links:
-    - name: "Artigo"
+    - name: "Artigo - iSys - Revista Brasileira de Sistemas de Informação"
       url: "http://www.seer.unirio.br/index.php/isys/article/view/2419"
 ---
 
