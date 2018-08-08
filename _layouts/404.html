@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+{% include head.html %}
+<body id="page-top">
+
+<div class="not-found text-center">
+    <div class="row">
+        <div class="col">
+            <i class="far fa-dizzy fa-20x"></i>
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            {% include search.html %}
+        </div>
+    </div>
+
+    <div class="row links">
+        <div class="col">
+            <h4>{{ page.subtitle }}</h4>
+            <a class="btn btn-outline-secondary"
+               href="{{ page.language | append: '/#researchprojets' | absolute_url }}">
+                {{site.data.nav.projects[page.language] }}
+            </a>
+            <a class="btn btn-outline-secondary"
+               href="{{ page.language | append: '/#lablocation' | absolute_url }}">
+                {{site.data.nav.location[page.language] }}
+            </a>
+            <a class="btn btn-outline-secondary"
+               href="{{ page.language | append: '/members/' | absolute_url }}">
+                {{site.data.nav.members[page.language] }}
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include search-results.html %}
+</div>
+
+{% include scripts.html %}
+</body>
+
+</html>
+
+

@@ -1,0 +1,28 @@
+---
+permalink: /404.html
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LApIS</title>
+    <script type="text/javascript">
+        var languages = {
+            "pt":    "pt",
+            "en":    "en"
+        };
+        var code = window.navigator.language || window.navigator.userLanguage || "pt";
+        var language = languages[code];
+        if (!language) { language = "pt"; }
+        document.location = "{{ '/' | absolute_url }}" + language + "/404/";
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=/pt/404/">
+    </noscript>
+</head>
+<body>
+<p><a href="{{ '/' | absolute_url }}en/404/">Click here</a> to be redirected.</p>
+<p><a href="{{ '/' | absolute_url }}pt/404/">Clique aqui</a> para ser redirecionado.</p>
+</body>
+</html>
