@@ -14,4 +14,12 @@ Dados temporais não possuem uma representação natural, por essa razão a busc
 
 <B>Palavras-Chave:</B> Visualização de Informação; Dados Temporais; Dados Médicos; Realidade Virtual.
 
-<B>Cooperação: Dr. Samir GARBAYA</B>, professor associado na <I>École Nationale Supérieure d´Arts et Métiers – ParisTech University</I>, pesquisador no END: ICAP Laboratory INSERM U1179.</B>
+<B>Cooperação: Dr. Samir GARBAYA</B>, professor associado na <I>École Nationale Supérieure d´Arts et Métiers – ParisTech University</I>, pesquisador no END: ICAP Laboratory INSERM U1179.
+
+<B>Cooperação: Professor Romeu Carillo Jr., M. D.</B>, Chefe do Departamento de Homeopatia do Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP, Presidente da Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH) - São Paulo/SP.
+
+
+<CENTER>
+<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/e8JO8ZSI7dg"> 
+</object>
+</CENTER>

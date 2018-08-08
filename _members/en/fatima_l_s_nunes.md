@@ -6,4 +6,5 @@ membership: "Coordinator"
 lattes: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760963Y2"
 mail: fatima.nunes@usp.br
 phone: (11) 3018 1040
+photo: "img/members/fatimalsnunes.png"
 ---
