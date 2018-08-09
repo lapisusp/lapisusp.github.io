@@ -21,6 +21,7 @@ Dados temporais não possuem uma representação natural, por essa razão a busc
   <LI> <B>Professor Médico Romeu Carillo Jr., Me.</B>, Chefe do Departamento de Homeopatia do Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP, Presidente da Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH) - São Paulo/SP.</LI>
   </UL>
 
+<BR>
 
 <CENTER>
 <object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/e8JO8ZSI7dg"> 
