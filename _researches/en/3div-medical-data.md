@@ -14,9 +14,13 @@ Temporal Data lacks a natural representation, thus the search for a visual repre
 
 <B>Keywords:</B> Information Visualization; Temporal Data; Medical Data; Virtual Reality.
 
-<B>Cooperation: Dr. Samir GARBAYA</B>, associate professor at <I>École Nationale Supérieure d´Arts et Métiers</I> – ParisTech University, Researcher Scientist at END: ICAP Laboratory INSERM U1179.
+<B>Cooperation:</B>
 
-<B>Cooperation: Professor Romeu Carillo Jr., M. D.</B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH) - São Paulo/SP - Brazil.
+<UL>
+<LI> <B>Dr. Samir GARBAYA</B>, associate professor at <I>École Nationale Supérieure d´Arts et Métiers</I> – ParisTech University, Researcher Scientist at END: ICAP Laboratory INSERM U1179.
+
+<LI> <B>Professor Romeu Carillo Jr., M. D.</B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH) - São Paulo/SP - Brazil.
+ </UL>
  
 
 <CENTER>
