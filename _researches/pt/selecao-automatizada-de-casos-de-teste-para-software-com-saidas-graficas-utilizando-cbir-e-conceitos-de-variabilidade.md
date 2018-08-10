@@ -5,7 +5,7 @@ update: "2016-01-07"
 members:
   - "Everton Note Narciso"
   - "Fátima L. S. Nunes"
-project: "Recuperação Baseada em Conteúdo"
+project: "Recuperação de Informação"
 links:
     - name: "Dissertação"
       url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-25112014-160734/pt-br.php"
