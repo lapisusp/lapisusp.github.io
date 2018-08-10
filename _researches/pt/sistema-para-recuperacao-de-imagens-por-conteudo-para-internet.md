@@ -1,7 +1,7 @@
 ---
 title: Sistema para recuperação de imagens por conteúdo para Internet
 update: "2016-01-07"
-project: "Recuperação Baseada em Conteúdo"
+project: "Recuperação de Informação"
 members:
   - "Rafael Roberto da Cruz Moraes"
   - "Fátima L. S. Nunes"
