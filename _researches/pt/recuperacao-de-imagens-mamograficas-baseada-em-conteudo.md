@@ -1,7 +1,7 @@
 ---
 title: "Recuperação de Imagens Mamográficas Baseada em Conteúdo"
 update: "2010-03-03"
-project: "Recuperação Baseada em Conteúdo"
+project: "Recuperação de Informação"
 members:
     - "Ana Paula de Oliveira Santos"
     - "Fátima L. S. Nunes"
