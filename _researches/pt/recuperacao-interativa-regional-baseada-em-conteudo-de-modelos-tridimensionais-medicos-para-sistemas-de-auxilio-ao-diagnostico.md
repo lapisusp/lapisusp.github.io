@@ -1,6 +1,5 @@
 ---
-title: Recuperação interativa regional baseada em conteúdo de modelos tridimensionais
-  médicos para sistemas de auxílio ao diagnóstico
+title: Recuperação de objetos médicos 3D utilizando Harmônicos Esféricos e redes de fluxo
 update: "2016-01-07"
 project: "Recuperação de Informação"
 members:
