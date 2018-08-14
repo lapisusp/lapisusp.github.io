@@ -28,7 +28,7 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 
 **Projetos**
 
-- [CorePyx](CorePyx)
+- [CorePyx](/_researches/pt/recuperacao-interativa-regional-baseada-em-conteudo-de-modelos-tridimensionais-medicos-para-sistemas-de-auxilio-ao-diagnostico.md)
 
 **Prêmios**
 - 2012: Prêmio Santander Universidades
