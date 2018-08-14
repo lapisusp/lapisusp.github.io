@@ -21,10 +21,9 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 - Data Mining
   - Regras de associação
   - Processo ETL
-  
 - Sistemas de recomendação
- - Filtragem colaborativa
- - Métodos de avaliação
+  - Filtragem colaborativa
+  - Métodos de avaliação
 
 **Projetos**
 
