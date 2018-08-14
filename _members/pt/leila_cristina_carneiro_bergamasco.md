@@ -1,10 +1,11 @@
 ---
 order: 1
 layout: member
-name: Samir Garbaya
+name: Leila Bergamasco
 membership: Doutoranda
+lattes: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6"
 mail: leila.cristina@usp.br
-photo: "
+photo: "img/members/leila3x4.jpg"
 ---
 
 Cientista de Dados na Daitan Group. Bacharel em Sistemas de Informação pela Universidade de São Paulo, Mestre em Ciências (Sistemas de Informação) pela Universidade de São Paulo e aluna de Doutorado em Engenharia Elétrica pela Universidade de São Paulo. Suas pesquisas são predominantemente na área de Computação com enfâse em processamento de imagens médicas, recuperação da informação e mineração de dados. Durante seu período no Mestrado e Doutorado sua pesquisa foi aplicada dentro da área de saúde, estabelencendo grupos de pesquisa com o Instituto do Coração (InCor) e Universidade do Porto, Portugual. Paralelamente, seu trabalho como Cientista de Dados busca por soluções otimizadas de mineração de dados, focando no processo de ETL e também em sistemas de recomendação baseados em score e filtragem colaborativa. 
@@ -25,3 +26,13 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 -- Processo ETL
 
 
+
+**Participações em Conferências**
+[ACM Symposium of Applied Computing](SAC)
+[American Medical Informatics Association](AMIA)
+[SPIE - Medical Imaging](SPIE)
+[IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)
+[Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)
+
+**Lista de todas as Publicações**
+[CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
