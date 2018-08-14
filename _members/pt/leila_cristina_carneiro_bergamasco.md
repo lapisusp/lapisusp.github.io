@@ -18,6 +18,7 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 - Recuperação da informação
 - Processamento de informação 3D
 - Métodos de similaridade
+
 - Sistemas de recomendação
  - Filtragem colaborativa
  - Métodos de avaliação
