@@ -25,7 +25,9 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
  - Regras de associação
  - Processo ETL
 
+**Projetos**
 
+[CorePyx](CorePyx)
 
 **Participações em Conferências**
 
