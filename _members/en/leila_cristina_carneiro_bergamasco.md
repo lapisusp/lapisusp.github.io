@@ -18,7 +18,7 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 -  Information retrieval
 -  3D medical data processing
 -  Similarity methods
-- Recommender systems
+- Recommendation systems
  - Colaborative filtering
  - Scoring and ranking approaches
  - Evaluation methods
