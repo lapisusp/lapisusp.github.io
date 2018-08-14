@@ -19,20 +19,22 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 -   Processamento de informação 3D
 - Métodos de similaridade
 - Sistemas de recomendação
--- Filtragem colaborativa
--- Métodos de avaliação
+ -Filtragem colaborativa
+ - Métodos de avaliação
 - Data Mining
--- Regras de associação
--- Processo ETL
+ - Regras de associação
+ - Processo ETL
 
 
 
 **Participações em Conferências**
-[ACM Symposium of Applied Computing](SAC)
-[American Medical Informatics Association](AMIA)
-[SPIE - Medical Imaging](SPIE)
-[IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)
-[Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)
+
+[ACM Symposium of Applied Computing](SAC) <br/>
+[American Medical Informatics Association](AMIA)<br/>
+[SPIE - Medical Imaging](SPIE)<br/>
+[IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)<br/>
+[Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)<br/>
 
 **Lista de todas as Publicações**
+
 [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
