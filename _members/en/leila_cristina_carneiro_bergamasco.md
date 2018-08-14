@@ -14,10 +14,11 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 
 **Research interests**
 
- - Content-based medical image retrieval
--  Information retrieval
--  3D medical data processing
--  Similarity methods
+- Content-based medical image retrieval
+- Information retrieval
+- 3D medical data processing
+- Similarity methods
+
 - Recommendation systems
  - Colaborative filtering
  - Scoring and ranking approaches
