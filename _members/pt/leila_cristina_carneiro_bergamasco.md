@@ -15,15 +15,4 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 -- Regras de associação
 -- Processo ETL
 
-**Projetos**
-[CorePyx](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
 
-**Participações em Conferências**
-[ACM Symposium of Applied Computing](SAC)
-[American Medical Informatics Association](AMIA)
-[SPIE - Medical Imaging](SPIE)
-[IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)
-[Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)
-
-**Lista de todas as Publicações**
-[CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
