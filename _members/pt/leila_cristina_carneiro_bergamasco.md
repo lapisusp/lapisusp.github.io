@@ -36,9 +36,9 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 
 **Participações em Conferências**
 
-[ACM Symposium of Applied Computing](leila_files/construction.md) <br/>
-[American Medical Informatics Association](leila_files/construction.md)<br/>
-[SPIE - Medical Imaging](leila_files/construction.md)<br/>
-[IEEE Symposium on Computer-Based Medical Systems (CBMS)](leila_files/construction.md)<br/>
-[Conference on Graphics, Patterns and Images (SIBGRAPI)](leila_files/construction.md)<br/>
+[ACM Symposium of Applied Computing](/leila_files/construction.md) <br/>
+[American Medical Informatics Association](/leila_files/construction.md)<br/>
+[SPIE - Medical Imaging](/leila_files/construction.md)<br/>
+[IEEE Symposium on Computer-Based Medical Systems (CBMS)](/leila_files/construction.md)<br/>
+[Conference on Graphics, Patterns and Images (SIBGRAPI)](/leila_files/construction.md)<br/>
 
