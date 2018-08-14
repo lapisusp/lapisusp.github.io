@@ -19,12 +19,12 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 - 3D medical data processing
 - Similarity methods
 - Recommendation systems
- - Colaborative filtering
- - Scoring and ranking approaches
- - Evaluation methods
+  - Colaborative filtering
+  - Scoring and ranking approaches
+  - Evaluation methods
 - Data Mining
- - Association rules
- - ETL process
+  - Association rules
+  - ETL process
 
 - Data Mining
   - Regras de associação
