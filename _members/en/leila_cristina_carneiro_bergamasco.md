@@ -26,12 +26,6 @@ It has active participation as a reviewer of Brazilian scientific events and jou
   - Association rules
   - ETL process
 
-- Data Mining
-  - Regras de associação
-  - Processo ETL
-- Sistemas de recomendação
-  - Filtragem colaborativa
-  - Métodos de avaliação
 **Projects**
 [CorePyx](CorePyx)
 
