@@ -29,6 +29,10 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 
 [CorePyx](CorePyx)
 
+**Prêmios**
+- 2012: Prêmio Santander Universidades
+- 2017: Menção Honrosa obtida pela Escola Politécnica - Universidade de São Paulo, relacionado ao projeto de Doutorado
+
 **Participações em Conferências**
 
 [ACM Symposium of Applied Computing](SAC) <br/>
@@ -37,6 +41,3 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 [IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)<br/>
 [Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)<br/>
 
-**Lista de todas as Publicações**
-
-[CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
