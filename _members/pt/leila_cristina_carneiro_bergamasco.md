@@ -27,7 +27,8 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
   - Métodos de avaliação
 
 **Projetos**
-[CorePyx](CorePyx)
+
+- [CorePyx](CorePyx)
 
 **Prêmios**
 - 2012: Prêmio Santander Universidades
