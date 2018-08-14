@@ -27,8 +27,11 @@ It has active participation as a reviewer of Brazilian scientific events and jou
  - ETL process
 
 **Projects**
-
 [CorePyx](CorePyx)
+
+**Awards**
+- 2012: Santander University Award
+- 2017: Honorable mention from Polythecnic School - University of São Paulo, related to his Ph.D thesis
 
 **Partitipation on scientific conferences**
 
