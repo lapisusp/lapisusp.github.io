@@ -23,10 +23,10 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
   - Processo ETL
 - Sistemas de recomendação
   - Filtragem colaborativa
+  - Scoring e ranking
   - Métodos de avaliação
 
 **Projetos**
-
 [CorePyx](CorePyx)
 
 **Prêmios**
