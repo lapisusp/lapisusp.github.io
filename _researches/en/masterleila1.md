@@ -1,14 +1,14 @@
 ---
-title: Recuperação de Imagens Cardíacas Tridimensionais por Conteúdo
+title: Content-based retrieval of cardiac 3D medical images
 update: "2016-01-07"
 header-img: "img/projects/retrieval/cadsystem.jpg"
 members:
-  - "Leila Bergamasco"
   - "Fátima L. S. Nunes"
+  - "Leila Bergamasco"
 links:
     - name: "Dissertation in Portuguese"
       url: "files/researches/3CBIRDissertacaoFinalLeila.pdf"
-project:      "Recuperação de Informação"
+project:      "Information Retrieval"
 ---
 ![i1](http://lapis.each.usp.br/img/projects/retrieval/3dhtd.PNG) ![i2](http://lapis.each.usp.br/img/projects/retrieval/prototipo1.PNG)
 
