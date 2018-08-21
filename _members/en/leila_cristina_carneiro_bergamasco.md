@@ -27,6 +27,8 @@ It has active participation as a reviewer of Brazilian scientific events and jou
   - ETL process
 
 **Projects**
+
+- [3D cardiac images retrieval](http://lapis.each.usp.br/en/research/masterleila1/) 
 - [CorePyx](CorePyx)
 
 **Awards**
