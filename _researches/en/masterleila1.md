@@ -5,7 +5,7 @@ header-img: "img/projects/retrieval/cadsystem.jpg"
 members:
     - "Leila Bergamasco"
 links:
-    - name: "Dissertação"
+    - name: "Dissertation in Portuguese"
       url: "files/researches/3CBIRDissertacaoFinalLeila.pdf"
 project:      "Recuperação de Informação"
 ---
