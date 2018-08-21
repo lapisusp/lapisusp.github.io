@@ -28,7 +28,7 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 
 **Projetos**
 
-- [3D cardiac images retrieval](http://lapis.each.usp.br/pt/research/recuperacao-de-imagens-cardiacas-tridimensionais-por-conteudo/) 
+- [Recuperação de imagens cardíacas 3D](http://lapis.each.usp.br/pt/research/recuperacao-de-imagens-cardiacas-tridimensionais-por-conteudo/) 
 - [CorePyx](http://lapis.each.usp.br/pt/research/recuperacao-interativa-regional-baseada-em-conteudo-de-modelos-tridimensionais-medicos-para-sistemas-de-auxilio-ao-diagnostico/)
 
 **Prêmios**
