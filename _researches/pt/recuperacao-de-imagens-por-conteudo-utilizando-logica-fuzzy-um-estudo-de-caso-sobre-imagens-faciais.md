@@ -5,7 +5,7 @@ project: "Recuperação de Informação"
 members:
   - "Leila Cristina Carneiro Bergamasco"
   - "Fátima L. S. Nunes"
-header-img: "img/projects/antigos/rr2.preview.png"
+header-img: "img/projects/retrieval/fuzzy.jpg"
 links:
     - name: "Monografia"
       url: "files/researches/MonografiaFinalLeila.pdf"
