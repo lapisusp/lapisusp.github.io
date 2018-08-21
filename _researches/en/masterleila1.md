@@ -3,8 +3,8 @@ title: Content-based retrieval of cardiac 3D medical images
 update: "2016-01-07"
 header-img: "img/projects/retrieval/cadsystem.jpg"
 members:
-  - "Fátima L. S. Nunes"
   - "Leila Bergamasco"
+  - "Fátima L. S. Nunes"
 links:
     - name: "Dissertation in Portuguese"
       url: "files/researches/3CBIRDissertacaoFinalLeila.pdf"
