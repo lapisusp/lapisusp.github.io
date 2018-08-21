@@ -3,7 +3,7 @@ title: Recuperação de imagens por conteúdo utilizando Lógica Fuzzy - um estu
 update: "2016-01-07"
 project: "Recuperação de Informação"
 members:
-  - "Leila Cristina Carneiro Bergamasco"
+  - "Leila Bergamasco"
   - "Fátima L. S. Nunes"
 header-img: "img/projects/retrieval/fuzzy.jpg"
 links:
