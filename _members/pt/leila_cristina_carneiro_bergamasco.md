@@ -28,17 +28,10 @@ Possui participação ativa como revisora de eventos e revistas brasileiras e ev
 
 **Projetos**
 
-- [CorePyx](/_researches/pt/recuperacao-interativa-regional-baseada-em-conteudo-de-modelos-tridimensionais-medicos-para-sistemas-de-auxilio-ao-diagnostico.md)
+- [CorePyx](/pt/recuperacao-interativa-regional-baseada-em-conteudo-de-modelos-tridimensionais-medicos-para-sistemas-de-auxilio-ao-diagnostico.md)
 
 **Prêmios**
 - 2012: Prêmio Santander Universidades
 - 2017: Menção Honrosa obtida pela Escola Politécnica - Universidade de São Paulo, relacionado ao projeto de Doutorado
 
-**Participações em Conferências**
-
-[ACM Symposium of Applied Computing](/leila_files/construction.md) <br/>
-[American Medical Informatics Association](/leila_files/construction.md)<br/>
-[SPIE - Medical Imaging](/leila_files/construction.md)<br/>
-[IEEE Symposium on Computer-Based Medical Systems (CBMS)](/leila_files/construction.md)<br/>
-[Conference on Graphics, Patterns and Images (SIBGRAPI)](/leila_files/construction.md)<br/>
 
