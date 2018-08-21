@@ -29,7 +29,7 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 **Projects**
 
 - [3D cardiac images retrieval](http://lapis.each.usp.br/en/research/masterleila1/) 
-- [CorePyx](CorePyx)
+- [CorePyx](http://lapis.each.usp.br/en/research/corepyx/)
 
 **Awards**
 - 2012: Santander University Award
