@@ -1,6 +1,7 @@
 ---
 title: Recuperação de Imagens Cardíacas Tridimensionais por Conteúdo
 update: "2016-01-07"
+header-img: "img/projects/retrieval/cadsystem.jpg"
 members:
   - "Leila Bergamasco"
   - "Fátima L. S. Nunes"
