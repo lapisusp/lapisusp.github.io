@@ -1,6 +1,6 @@
 ---
 order: 2
-name: Leila Cristina Carneiro Bergamasco
+name: Leila Bergamasco
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6
 mail: leila.cristina@usp.br
 photo: "img/members/leila3x4.jpg"
