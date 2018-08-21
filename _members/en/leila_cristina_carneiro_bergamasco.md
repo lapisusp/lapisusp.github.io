@@ -33,14 +33,6 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 - 2012: Santander University Award
 - 2017: Honorable mention from Polythecnic School - University of São Paulo, related to his Ph.D thesis
 
-**Partitipation on scientific conferences**
-
-[ACM Symposium of Applied Computing](SAC) <br/>
-[American Medical Informatics Association](AMIA)<br/>
-[SPIE - Medical Imaging](SPIE)<br/>
-[IEEE Symposium on Computer-Based Medical Systems (CBMS)](CBMS)<br/>
-[Conference on Graphics, Patterns and Images (SIBGRAPI)](SIBGRAPI)<br/>
-
 **List of all publications**
 
 [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6)
