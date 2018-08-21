@@ -27,7 +27,7 @@ It has active participation as a reviewer of Brazilian scientific events and jou
   - ETL process
 
 **Projects**
-[CorePyx](CorePyx)
+- [CorePyx](CorePyx)
 
 **Awards**
 - 2012: Santander University Award
