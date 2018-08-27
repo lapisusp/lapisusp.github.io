@@ -1,6 +1,6 @@
 ---
 title: Visualização 3D interativa de dados médicos temporais
-update: "2018-08-02"
+update: "2018-08-27"
 project: "Visualização de Informação"
 members:
   - "Leonardo Souza Silva"
@@ -18,7 +18,7 @@ Dados temporais não possuem uma representação natural, por essa razão a busc
 
 <UL>
 <LI> <B>Dr. Samir GARBAYA</B>, professor associado na <I>École Nationale Supérieure d´Arts et Métiers – ParisTech University</I>, pesquisador no END: ICAP Laboratory INSERM U1179.</LI>
-  <LI> <B>Professor Médico Romeu Carillo Jr., Me.</B>, Chefe do Departamento de Homeopatia do Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP, Presidente da Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH) - São Paulo/SP.</LI>
+  <LI> <B>Professor Médico Romeu Carillo Jr., Me.</B>, Chefe do Departamento de Homeopatia do Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP, Presidente da <a href="http://www.abrah.org.br/">Associação Brasileira de Reciclagem e Assistência em Homeopatia</a> (ABRAH) - São Paulo/SP.</LI>
   </UL>
 
 <BR>
