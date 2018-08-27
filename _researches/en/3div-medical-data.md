@@ -18,7 +18,7 @@ Temporal Data lacks a natural representation, thus the search for a visual repre
 
 <UL>
 <LI> <B>Dr. Samir GARBAYA</B>, associate professor at <I>École Nationale Supérieure d´Arts et Métiers</I> – ParisTech University, Researcher Scientist at END: ICAP Laboratory INSERM U1179.</LI>
-<LI> <B>Professor Romeu Carillo Jr., M. D.</B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at "[Associação Brasileira de Reciclagem e Assistência em Homeopatia (ABRAH)](http://www.abrah.org.br/)" - São Paulo/SP - Brazil.</LI>
+<LI> <B>Professor Romeu Carillo Jr., M. D.</B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at "[Associação Brasileira de Reciclagem e Assistência em Homeopatia](http://www.abrah.org.br/)" (ABRAH) - São Paulo/SP - Brazil.</LI>
 </UL>
  
 <BR>
