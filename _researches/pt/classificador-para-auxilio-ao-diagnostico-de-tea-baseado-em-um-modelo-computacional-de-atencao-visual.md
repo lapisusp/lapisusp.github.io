@@ -3,7 +3,7 @@ title: "Classificador para auxílio ao diagnóstico de TEA baseado em um modelo 
 update: "2018-01-07"
 project: "Processamento de Imagens"
 members:
-  - "Jéssica dos Santos Oliveira"
+  - "Jéssica dos Santos de Oliveira"
   - "Fátima L. S. Nunes"
 ---
 
