@@ -5,9 +5,9 @@ project: "Processamento de Imagens"
 members:
   - "Jéssica dos Santos de Oliveira"
   - "Fátima L. S. Nunes"
-  links:
-      - name: "Dissertação"
-        url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-01022018-100042/pt-br.php"
+links:
+    - name: "Dissertação"
+      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-01022018-100042/pt-br.php"
 ---
 
 {% include youtube.html id="djOT6tEBe60" %}
