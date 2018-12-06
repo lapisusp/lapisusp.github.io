@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-        <a id="logo" class="navbar-brand js-scroll-trigger" href="#page-top">
+        <a id="logo" class="navbar-brand js-scroll-trigger" href="/">
             <img itemprop="logo"
                  src="{{ '/img/lapis.png' | absolute_url }}"
                  alt="LApIS – Laboratório de Aplicações de Informática em Saúde">
@@ -32,6 +32,11 @@
                     <a class="nav-link js-scroll-trigger"
                        href="{{ page.language | append: '/members/' | absolute_url }}">{{
                         site.data.nav.members[page.language] }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger"
+                       target="_blank"
+                       href="https://www.youtube.com/channel/UCAgeRVLEB3eG8zGQqhEs3tA">Videos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger"
