@@ -1,7 +1,7 @@
 <section id="info">
     <div class="container">
         {{ page.lang }}
-        {% assign members = site.members | where:"language", page.language %}
+        {% assign members = site.members | where:"language", page.language | where:"language", page.language %}
         {% assign members = (members | sort: 'order') %}
         {% assign counter = 0 %}
         {% for member in members %}
@@ -15,5 +15,24 @@
         </div>
         {% endif %}
         {% endfor %}
+        
+        
+        <h2>Alumni</h2>
+
+        {% assign almunis = site.members | where:"language", page.language | where:"membership", "Alumni" %}
+        {% assign alumnis = (members | sort: 'order') %}
+        {% assign counter = 0 %}
+        {% for alumni in alumnis %}
+        {% if counter == 0 %}
+        <div class="row">
+            {% endif %}
+            {% include member.html %}
+            {% assign counter=counter | plus:1 %}
+            {% if counter == 6 %}
+            {% assign counter = 0 %}
+        </div>
+        {% endif %}
+        {% endfor %}
+        
     </div>
 </section>
