@@ -1,6 +1,12 @@
 current:
   en: Members
   pt: Membros
+professors:
+  en: Professors
+  pt: Docentes
+students:
+  en: Participants
+  pt: Integrantes
 old:
   en: Alumini
   pt: Alumini

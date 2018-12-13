@@ -11,9 +11,35 @@
         </div>
 
         {% assign all_members = site.members | where:"language", page.language %}
-        {% assign members = (all_members | where_exp:"item", "item.order < 3" ) %}
-        {% assign members = members | sort: "order" %}
-        {% include members_rows.html %}
+        {% assign all_members = all_members | sort: "order" %}
+
+
+
+
+        <div class="row">
+            <div class="col">
+              <div class="info-research">
+                  <h3>{{ site.data.members.professors[page.language] }}</h3>
+              </div>
+            </div>
+        </div>
+
+        {% assign members = (all_members | where_exp:"item", "item.order < 2" ) %}
+
+        {% include members_list.html %}
+
+
+        <div class="row">
+            <div class="col">
+              <div class="info-research">
+                  <h3>{{ site.data.members.students[page.language] }}</h3>
+              </div>
+            </div>
+        </div>
+
+        {% assign members = (all_members | where_exp:"item", "item.order == 2" ) %}
+
+        {% include members_list.html %}
 
 
         <div class="row">
@@ -26,8 +52,7 @@
 
 
         {% assign members = (all_members | where_exp:"item", "item.order > 3") %}
-        {% assign members = members | sort: "order" %}
-        {% include members_rows.html %}
+        {% include members_list.html %}
 
     </div>
 </section>
