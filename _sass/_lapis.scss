@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700,900');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 #logos img {
   margin-left: 15px;
   height: 50px;
