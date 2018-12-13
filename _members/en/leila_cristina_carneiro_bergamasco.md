@@ -4,7 +4,7 @@ name: Leila Bergamasco
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6
 mail: leila.cristina@usp.br
 photo: "img/members/leila3x4.jpg"
-membership: PHD Candidate
+membership: PHD
 ---
 
 
@@ -28,7 +28,7 @@ It has active participation as a reviewer of Brazilian scientific events and jou
 
 **Projects**
 
-- [3D cardiac images retrieval](http://lapis.each.usp.br/en/research/masterleila1/) 
+- [3D cardiac images retrieval](http://lapis.each.usp.br/en/research/masterleila1/)
 - [CorePyx](http://lapis.each.usp.br/en/research/corepyx/)
 
 **Awards**
