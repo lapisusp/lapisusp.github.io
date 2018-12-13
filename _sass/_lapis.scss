@@ -103,6 +103,19 @@ a:hover{
     border-bottom-right-radius: 0;
     border-top-left-radius: 1.5em;
     border-bottom-left-radius: 1.5em;
+    background: none;
+}
+
+.input-group>.custom-select:not(:last-child)::placeholder, .input-group>.form-control:not(:last-child)::placeholder{
+  color: #fff;
+}
+
+nav .border{
+  border: 2px;
+}
+
+.search-box .btn{
+  background: none;
 }
 
 /* Listagem de membros */
