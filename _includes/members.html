@@ -1,19 +1,32 @@
 <section id="info">
     <div class="container">
         {{ page.lang }}
-        {% assign members = site.members | where:"language", page.language | where:"language", page.language %}
-        {% assign members = (members | sort: 'order') %}
-        {% assign counter = 0 %}
-        {% for member in members %}
-        {% if counter == 0 %}
+
         <div class="row">
-            {% endif %}
-            {% include member.html %}
-            {% assign counter=counter | plus:1 %}
-            {% if counter == 6 %}
-            {% assign counter = 0 %}
+            <div class="col">
+              <div class="info-research">
+                  <h2>{{ site.data.members.current[page.language] }}</h2>
+              </div>
+            </div>
         </div>
-        {% endif %}
-        {% endfor %}        
+
+        {% assign all_members = site.members | where:"language", page.language %}
+        {% assign all_members = all_members | sort: "order %}
+        {% assign members = (all_members | where_exp:"item", "item.order < 3") %}
+        {% include members_rows.html %}
+
+
+        <div class="row">
+            <div class="col">
+              <div class="info-research">
+                  <h2>{{ site.data.members.old[page.language] }}</h2>
+              </div>
+            </div>
+        </div>
+
+
+        {% assign members = (all_members | where_exp:"item", "item.order > 3") %}
+        {% include members_rows.html %}
+
     </div>
 </section>
