@@ -11,8 +11,8 @@
         </div>
 
         {% assign all_members = site.members | where:"language", page.language %}
-        {% assign all_members = all_members | sort: "order %}
-        {% assign members = (all_members | where_exp:"item", "item.order < 3") %}
+        {% assign members = (all_members | where_exp:"item", "item.order < 3" ) %}
+        {% assign members = members | sort: "order" %}
         {% include members_rows.html %}
 
 
@@ -26,6 +26,7 @@
 
 
         {% assign members = (all_members | where_exp:"item", "item.order > 3") %}
+        {% assign members = members | sort: "order" %}
         {% include members_rows.html %}
 
     </div>
