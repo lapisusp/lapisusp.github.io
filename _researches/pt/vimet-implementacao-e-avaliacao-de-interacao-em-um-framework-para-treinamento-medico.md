@@ -2,6 +2,7 @@
 title: "Vimet - Implementação E Avaliação De Interação Em Um Framework Para Treinamento Médico"
 update: "2016-01-07"
 project: "Jogos Sérios"
+software: "VIMET"
 members:
     - "Cleber Gimenez Correa"
     - "Fátima L. S. Nunes"

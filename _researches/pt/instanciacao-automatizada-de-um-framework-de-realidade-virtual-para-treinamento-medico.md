@@ -3,6 +3,7 @@ title: Instanciação automatizada de um framework de Realidade Virtual para tre
   médico
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
+software: "VIMET"
 members:
     - "Daniela Oliveira Bertolli"
     - "Fátima L. S. Nunes"

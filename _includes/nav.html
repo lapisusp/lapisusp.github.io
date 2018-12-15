@@ -25,6 +25,11 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger"
+                       href="{{ page.language | append: '/#softwares' | absolute_url }}">{{
+                        site.data.nav.softwares[page.language] }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger"
                        href="{{ page.language | append: '/#lablocation' | absolute_url }}">{{
                         site.data.nav.location[page.language] }}</a>
                 </li>

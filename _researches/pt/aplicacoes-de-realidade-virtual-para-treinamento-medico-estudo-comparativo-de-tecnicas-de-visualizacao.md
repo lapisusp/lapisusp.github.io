@@ -2,6 +2,7 @@
 title: "Aplicações de Realidade Virtual para Treinamento Médico: estudo comparativo de Técnicas de visualização"
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
+software: "VIMET"
 members:
   - "Marcela Braga Afonso"
   - "Fátima L. S. Nunes"

@@ -30,6 +30,9 @@ collections:
   projects:
     output: true
     permalink: /project/:name
+  softwares:
+    output: true
+    permalink: /software/:name
 
 defaults:
   - scope:
@@ -37,17 +40,25 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+      type: "project"
   - scope:
       path: ""
       type: "researches"
     values:
       layout: "research"
+      type: "research"
   - scope:
       path: ""
       type: "members"
     values:
       layout: "member"
       type: "member"
+  - scope:
+      path: ""
+      type: "softwares"
+    values:
+      layout: "software"
+      type: "software"
   - scope:
       type: "members"
     values:
@@ -83,6 +94,18 @@ defaults:
     values:
       language: "en"
       permalink: /en/research/:name/
+  - scope:
+      path: "_softwares/pt"
+      type: "softwares"
+    values:
+      language: "pt"
+      permalink: /pt/software/:name/
+  - scope:
+      path: "_softwares/en"
+      type: "softwares"
+    values:
+      language: "en"
+      permalink: /en/software/:name/
 
 # Build settings
 markdown: kramdown

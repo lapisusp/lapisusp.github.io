@@ -1,4 +1,8 @@
-{% assign cards = site.researches | where: "project", page.title | where:"language", page.language %}
+{% if page.type == "project" %}
+  {% assign cards = site.researches | where: "project", page.title | where:"language", page.language %}
+{% elsif page.type == "software" %}
+  {% assign cards = site.researches | where: "software", page.title | where:"language", page.language %}
+{% endif %}
 <div class="research-list">
-{% include cards.html %}
+  {% include cards.html %}
 </div>

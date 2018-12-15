@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% include header-img.html %}
+
+{% include pre-info.html %}
+
+<div class="row">
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+        {% assign c = content | strip_newlines %}
+        {% if c != "" %}
+            <div class="info-research">
+                <h2>{{ site.data.research.info[page.language] }}</h2>
+            </div>
+        {% endif %}
+
+        {{ content }}
+
+        <div class="info-research">
+            <h2>{{ site.data.research.researches[page.language] }}</h2>
+        </div>
+        {% include researches.html %}
+
+    </div>
+</div>

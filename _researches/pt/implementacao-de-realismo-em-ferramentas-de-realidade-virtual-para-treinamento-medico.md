@@ -3,6 +3,7 @@ title: Implementação de realismo em ferramentas de realidade virtual para trei
   médico
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
+software: "VIMET"
 members:
     - "Paulo Rodrigues Felisbino"
     - "Fátima L. S. Nunes"

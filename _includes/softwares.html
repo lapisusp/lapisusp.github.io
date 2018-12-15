@@ -1,0 +1,18 @@
+<!--<section id="projects" class="bg-primary text-center">
+    <div class="container">
+
+    </div>
+</section>-->
+
+<section id="softwares" class="no-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="section-heading projects-title">{{ site.data.nav.softwares[page.language] }}</h2>
+                <hr>
+            </div>
+        </div>
+        {% assign cards = site.softwares | where:"language", page.language %}
+        {% include cards.html %}
+    </div>
+</section>
