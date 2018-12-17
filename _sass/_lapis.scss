@@ -193,6 +193,7 @@ nav .border{
   border-top: 0px solid orange;
   height: 250px;
   overflow: hidden;
+  border-radius: none;
 }
 
 .card-body{
@@ -204,6 +205,10 @@ nav .border{
 .card img{
   -webkit-filter: grayscale(90%); /* Safari 6.0 - 9.0 */
   filter: grayscale(90%);
+}
+
+.card-img-top{
+  border-radius:none;
 }
 
 .card:hover{
