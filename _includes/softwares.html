@@ -8,8 +8,10 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="section-heading projects-title">{{ site.data.nav.softwares[page.language] }}</h2>
-                <hr>
+                <div class="titulo">
+                    <h2 class="section-heading projects-title">{{ site.data.nav.softwares[page.language] }}</h2>
+                    <hr>
+                </div>
             </div>
         </div>
         {% assign cards = site.softwares | where:"language", page.language %}
