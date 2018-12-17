@@ -202,8 +202,8 @@ nav .border{
 }
 
 .card img{
-  -webkit-filter: grayscale(60%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(60%);
+  -webkit-filter: grayscale(90%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
 }
 
 .card:hover{
@@ -277,6 +277,10 @@ nav .border{
   border-bottom: 5px solid #f1c40f;
   width: auto;
   display: inline-block;
+}
+
+#researchprojects {
+  border-bottom: 1px solid #fff;
 }
 
 /* videos */
