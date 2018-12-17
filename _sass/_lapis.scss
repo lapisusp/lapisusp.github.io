@@ -230,6 +230,11 @@ nav .border{
 
 /* Section */
 
+.titulo{
+  margin-top:20px;
+  border-bottom: 1px solid #fff;
+}
+
 #researchprojects .section-heading{
   font-family: 'Raleway', sans-serif;
   font-weight: 900;
@@ -251,7 +256,7 @@ nav .border{
 }
 
 #softwares{
-    background-color: #777;
+    background-color: #575fcf;
     padding: 80px 0 100px;
     background-image: url(/img/grid-pattern.png);
     background-position: left bottom;
@@ -260,6 +265,9 @@ nav .border{
 
 #softwares h2{
   color: #fff;
+  border-bottom: 5px solid orange;
+  width: auto;
+  display: inline-block;
 }
 
 /* videos */
