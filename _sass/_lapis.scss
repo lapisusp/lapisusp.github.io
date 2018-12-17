@@ -255,9 +255,6 @@ nav .border{
 .projects-title{
   font-family: 'Bitter', sans-serif;
   font-weight: 900;
-  text-align: left;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #ddd;
 }
 
 #softwares{
@@ -269,6 +266,13 @@ nav .border{
 }
 
 #softwares h2{
+  color: #fff;
+  border-bottom: 5px solid #f1c40f;
+  width: auto;
+  display: inline-block;
+}
+
+#researchprojects h2{
   color: #fff;
   border-bottom: 5px solid #f1c40f;
   width: auto;
