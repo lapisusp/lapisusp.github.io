@@ -1,0 +1,18 @@
+<section id="news" class="no-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="titulo">
+                    <h2 class="section-heading projects-title">{{ site.data.nav.projects[page.language] }}</h2>
+                </div>
+            </div>
+        </div>
+        {% if page.alert.text %}
+            <div class="alert alert-warning" role="alert">
+                <a href="{{ page.alert.url | absolute_url }}">{{ page.alert.text }}</a>
+            </div>
+        {% endif %}
+        {% assign cards = site.news | where:"language", page.language %}
+        {% include cards.html %}
+    </div>
+</section>
