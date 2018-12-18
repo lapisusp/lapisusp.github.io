@@ -10,7 +10,9 @@
 {% include softwares.html %}
 {% include social-networks.html %}
 {% include news.html %}
-{% include location.html %}
+{% if page.language=="pt" %}
+  {% include location.html %}
+{% endif %}
 {% include footer.html %}
 {% include scripts.html %}
 </body>
