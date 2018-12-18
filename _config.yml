@@ -33,6 +33,9 @@ collections:
   softwares:
     output: true
     permalink: /software/:name
+  news:
+    output: true
+    permalink: /news/:name
 
 defaults:
   - scope:
