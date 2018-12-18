@@ -1,0 +1,16 @@
+	<section id="socialnetworks">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<h2>Acompanhe-nos</h2>
+				</div>
+				<div class="col-6">
+					<ul>
+						<li><a href="#" target="_blank"><img src="/img/facebook.png"></a></li>
+						<li><a href="#" target="_blank"><img src="/img/instagram.png"></a></li>
+						<li><a href="#" target="_blank"><img src="/img/youtube.png"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>		
+	</section>
