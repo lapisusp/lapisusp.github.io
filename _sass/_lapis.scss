@@ -199,7 +199,7 @@ nav .border{
   border-top: 0px solid orange;
   height: 250px;
   overflow: hidden;
-  border-radius: none;
+  border-radius: 0px;
 }
 
 .card-body{
@@ -214,7 +214,8 @@ nav .border{
 }
 
 .card-img-top{
-  border-radius:none;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
 }
 
 .card:hover{
