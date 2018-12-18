@@ -314,6 +314,21 @@ nav .border{
   height: 100%;
 }
 
+/* Redes sociais */
+
+		#socialnetworks ul{
+			list-style: none;
+		}
+
+		#socialnetworks ul li{
+			display: inline-block;
+			padding-left: 30px;
+		}
+
+		#socialnetworks h2{
+			text-align: right;
+		}
+
 /* Ajustes no card para páginas de researches */
 
 .research-list .card{
