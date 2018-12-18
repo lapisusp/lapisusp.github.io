@@ -320,6 +320,11 @@ nav .border{
   display: inline-block;
 }
 
+#news .card-image{
+  max-height: 150px;
+  overflow: hidden;
+}
+
 #lablocation h2{
   color: #222;
   border-bottom: 5px solid #f1c40f;
