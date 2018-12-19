@@ -2,7 +2,7 @@
 title: Aplicando aspectos imersivos em um Serious Game para treinamento médico virtual
 update: "2016-01-06"
 project: "Jogos Sérios"
-software: "VIMET"
+software: "ViMeT - Virtual Medical Training"
 members:
   - "Rafael Siqueira Torres"
   - "Fátima L. S. Nunes"

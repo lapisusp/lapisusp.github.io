@@ -3,7 +3,7 @@ title: Avaliação automatizada de ferramentas de realidade virtual para treinam
   médico
 update: "2016-01-07"
 project: "Realidade Virtual e Computação Gráfica"
-software: "VIMET"
+software: "ViMeT - Virtual Medical Training"
 members:
   - "Lucas Prieto Nogueira"
   - "Fátima L. S. Nunes"

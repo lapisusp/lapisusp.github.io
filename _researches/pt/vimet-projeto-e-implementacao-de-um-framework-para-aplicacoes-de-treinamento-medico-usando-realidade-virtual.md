@@ -3,7 +3,7 @@ title: ViMeT - Projeto e Implementação de um Framework para Aplicações de Tr
   Médico usando Realidade Virtual
 update: "2010-03-05"
 project: "Jogos Sérios"
-software: "VIMET"
+software: "ViMeT - Virtual Medical Training"
 members:
   - "Ana Cláudia M. T. G. de Oliveira"
   - "Fátima L. S. Nunes"

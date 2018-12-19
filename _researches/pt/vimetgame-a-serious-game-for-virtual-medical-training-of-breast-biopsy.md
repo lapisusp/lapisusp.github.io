@@ -2,7 +2,7 @@
 title: "ViMeTGame: A serious game for virtual medical training of breast biopsy"
 update: "2016-01-06"
 project: "Jogos Sérios"
-software: "VIMET"
+software: "ViMeT - Virtual Medical Training"
 members:
   - "Rafael Siqueira Torres"
   - "Fátima L. S. Nunes"
