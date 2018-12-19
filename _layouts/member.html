@@ -29,6 +29,29 @@ layout: default
                 <hr>
 
             </div>
+
+          </div>
+
+          <div class="row">
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+              <div class="info-research">
+                  <h2>{{ site.data.research.researches[page.language] }}</h2>
+              </div>
+
+              <div class="card-columns">
+                {% assign researches = site.researches | where:"language", page.language %}
+                {% for research in researches %}
+                  {% for research_member in research.members %}
+                      {% if page.name == research_member %}
+                          {% assign card=research %}
+                          {% include card.html %}
+                      {% endif %}
+                  {% endfor %}
+                {% endfor %}
+            </div>
+          </div>
+
         </div>
+
     </div>
 </article>

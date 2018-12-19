@@ -1,22 +1,6 @@
 <div class="card-columns">
     {% assign sorted = (cards | sort: 'update' | reverse ) %}
     {% for card in sorted %}
-    {% if card.img-thumb %}
-    {% assign img = card.img-thumb %}
-    {% elsif card.header-img %}
-    {% assign img = card.header-img %}
-    {% elsif site.header-img %}
-    {% assign img = site.header-img %}
-    {% endif %}
-    <div class="card">
-        <a href="{{ card.url | absolute_url }}">
-            <div class="card-image">
-                <img class="card-img-top" src="{{ img | absolute_url }}">
-            </div>
-            <div class="card-body">
-                <h4 class="card-title">{{ card.title }}</h4>
-            </div>
-        </a>
-    </div>
+      {% include card.html %}
     {% endfor %}
 </div>

@@ -1,7 +1,7 @@
-{% if page.type == "project" %}
-  {% assign cards = site.researches | where: "project", page.title | where:"language", page.language %}
-{% elsif page.type == "software" %}
-  {% assign cards = site.researches | where: "software", page.title | where:"language", page.language %}
+{% if page.type == "member" %}
+{% assign cards = site.researches | where: page.type, page.name | where:"language", page.language %}
+{% else %}
+{% assign cards = site.researches | where: page.type, page.title | where:"language", page.language %}
 {% endif %}
 <div class="research-list">
   {% include cards.html %}
