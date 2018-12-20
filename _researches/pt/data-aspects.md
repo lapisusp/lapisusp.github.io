@@ -1,6 +1,6 @@
 ---
-title:   "Registro de dados de interação usando Programação Orientada a Aspectos em um sistema para avaliação da aquisição de conhecimento em Ambientes Virtuais de Aprendizagem tridimensionais"
-update:  "2012-07-20 12:00:00"
+title: "Registro de dados de interação usando Programação Orientada a Aspectos em um sistema para avaliação da aquisição de conhecimento em Ambientes Virtuais de Aprendizagem tridimensionais"
+update: "2012-07-20"
 project: "Realidade Virtual e Computação Gráfica"
 members:
     - "Rafael Luiz Testa"

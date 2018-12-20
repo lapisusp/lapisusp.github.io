@@ -1,6 +1,6 @@
 ---
-title:      "Facial expression synthesis in photographs"
-update:       2018-07-16 12:00:00
+title: "Facial expression synthesis in photographs"
+update: "2018-07-16"
 project: "Emotions representation"
 members:
     - "Rafael Luiz Testa"

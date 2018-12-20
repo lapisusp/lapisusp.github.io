@@ -1,9 +1,9 @@
 ---  
-layout:     project  
-title:      "Information Visualization"  
-update:      2018-08-02 12:00:00  
-author:     "Leonardo Souza Silva"  
-img-thumb:  "img/research_dataviz.png"
+layout: project  
+title: "Information Visualization"  
+update: "2018-08-02"  
+author: "Leonardo Souza Silva"  
+img-thumb: "img/research_dataviz.png"
 header-img: "img/projects/emotion-representation/sad-smile.jpg"  
 credit-img-author: "Sydney Sims"  
 credit-img-url: "https://unsplash.com/photos/fZ2hMpHIrbI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"  

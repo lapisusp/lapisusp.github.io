@@ -1,6 +1,6 @@
 ---
-title:      "Caracterização de etnias, sexos e faixas etárias em imagens faciais"
-update:       2018-02-15 12:00:00
+title: "Caracterização de etnias, sexos e faixas etárias em imagens faciais"
+update: "2018-02-15"
 project: "Representação de emoções"
 members:
     - "Bruno Sanchez de Araujo"

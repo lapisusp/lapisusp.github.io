@@ -1,8 +1,8 @@
 ---  
-title:      "ViMeT - Virtual Medical Training"  
-update:     "2013-06-2013 12:00:00"
-author:     "Fátima L. S. Nunes"
-img-thumb:  "img/softwares/vimetGameHaptico_0.jpg"
+title: "ViMeT - Virtual Medical Training"  
+update: "2013-06-2013"
+author: "Fátima L. S. Nunes"
+img-thumb: "img/softwares/vimetGameHaptico_0.jpg"
 
 ---
 

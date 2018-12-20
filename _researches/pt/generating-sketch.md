@@ -1,6 +1,6 @@
 ---
-title:      "Geração de expressões faciais a partir de antropometria e gramáticas para aplicação em jogos psiquiátricos"
-update:       2014-07-16 12:00:00
+title: "Geração de expressões faciais a partir de antropometria e gramáticas para aplicação em jogos psiquiátricos"
+update: "2014-07-16"
 project: "Representação de emoções"
 members:
     - "Rafael Luiz Testa"

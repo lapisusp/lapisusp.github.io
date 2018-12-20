@@ -8,7 +8,7 @@ members:
 links:
     - name: "Dissertação"
       url: "files/researches/3CBIRDissertacaoFinalLeila.pdf"
-project:      "Recuperação de Informação"
+project: "Recuperação de Informação"
 ---
 ![i1](http://lapis.each.usp.br/img/projects/retrieval/3dhtd.PNG) ![i2](http://lapis.each.usp.br/img/projects/retrieval/prototipo1.PNG)
 

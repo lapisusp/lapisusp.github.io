@@ -1,8 +1,8 @@
 ---
 order: 1
 layout: member
-name:   "Ariane Machado Lima"
-update: 2018-07-16 12:00:00
+name: "Ariane Machado Lima"
+update: "2018-07-16"
 membership: "Docente"
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4703763H4"
 mail: ariane.machado@usp.br

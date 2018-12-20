@@ -1,6 +1,6 @@
 ---
-title:  "Geração de caricaturas para representação de emoções usando processamento de imagens faciais e grafos And-Or"
-update: 2015-12-17 12:00:00
+title: "Geração de caricaturas para representação de emoções usando processamento de imagens faciais e grafos And-Or"
+update: "2015-12-17"
 members:
     - "Liseth Urpy Segundo Carpio"
     - "Fátima L. S. Nunes"

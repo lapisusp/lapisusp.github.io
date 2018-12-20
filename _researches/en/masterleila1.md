@@ -8,7 +8,7 @@ members:
 links:
     - name: "Dissertation in Portuguese"
       url: "files/researches/3CBIRDissertacaoFinalLeila.pdf"
-project:      "Information Retrieval"
+project: "Information Retrieval"
 ---
 ![i1](http://lapis.each.usp.br/img/projects/retrieval/3dhtd.PNG) ![i2](http://lapis.each.usp.br/img/projects/retrieval/prototipo1.PNG)
 

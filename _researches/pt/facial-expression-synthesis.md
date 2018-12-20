@@ -1,6 +1,6 @@
 ---
-title:      "Síntese de expressões faciais em fotografias"
-update:      2018-07-20 12:00:00
+title: "Síntese de expressões faciais em fotografias"
+update: "2018-07-20"
 project: "Representação de emoções"
 members:
     - "Rafael Luiz Testa"

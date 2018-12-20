@@ -1,6 +1,6 @@
 ---
 title: "VIDA (Virtual Interactive Distance-learning on Anatomy) que converte modelos tridimensionais em desenhos não"
-update: "2014-07-16 12:00:00"
+update: "2014-07-16"
 project: "Realidade Virtual e Computação Gráfica"
 members:
     - "Romero Tori"
