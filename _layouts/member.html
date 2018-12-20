@@ -39,7 +39,7 @@ layout: default
               </div>
 
               <div class="card-columns">
-                {% assign researches = site.researches | where:"language", page.language %}
+                {% assign researches = site.researches | where:"language", page.language | sort: 'update' | reverse %}
                 {% for research in researches %}
                   {% for research_member in research.members %}
                       {% if page.name == research_member %}
