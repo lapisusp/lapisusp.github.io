@@ -7,7 +7,7 @@
                 </div>
             </div>
         </div>        
-        {% assign cards = site.news %}
+        {% assign cards = site.news limit:3 %}
         {% include cards.html %}
     </div>
 </section>
