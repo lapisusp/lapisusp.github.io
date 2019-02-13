@@ -6,8 +6,9 @@
                     <h2 class="section-heading projects-title">Notícias</h2>
                 </div>
             </div>
-        </div>        
-        {% assign cards = site.news limit:3 %}
+        </div>
+        {% assign cards = site.news%}
+        {% assign n = 3 %}
         {% include cards.html %}
     </div>
 </section>

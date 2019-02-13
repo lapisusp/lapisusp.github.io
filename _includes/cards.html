@@ -1,6 +1,18 @@
 <div class="card-columns">
-    {% assign sorted = (cards | sort: 'update' | reverse ) %}
-    {% for card in sorted %}
-      {% include card.html %}
-    {% endfor %}
+  {% assign sorted = (cards | sort: 'update' | reverse ) %}
+
+    {% if n %}
+
+      {% for card in sorted  limit:n %}
+        {% include card.html %}
+      {% endfor %}
+
+    {% else %}
+
+      {% for card in sorted %}
+        {% include card.html %}
+      {% endfor %}
+
+    {% endif %}
+
 </div>
