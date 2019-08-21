@@ -4,6 +4,7 @@ layout: member
 name: "Helton Hideraldo Biscaro"
 lattes: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4703255H6"
 membership: "Docente"
+mail: heltonhb@usp.br
 photo: "img/members/helton.jpg"
 ---
 
