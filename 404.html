@@ -12,10 +12,17 @@ permalink: /404.html
             "pt": "pt",
             "en": "en"
         };
+        //build the serach
+        var previousURLString = document.referrer;
+        var previousURL = new URL(previousURLString);
+        var previousPath = previousURL.pathname;
+        //language
         var code = window.navigator.language || window.navigator.userLanguage || "pt";
         var language = languages[code];
         if (!language) { language = "pt"; }
-        document.location = "{{ '/' | absolute_url }}" + language + "/404/";
+        //redirect
+        document.location = "{{ '/' | absolute_url }}" + language + "/?q=" + previousPath;
+        
     </script>
     <noscript>
         <meta http-equiv="refresh" content="0; url=/pt/404/">
