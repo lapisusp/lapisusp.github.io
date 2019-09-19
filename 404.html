@@ -12,15 +12,15 @@ permalink: /404.html
             "pt": "pt",
             "en": "en"
         };
-        var previousURLString = document.referrer;
-        var previousURL = new URL(previousURLString);
-        var previousPath = previousURL.pathname;
+        var urlString = window.location.href;
+        var url = new URL(urlString);
+        var path = url.pathname;
 
         var code = window.navigator.language || window.navigator.userLanguage || "pt";
         var language = languages[code];
         if (!language) { language = "pt"; }
 
-        document.location = "{{ '/' | absolute_url }}" + language + "/?q=" + previousPath;
+        document.location = "{{ '/' | absolute_url }}" + language + "/?q=" + path;
         
     </script>
     <noscript>
