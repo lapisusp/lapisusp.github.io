@@ -7,9 +7,9 @@ members:
   - "Fátima L. S. Nunes"
 project: "Processamento de Imagens"
 ---
-![i1](http://lapis.each.usp.br/img/projects/segmentRMC/resumo_RMC2.png) 
+{% include image.html file="img/projects/segmentRMC/resumo_RMC2.png" alt="exame de ressonância magnética cardíaca" %}
 
-![i2](http://lapis.each.usp.br/img/projects/segmentRMC/exemplos_erros_anatomia.png)
+{% include image.html file="img/projects/segmentRMC/exemplos_erros_anatomia.png" alt="erros presentes em segmentações cardíacas" %}
 
 
 Exames de ressonância magnética cardíaca são reconhecidos como padrão-ouro para o diagnóstico de diversas doenças cardíacas (Fig. 1).
