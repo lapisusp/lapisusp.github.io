@@ -115,6 +115,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["node_modules","gulpfile.js","package.json","package.json.lock","README.md", ".idea"]
+exclude: ["node_modules","gulpfile.js","package.json","package.json.lock","README.md", ".idea", "vendor"]
 
 plugins: [jekyll-paginate, jekyll-feed, jekyll-redirect-from, jekyll-sitemap]
