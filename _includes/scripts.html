@@ -25,7 +25,7 @@
 </script>
 
 <!-- Google custom search -->
-<script>
+<!-- <script>
     (function() {
         var cx = '013225600336977498979:vsodzatpt-a';
         var gcse = document.createElement('script');
@@ -44,9 +44,20 @@
             $('#searchModal').modal('hide');
         }
      })();
-</script>
+</script> -->
 
 <!-- Custom pages js -->
+<script>
+(function() {
+   //custom
+  var url = new URL(window.location.href);
+  var q = url.searchParams.get("q");
+  if (q) {
+    document.location = "https://www5.usp.br/?s=" + q + "+site:lapis.each.usp.br";
+  }
+})();
+</script>
+
 <script>
 (function() {
   if ($('.card').length == 0)
