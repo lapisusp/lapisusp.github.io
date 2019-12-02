@@ -15,13 +15,17 @@ permalink: /404.html
         var urlString = window.location.href;
         var url = new URL(urlString);
         var path = url.pathname;
-        var res = path.replace(/\//g, "+");
+        
 
         var code = window.navigator.language || window.navigator.userLanguage || "pt";
         var language = languages[code];
         if (!language) { language = "pt"; }
 
-        document.location = "{{ '/' | absolute_url }}" + language + "/?q=" + res;
+        var path_words = path.replace(/\//g, "+");
+        path_words = path_words.replace(languages["pt"]+"+", "");
+        path_words = path_words.replace(languages["en"]+"+", "");
+
+        document.location = "{{ '/' | absolute_url }}" + language + "/?q=" + path_words;
         
     </script>
     <noscript>
