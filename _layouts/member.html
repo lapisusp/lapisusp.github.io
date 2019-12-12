@@ -12,9 +12,21 @@ layout: default
 <article>
     <div lass="container">
         <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+            <div id="member-icons" class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 {% if page.lattes %}
                 <a class="btn btn-secondary btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/icon-lattes.png' | absolute_url }}"> Lattes</a>
+                {% endif %}
+                {% if page.orcid %}
+                <a class="btn btn-secondary btn-large" href="{{ page.orcid }}" target="_blank"><img src="{{'img/ORCIDiD_icon32x32.png' | absolute_url }}"> ORCID</a>
+                {% endif %}
+                {% if page.scholar %}
+                <a class="btn btn-secondary btn-large" href="{{ page.scholar }}" target="_blank"><img src="{{'img/icons8-google-scholar-50.png' | absolute_url }}"> Google Scholar</a>
+                {% endif %}
+                {% if page.github %}
+                <a class="btn btn-secondary btn-large" href="{{ page.github }}" target="_blank"><img src="{{'img/GitHub-Mark-32px.png' | absolute_url }}"> Github</a>
+                {% endif %}
+                {% if page.linkedin %}
+                <a class="btn btn-secondary btn-large" href="{{ page.linkedin }}" target="_blank"><img src="{{'img/LI-In-Bug.png' | absolute_url }}"> LinkedIN</a>
                 {% endif %}
                 {% if page.mail %}
                 <a class="btn btn-secondary btn-large" href="mailto:{{ page.mail }}" target="_top"> <i class="fa fa-envelope"></i> {{ page.mail }}</a>
