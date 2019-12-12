@@ -5,6 +5,7 @@ name: "Ariane Machado Lima"
 update: "2018-07-16"
 membership: "Docente"
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4703763H4"
+orcid: "https://orcid.org/0000-0002-5719-338X"
 mail: ariane.machado@usp.br
 photo: "img/members/ariane.jpg"
 ---

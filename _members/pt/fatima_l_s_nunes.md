@@ -5,6 +5,7 @@ name: "Fátima L. S. Nunes"
 update: "2018-07-16"
 membership: "Coordenadora"
 lattes: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760963Y2"
+orcid: "https://orcid.org/0000-0003-0040-0752"
 mail: fatima.nunes@usp.br
 phone: (11) 3018 1040
 photo: "img/members/fatimalsnunes.png"
