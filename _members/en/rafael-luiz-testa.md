@@ -8,6 +8,7 @@ orcid: "https://orcid.org/0000-0002-7209-1111"
 scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=8NCe0IgAAAAJ"
 github: "https://github.com/lapidarioz"
 linkedin: "https://www.linkedin.com/in/rafaelluiztesta/"
+publons: "https://publons.com/researcher/2190408/rafael-luiz-testa/"
 photo: "img/members/rafael-luiz-testa.jpg"
 mail: rafael.testa@usp.br
 header-img: "img/members/rafael-luiz-testa2.jpg"

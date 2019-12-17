@@ -22,6 +22,9 @@ layout: default
                 {% if page.scholar %}
                 <a class="btn btn-secondary btn-large" href="{{ page.scholar }}" target="_blank"><img src="{{'img/icons8-google-scholar-50.png' | absolute_url }}"> Google Scholar</a>
                 {% endif %}
+                {% if page.publons %}
+                <a class="btn btn-secondary btn-large" href="{{ page.publons }}" target="_blank"><img src="{{'img/publons_blue_white_shadow.png' | absolute_url }}"> Publons</a>
+                {% endif %}
                 {% if page.github %}
                 <a class="btn btn-secondary btn-large" href="{{ page.github }}" target="_blank"><img src="{{'img/GitHub-Mark-32px.png' | absolute_url }}"> Github</a>
                 {% endif %}
