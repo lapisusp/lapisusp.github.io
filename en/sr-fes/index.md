@@ -9,4 +9,4 @@ redirect_from: "en/sr-fes"
 
 **Download docs:** 
 
-- [Testa2019-exported-docs.tar.gz](/files/researches/Testa2019-exported-docs.tar.gz)
+- [Dspace USP](https://repositorio.uspdigital.usp.br/handle/item/228)
