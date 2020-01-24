@@ -1,22 +1,22 @@
 ---
 title: ViMeT - Projeto e Implementação de um Framework para Aplicações de Treinamento
   Médico usando Realidade Virtual
-update: "2010-03-05"
-project: "Jogos Sérios"
-software: "ViMeT - Virtual Medical Training"
+update: '2010-03-05'
+project: Jogos Sérios
+software: ViMeT - Virtual Medical Training
 members:
-  - "Ana Cláudia M. T. G. de Oliveira"
-  - "Fátima L. S. Nunes"
+- Ana Cláudia M. T. G. de Oliveira
+- Fátima L. S. Nunes
 redirect_from:
-    - "25-2/"
-    - "ViMeT/"
+- 25-2/
+- ViMeT/
 links:
-    - name: "Monografia"
-      url: "http://aberto.univem.edu.br/bitstream/handle/11077/316/ViMeT+%13+Projeto+E+Implementa%E7%E3o+de+um+Framework+Para+Aplica%E7%F5es+De+Treinamento+M%E9dico+Usando+Realidade+Virtual.pdf?sequence=1"
-    - name: "Diagrma de classes"
-      url: "files/researches/DiagramadeClasses.pdf"
-    - name: "Cookbook"
-      url: "files/researches/Cookbook.pdf"
+- name: Monografia
+  url: http://aberto.univem.edu.br/bitstream/handle/11077/316/ViMeT+%13+Projeto+E+Implementa%E7%E3o+de+um+Framework+Para+Aplica%E7%F5es+De+Treinamento+M%E9dico+Usando+Realidade+Virtual.pdf?sequence=1
+- name: Diagrma de classes
+  url: files/researches/DiagramadeClasses.pdf
+- name: Cookbook
+  url: files/researches/Cookbook.pdf
 ---
 
 **Resumo**

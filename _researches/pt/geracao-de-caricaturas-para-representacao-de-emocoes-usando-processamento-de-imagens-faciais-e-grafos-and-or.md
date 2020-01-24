@@ -1,19 +1,20 @@
 ---
-title: "Geração de caricaturas para representação de emoções usando processamento de imagens faciais e grafos And-Or"
-update: "2015-12-17"
+title: Geração de caricaturas para representação de emoções usando processamento de
+  imagens faciais e grafos And-Or
+update: '2015-12-17'
 members:
-    - "Liseth Urpy Segundo Carpio"
-    - "Fátima L. S. Nunes"
-    - "Ariane Machado Lima"
-header-img: "img/projects/emotion-representation/cap4-fig2-grafo.png"
+- Liseth Urpy Segundo Carpio
+- Fátima L. S. Nunes
+- Ariane Machado Lima
+header-img: img/projects/emotion-representation/cap4-fig2-grafo.png
 links:
-    - name: "Dissertação"
-      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.php"
-    - name: "Código fonte"
-      url: "https://github.com/lapisusp/STEF"
-    - name: "Artigo CBMS"
-      url: https://ieeexplore.ieee.org/abstract/document/7167505/
-project: "Representação de emoções"
+- name: Dissertação
+  url: http://www.teses.usp.br/teses/disponiveis/100/100131/tde-16032016-193929/en.php
+- name: Código fonte
+  url: https://github.com/lapisusp/STEF
+- name: Artigo CBMS
+  url: https://ieeexplore.ieee.org/abstract/document/7167505/
+project: Representação de emoções
 ---
 
 A capacidade inata do homem em reconhecer emoções faciais desempenha um papel muito importante na interação interpessoal humana e na adaptação do homem na sociedade. Nos transtornos psiquiátricos, o paradigma de reconhecimento de faces vem recebendo maior atenção. Técnicas computacionais envolvendo processamento de imagens, reconhecimento de padrões e realidade virtual têm se mostrado aliadas na construção de ferramentas com o propósito de auxiliar no diagnóstico e na terapia de transtornos psiquiátricos. Verifica-se, entretanto, que boa parte dessas ferramentas são limitadas em relação à flexibilidade para gerar uma diversidade adequada de objetos.

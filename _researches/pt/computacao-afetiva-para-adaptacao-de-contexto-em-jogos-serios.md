@@ -1,18 +1,20 @@
 ---
-title: "Um framework de Computação Afetiva para adaptação automática de jogos sérios para reabilitação motora"
-update: "2016-01-06"
-project: "Computação Afetiva"
+title: Um framework de Computação Afetiva para adaptação automática de jogos sérios
+  para reabilitação motora
+update: '2016-01-06'
+project: Computação Afetiva
 members:
-  - "Renan Vinicius Aranha"
-  - "Fátima L. S. Nunes"
-header-img: "img/projects/affective-computing/woman-using-computer.jpg"  
-credit-img-author: "Bruce Mars"  
-credit-img-url: "https://www.pexels.com/photo/photo-of-woman-using-her-laptop-935756/"  
+- Renan Vinicius Aranha
+- Fátima L. S. Nunes
+header-img: img/projects/affective-computing/woman-using-computer.jpg
+credit-img-author: Bruce Mars
+credit-img-url: https://www.pexels.com/photo/photo-of-woman-using-her-laptop-935756/
 links:
-    - name: "Dissertação de mestrado"
-      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php"
-    - name: "Artigo - Using Affective Computing to Automatically Adapt Serious Games for Rehabilitation"
-      url: "https://ieeexplore.ieee.org/document/8104157/"
+- name: Dissertação de mestrado
+  url: http://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php
+- name: Artigo - Using Affective Computing to Automatically Adapt Serious Games for
+    Rehabilitation
+  url: https://ieeexplore.ieee.org/document/8104157/
 ---
 
 A utilização de jogos sérios tem chamado a atenção de pesquisadores e profissionais da área de saúde por extrapolarem o objetivo de entretenimento, em geral incluindo metas de aprendizagem ou treinamento. No contexto do processo de reabilitação motora, jogos sérios têm sido amplamente utilizados com o intuito de tornar tal processo mais atrativo para o paciente, que pode estar sujeito a situações desmotivadoras durante as sessões de fisioterapia como, por exemplo, a sensação de dor durante a realização de algumas atividades. 

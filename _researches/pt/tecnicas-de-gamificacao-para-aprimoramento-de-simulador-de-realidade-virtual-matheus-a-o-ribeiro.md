@@ -1,13 +1,14 @@
 ---
 title: Técnicas de gamificação para aprimoramento de simulador de Realidade Virtual
-update: "2017-05-24"
-project: "Jogos Sérios"
+update: '2017-05-24'
+project: Jogos Sérios
 members:
-  - "Matheus de Lara Ribeiro"
-  - "Cleber Gimenez Correa"
-  - "Fátima L. S. Nunes"
-header-img: "img/projects/antigos/jogoEmAcao.png"
+- Matheus de Lara Ribeiro
+- Cleber Gimenez Correa
+- Fátima L. S. Nunes
+header-img: img/projects/antigos/jogoEmAcao.png
 ---
+
 Considerando a importância do treinamento na área de saúde, incluindo aulas práticas para ensino
 de procedimentos médicos e clínicos, o uso de ferramentas adequadas torna-se necessário.
 Nos últimos anos, observa-se o crescimento de ferramentas baseadas em sistemas computacionais

@@ -1,19 +1,20 @@
 ---
-title: "Síntese de expressões faciais em fotografias baseado em faces similares"
-update: "2018-07-20"
-project: "Representação de emoções"
+title: Síntese de expressões faciais em fotografias baseado em faces similares
+update: '2018-07-20'
+project: Representação de emoções
 members:
-    - "Rafael Luiz Testa"
-    - "Ariane Machado Lima"
-    - "Fátima L. S. Nunes"
-header-img: "img/projects/emotion-representation/photograph.png"
+- Rafael Luiz Testa
+- Ariane Machado Lima
+- Fátima L. S. Nunes
+header-img: img/projects/emotion-representation/photograph.png
 links:
-    - name: "Dissertação"
-      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-31012019-165605/pt-br.php"
-    - name: "Synthesis of Facial Expressions in Photographs: Characteristics, Approaches, and Challenges"
-      url: "https://dl.acm.org/citation.cfm?id=3292652"
-    - name: "Factors Influencing the Perception of Realism in Synthetic Facial Expressions"
-      url: "https://ieeexplore.ieee.org/abstract/document/8614342"
+- name: Dissertação
+  url: http://www.teses.usp.br/teses/disponiveis/100/100131/tde-31012019-165605/pt-br.php
+- name: 'Synthesis of Facial Expressions in Photographs: Characteristics, Approaches,
+    and Challenges'
+  url: https://dl.acm.org/citation.cfm?id=3292652
+- name: Factors Influencing the Perception of Realism in Synthetic Facial Expressions
+  url: https://ieeexplore.ieee.org/abstract/document/8614342
 ---
 
 A ferramenta que altera a expressão facial em fotografias por de trás deste jogo é um dos objetivos desta pesquisa. Essa alteração da expressão facial da fotografia se baseia em modificar a foto a partir de um exemplo. Ou seja, existe um conjunto de exemplos (banco de expressões faciais) e a ferramenta escolhe aquele que mais se parece com a face fornecida pelo usuário (jogador). Então, são identificadas as alterações referentes a expressão facial na imagem escolhida. Em seguida, essas alterações identificadas são usadas como base para a modificar a imagem fornecida. Por fim, essas modificações da expressão são mescladas a face fornecida de modo gerar a nova imagem contendo a expressão facial desejada, como exemplificado na figura abaixo.

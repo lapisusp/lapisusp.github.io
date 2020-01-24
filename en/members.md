@@ -1,6 +1,7 @@
 ---
-layout: members
-language: "en"
 title: Members
-header-img: "img/members/team-lapis-2016.jpg"
+layout: members
+language: en
+header-img: img/members/team-lapis-2016.jpg
 ---
+

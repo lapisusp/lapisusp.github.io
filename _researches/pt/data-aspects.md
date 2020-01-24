@@ -1,15 +1,17 @@
 ---
-title: "Registro de dados de interação usando Programação Orientada a Aspectos em um sistema para avaliação da aquisição de conhecimento em Ambientes Virtuais de Aprendizagem tridimensionais"
-update: "2012-07-20"
-project: "Realidade Virtual e Computação Gráfica"
+title: Registro de dados de interação usando Programação Orientada a Aspectos em um
+  sistema para avaliação da aquisição de conhecimento em Ambientes Virtuais de Aprendizagem
+  tridimensionais
+update: '2012-07-20'
+project: Realidade Virtual e Computação Gráfica
 members:
-    - "Rafael Luiz Testa"
-    - "Eunice Pereira dos Santos Nunes"
-    - "Fátima L. S. Nunes"
-header-img: "img/projects/antigos/poa-ex.jpg"
+- Rafael Luiz Testa
+- Eunice Pereira dos Santos Nunes
+- Fátima L. S. Nunes
+header-img: img/projects/antigos/poa-ex.jpg
 links:
-    - name: "Relatório"
-      url: "files/researches/Testa2012POA.pdf"
+- name: Relatório
+  url: files/researches/Testa2012POA.pdf
 ---
 
 Com a popularização dos Ambientes Virtuais de Aprendizagem (AVAs) o processo de

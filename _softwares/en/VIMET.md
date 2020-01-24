@@ -1,8 +1,8 @@
----  
-title: "ViMeT - Virtual Medical Training"  
-update: "2013-06-2013"
-img-thumb: "img/softwares/vimet_thumb.png"
-header-img: "img/softwares/vimetGameHaptico_0.jpg"
+---
+title: ViMeT - Virtual Medical Training
+update: 2013-06-2013
+img-thumb: img/softwares/vimet_thumb.png
+header-img: img/softwares/vimetGameHaptico_0.jpg
 ---
 
 Here you can find a version of ViMeT that is ready to be used, you can download the program and an User's guide here. You can also download some samples of applications that you can run.

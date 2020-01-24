@@ -1,14 +1,15 @@
 ---
-title: Recuperação de imagens por conteúdo utilizando Lógica Fuzzy - um estudo de caso sobre imagens faciais
-update: "2016-01-07"
-project: "Recuperação de Informação"
+title: Recuperação de imagens por conteúdo utilizando Lógica Fuzzy - um estudo de
+  caso sobre imagens faciais
+update: '2016-01-07'
+project: Recuperação de Informação
 members:
-  - "Leila Bergamasco"
-  - "Fátima L. S. Nunes"
-header-img: "img/projects/retrieval/fuzzy.jpg"
+- Leila Bergamasco
+- Fátima L. S. Nunes
+header-img: img/projects/retrieval/fuzzy.jpg
 links:
-    - name: "Monografia"
-      url: "files/researches/MonografiaFinalLeila.pdf"
+- name: Monografia
+  url: files/researches/MonografiaFinalLeila.pdf
 ---
 
 {% include image.html file="img/projects/antigos/rr2.preview.png" alt="Método" %}

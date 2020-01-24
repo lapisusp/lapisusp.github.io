@@ -1,12 +1,14 @@
 ---
-title: Segmentação automática do ventrículo esquerdo em exames de Ressonância Magnética Cardíaca
-update: "2019-10-16"
-header-img: "img/projects/segmentRMC/heart.jpg"
+title: Segmentação automática do ventrículo esquerdo em exames de Ressonância Magnética
+  Cardíaca
+update: '2019-10-16'
+header-img: img/projects/segmentRMC/heart.jpg
 members:
-  - "Matheus Alberto de Oliveira Ribeiro"
-  - "Fátima L. S. Nunes"
-project: "Processamento de Imagens"
+- Matheus Alberto de Oliveira Ribeiro
+- Fátima L. S. Nunes
+project: Processamento de Imagens
 ---
+
 {% include image.html file="img/projects/segmentRMC/resumo_RMC2.png" alt="exame de ressonância magnética cardíaca" %}
 
 {% include image.html file="img/projects/segmentRMC/exemplos_erros_anatomia.png" alt="erros presentes em segmentações cardíacas" %}

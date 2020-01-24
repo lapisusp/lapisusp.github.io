@@ -1,8 +1,8 @@
----  
-title: "ViMeT - Virtual Medical Training"  
-update: "2013-06-2013"
-img-thumb: "img/softwares/vimet_thumb.png"
-header-img: "img/softwares/vimetGameHaptico_0.jpg"
+---
+title: ViMeT - Virtual Medical Training
+update: 2013-06-2013
+img-thumb: img/softwares/vimet_thumb.png
+header-img: img/softwares/vimetGameHaptico_0.jpg
 ---
 
 Está página contém:

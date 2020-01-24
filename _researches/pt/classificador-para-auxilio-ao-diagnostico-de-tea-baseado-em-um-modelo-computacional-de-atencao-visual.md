@@ -1,13 +1,14 @@
 ---
-title: "Classificador para auxílio ao diagnóstico de TEA baseado em um modelo computacional de atenção visual"
-update: "2018-01-07"
-project: "Processamento de Imagens"
+title: Classificador para auxílio ao diagnóstico de TEA baseado em um modelo computacional
+  de atenção visual
+update: '2018-01-07'
+project: Processamento de Imagens
 members:
-  - "Jéssica dos Santos de Oliveira"
-  - "Fátima L. S. Nunes"
+- Jéssica dos Santos de Oliveira
+- Fátima L. S. Nunes
 links:
-    - name: "Dissertação"
-      url: "http://www.teses.usp.br/teses/disponiveis/100/100131/tde-01022018-100042/pt-br.php"
+- name: Dissertação
+  url: http://www.teses.usp.br/teses/disponiveis/100/100131/tde-01022018-100042/pt-br.php
 ---
 
 {% include youtube.html id="djOT6tEBe60" %}

@@ -1,12 +1,12 @@
 ---
+title: Leila_cristina_carneiro_bergamasco
 order: 2
 name: Leila Bergamasco
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4321413A6
 mail: leila.cristina@usp.br
-photo: "img/members/leila3x4.jpg"
+photo: img/members/leila3x4.jpg
 membership: PHD
 ---
-
 
 Data Scientist at Daitan Group. Bachelor in Information Systems from the University of São Paulo, Master of Science (Information Systems) from the University of São Paulo and PhD student in Electrical Engineering from the University of São Paulo. The researches are predominantly in the Computation area with emphasis in medical image processing, information retrieval and data mining. During his Master's and Ph.D., the research was applied within the health area, establishing research groups with the Heart Institute (Instituto do Coração - InCor) and Universidade do Porto, Portugual. In parallel, his work as a Data Scientist demand for optimized data mining solutions, focusing on the ETL process as well as on score-based recommendation systems and collaborative filtering.
 

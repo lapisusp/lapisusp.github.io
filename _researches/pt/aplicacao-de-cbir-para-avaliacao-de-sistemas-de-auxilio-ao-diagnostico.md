@@ -1,17 +1,17 @@
 ---
 title: Aplicação de CBIR para avaliação de sistemas de auxílio ao diagnóstico
-update: "2016-01-06"
-project: "Recuperação de Informação"
+update: '2016-01-06'
+project: Recuperação de Informação
 members:
-  - "Vagner Mendonça Gonçalves"
-  - "Fátima L. S. Nunes"
+- Vagner Mendonça Gonçalves
+- Fátima L. S. Nunes
 links:
-    - name: "Biblioteca"
-      url: "http://www.bv.fapesp.br/pt/bolsas/75157/aplicacao-cbir-avaliacao-sistemas-auxilio/"
-    - name: "Feature Extractors"
-      url: "files/researches/FeatureExtractors.rar"
-    - name: "Similarity Functions"
-      url: "files/researches/SimilarityFunctions.rar"
+- name: Biblioteca
+  url: http://www.bv.fapesp.br/pt/bolsas/75157/aplicacao-cbir-avaliacao-sistemas-auxilio/
+- name: Feature Extractors
+  url: files/researches/FeatureExtractors.rar
+- name: Similarity Functions
+  url: files/researches/SimilarityFunctions.rar
 ---
 
 **Resumo**

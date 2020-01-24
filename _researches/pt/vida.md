@@ -1,19 +1,19 @@
 ---
-title: "VIDA (Virtual Interactive Distance-learning on Anatomy) que converte modelos tridimensionais em desenhos não"
-update: "2014-07-16"
-project: "Realidade Virtual e Computação Gráfica"
+title: VIDA (Virtual Interactive Distance-learning on Anatomy) que converte modelos
+  tridimensionais em desenhos não
+update: '2014-07-16'
+project: Realidade Virtual e Computação Gráfica
 members:
-    - "Romero Tori"
-    - "Fátima L. S. Nunes"
-    - "Ricardo Nakamura"
-    - "Daniel Makoto Tokunaga"
-    - "Victor H. P. Gomes"
-    - "Fábio Luiz Picchi"
-    - "Cleber Gimenez Correa"
+- Romero Tori
+- Fátima L. S. Nunes
+- Ricardo Nakamura
+- Daniel Makoto Tokunaga
+- Victor H. P. Gomes
+- Fábio Luiz Picchi
+- Cleber Gimenez Correa
 links:
-    - name: "Artigo"
-      url: "files/researches/Testa2014GeracoCaricaturas.pdf"
-      url: "http://www.br-ie.org/pub/index.php/wie/article/view/2165/1931"
+- name: Artigo
+  url: http://www.br-ie.org/pub/index.php/wie/article/view/2165/1931
 ---
 
 *Projeto VIDA - Vídeo (versão inglês)*

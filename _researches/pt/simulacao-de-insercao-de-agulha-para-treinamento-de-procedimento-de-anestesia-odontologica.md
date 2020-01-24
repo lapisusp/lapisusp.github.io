@@ -1,14 +1,15 @@
 ---
-title: "Simulação de inserção de agulha para treinamento de procedimento de anestesia odontológica"
-update: "2016-01-07"
-project: "Realidade Virtual e Computação Gráfica"
+title: Simulação de inserção de agulha para treinamento de procedimento de anestesia
+  odontológica
+update: '2016-01-07'
+project: Realidade Virtual e Computação Gráfica
 members:
-    - "Cleber Gimenez Correa"
-    - "Fátima L. S. Nunes"
-header-img: "img/projects/antigos/ExperimentoII_.preview.png"
+- Cleber Gimenez Correa
+- Fátima L. S. Nunes
+header-img: img/projects/antigos/ExperimentoII_.preview.png
 links:
-    - name: "Tese"
-      url: "http://www.teses.usp.br/teses/disponiveis/3/3141/tde-12022016-161324/pt-br.php"
+- name: Tese
+  url: http://www.teses.usp.br/teses/disponiveis/3/3141/tde-12022016-161324/pt-br.php
 ---
 
 {% include image.html file="img/projects/antigos/ExperimentoII_.preview.png" %}

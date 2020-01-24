@@ -1,15 +1,16 @@
 ---
-title: "Aplicações de Realidade Virtual para Treinamento Médico: estudo comparativo de Técnicas de visualização"
-update: "2016-01-07"
-project: "Realidade Virtual e Computação Gráfica"
-software: "ViMeT - Virtual Medical Training"
+title: 'Aplicações de Realidade Virtual para Treinamento Médico: estudo comparativo
+  de Técnicas de visualização'
+update: '2016-01-07'
+project: Realidade Virtual e Computação Gráfica
+software: ViMeT - Virtual Medical Training
 members:
-  - "Marcela Braga Afonso"
-  - "Fátima L. S. Nunes"
-header-img: /img/projects/antigos/a2.jpg
+- Marcela Braga Afonso
+- Fátima L. S. Nunes
+header-img: "/img/projects/antigos/a2.jpg"
 links:
-    - name: "Relatório"
-      url: "files/researches/RelatorioMarcela.pdf"
+- name: Relatório
+  url: files/researches/RelatorioMarcela.pdf
 ---
 
 {% include image.html file="img/projects/antigos/a2.jpg" alt="Image" %}
