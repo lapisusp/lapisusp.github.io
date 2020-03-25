@@ -15,4 +15,4 @@ mail: rafael.testa@usp.br
 header-img: img/members/rafael-luiz-testa2.jpg
 ---
 
-Received his B.S. and M.Sc. degrees in Information Systems from University of São Paulo, Brazil. He is currently working toward the Ph.D. degree with the University of São Paulo, Brazil. His main research interests are facial expression and image synthesis.
+Bachelor (2014) and Master (2018) in Information Systems with the University of São Paulo, Brazil. He is currently working toward the Ph.D. degree with the University of São Paulo, Brazil. His main research interests are facial expression and image synthesis.
