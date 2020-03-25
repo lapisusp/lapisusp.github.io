@@ -16,4 +16,4 @@ mail: rafael.testa@usp.br
 header-img: img/members/rafael-luiz-testa2.jpg
 ---
 
-Recebeu o seu B.el e Me. em Sistemas de Informação pela Universidade de São Paulo, Brasil. Atualmente é doutorando em Sistemas de Informação pela Universidade de São Paulo. Seus principais interesses de pesquisa são expressão facial e síntese de imagens.
+Bacharel (2014) e Mestre (2018) em Sistemas de Informação pela Universidade de São Paulo. Atualmente é doutorando em Sistemas de Informação pela Universidade de São Paulo. Seus principais interesses de pesquisa são expressão facial e síntese de imagens.
