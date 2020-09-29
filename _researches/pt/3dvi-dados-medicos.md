@@ -24,6 +24,15 @@ Em muitas áreas de conhecimento, pessoas lidam com grandes volumes de dados, qu
 </UL>
 
 <BR>
+  
+ <UL>
+  <LI> <B>Silva, L. S.</B>, Nunes, F. L. S., Nakamura, R. (2019). <a href="https://doi.org/10.22478/ufpb.2595-0622.2019v3n2.49464">Visualização 3D interativa de dados médicos temporais baseada em modelo de atenção visual</a>. Comunicações Em Informática, 3(2), 9-12. <a href="https://doi.org/10.22478/ufpb.2595-0622.2019v3n2.49464">https://doi.org/10.22478/ufpb.2595-0622.2019v3n2.49464</a>. </LI>
+  <LI> <B>L. S. Silva</B>, R. V. Aranha, M. A. d. O. Ribeiro, R. Nakamura and F. L. S. Nunes, <a href="https://doi.org/10.1109/CBMS49503.2020.00035">"Exploring Visual Attention and Machine Learning in 3D Visualization of Medical Temporal Data," </a> 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 146-151, <a href="https://doi.org/10.1109/CBMS49503.2020.00035">https://doi.org/10.1109/CBMS49503.2020.00035</a>.</LI>
+  <LI> <B>L. S. Silva</B>, R. Nakamura and F. L. S. Nunes, <a href="https://doi.org/10.1109/IWSSIP48289.2020.9145098">"Machine Learning in Information Visualization: Using Rule-based Learning Algorithms to Personalize Interfaces,"</a> 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), Niterói, Brazil, 2020, pp. 179-184, <a href="https://doi.org/10.1109/IWSSIP48289.2020.9145098">https://doi.org/10.1109/IWSSIP48289.2020.9145098</a>.</LI>
+  <LI> <B>L. S. Silva</B>, R. V. Aranha, M. A. d. O. Ribeiro, R. Nakamura and F. L. S. Nunes, "3D visualization of temporal data: exploring Visual Attention and Machine Learning". To appear in SVR2020 - <a href="https://svr2020.cin.ufpe.br/">The Symposium on Virtual and Augmented Reality (SVR)</a>. Porto de Galinhas-PE/Brasil.</LI>
+  
+ </UL>
+ 
 
 <CENTER>
 <object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/e8JO8ZSI7dg"> 
