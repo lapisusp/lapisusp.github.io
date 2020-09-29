@@ -6,19 +6,22 @@ members:
 - Leonardo Souza Silva
 - Ricardo Nakamura
 - Fátima L. S. Nunes
-- Samir Garbaya
 header-img: img/projects/vi/bloco3d.png
 ---
 
-Temporal Data lacks a natural representation, thus the search for a visual representation of this kind of data challenges addressed in many Information Visualization techniques and methods. Aiming to help understand patterns and relations among those data, supporting planning, and decision-making processes. Most of the tools use the two dimensional (2D) space combined with well-known techniques, but in light of the increasing presence of Temporal Data Visualization in different application domains and the use of several different techniques, issues about the use of 3D space have emerged. In the Healthcare domain, the Anamnesis procedure offers a large volume of valuable information, analyzed under temporal aspects. Despite their importance and richness, lacking adequate tools to explore these data can limit their use. Due to the limited use of three-dimensional (3D) space in temporal data visualization, this project proposes the use of an Interactive 3D Virtual Environment (VE) in an approach that allows mapping, visualization, and exploration of these data. Based on Visual Attention Models and Gaming Design Concepts we aim to contribute to a new level of interaction with medical temporal data considering different levels of granularity and optimizing the data visualization. Besides the good interaction between users and the 3D VE, preliminary results endorse that proposed approach has potential to open opportunities in data exploration and the relevance in optimizing the temporal data visualization in the medical daily routine through VR strategies.
+In many fields of study people deal with a large volume of data, which is often analyzed based on temporal aspects. Temporal data visualization supports planning and decision-making processes as it helps understand complex processes. The use of three-dimensional space could open exciting opportunities to represent, interpret, and explore temporal data through more natural interaction in real-time. Still, most approaches based on Virtual Reality (VR) techniques to visualize temporal data are an extension of well-known methods in the two-dimensional space. In this context, Visual Attention and Machine Learning have also grown in relevance in many study areas. The former helps us to explore a complex visual scene. The latter has led to significant breakthroughs in many different areas, being extensively used in IV to assist mining data and image processing. As mentioned, the use of VR techniques is already present in temporal data visualization. However, there is a lack of initiatives that combine them with Visual Attention and Machine Learning to improve the visualization of this kind of data. This work proposes a VR approach combining with Visual Attention concepts and Rule-based Machine Learning methods, named 3D BlockARL, to support interactive visualization of temporal data. Our contribution is to learn the users' preferences through Machine Learning methods for a Temporal Data visualization, designed with the support of Visual Attention concepts, assisting the development of more personalized displays, that can open new possibilities of representation and exploration of temporal data in the three-dimensional space. We analyze the accuracy, effectiveness, and usability perspective through controlled experiments conducted to validate the approach and compare the results with the method currently in use at a research partner. Besides good acceptance, our approach also demonstrates promising results that confirmed the potential to support visualization development based on users' preferences learned. The approach contributes to the Computer Engineering area combining relevant areas to create a more personalized interactive visualization of temporal data based on learned preferences.
 
-<B>Keywords:</B> Information Visualization; Temporal Data; Medical Data; Virtual Reality.
+
+<B>Keywords:</B> Information Visualization; Temporal Data; Visual Attention; Ruled-based Learning Method; Virtual Reality.
 
 <B>Cooperation:</B>
 
 <UL>
-<LI> <B>Dr. Samir GARBAYA</B>, associate professor at <I>École Nationale Supérieure d´Arts et Métiers</I> – ParisTech University, Researcher Scientist at END: ICAP Laboratory INSERM U1179.</LI>
-<LI> <B>Professor Romeu Carillo Jr., M. D.</B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at <a href="http://www.abrah.org.br/">Associação Brasileira de Reciclagem e Assistência em Homeopatia</a> (ABRAH) - São Paulo/SP - Brazil.</LI>
+  <LI> <a href="http://www.abrah.org.br/">Associação Brasileira de Reciclagem e Assistência em Homeopatia</a> (ABRAH) </LI>
+  <UL> 
+    <LI> <B>Professor Romeu Carillo Jr. <I> (in memoriam) </I></B> </LI>
+    <LI> <B>Professor Maria Solange Gosik </B>, Chief of the Department of Homeopathy at Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP - Brazil, CEO at ABRAH - São Paulo/SP - Brazil.</LI>
+  </UL>
 </UL>
  
 <BR>
