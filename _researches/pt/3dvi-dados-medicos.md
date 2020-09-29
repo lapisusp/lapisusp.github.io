@@ -18,7 +18,7 @@ Em muitas áreas de conhecimento, pessoas lidam com grandes volumes de dados, qu
 <UL>
   <LI> <a href="http://www.abrah.org.br/">Associação Brasileira de Reciclagem e Assistência em Homeopatia</a> (ABRAH) </LI>
   <UL> 
-    <LI> <B>Professor Médico Romeu Carillo Jr., Me. <I> (in memoriam> </I></B> </LI>
+    <LI> <B>Professor Médico Romeu Carillo Jr., Me. <I> (in memoriam) </I></B> </LI>
     <LI> <B>Professora Médica Maria Solange Gosik </B>, Chefe do Departamento de Homeopatia do Hospital do Servidor Público Municipal (HSPM) - São Paulo/SP, Presidente da ABRAH - São Paulo/SP.</LI>
   </UL>
 </UL>
