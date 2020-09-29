@@ -1,5 +1,5 @@
 ---
-title: Visualização 3D interativa de dados médicos temporais
+title: Uma abordagem para visualização tridimensional interativa de dados temporais baseada em Atenção Visual e Aprendizado de Máquina
 update: '2020-09-28'
 project: Visualização de Informação
 members:
