@@ -1,6 +1,6 @@
 ---
-title: 3D Interactive visualization of medical temporal data
-update: '2018-08-27'
+title: Interactive three-dimensional visualization approach of temporal data based on Visual Attention and Machine Learning
+update: '2020-09-30'
 project: Information Visualization
 members:
 - Leonardo Souza Silva
