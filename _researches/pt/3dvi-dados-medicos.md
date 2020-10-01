@@ -10,7 +10,7 @@ header-img: img/projects/vi/bloco3d.png
 ---
 
 <center>
-<img src="http://leosarkive.com/images/figura-leo-en.png" alt="some text" width=300 height=400>
+<img src="http://leosarkive.com/images/figura-leo-en.png" alt="some text" width=400 height=300>
 </center>
 
 <BR>
