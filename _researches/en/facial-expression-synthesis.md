@@ -17,6 +17,8 @@ links:
   url: https://ieeexplore.ieee.org/abstract/document/8614342
 ---
 
+{% include youtube.html id="TXfYhVkAqd4" %}
+
 The tool that changes the facial expression in photographs behind the game described in previous page is one of the objectives of this research. The change in the facial expression of the photo is based on modifying the photo by an example. That is, there is a set of examples (facial expressions database) and the tool chooses the one that most resembles the face provided by the user (player). Then, the changes concerning the facial expression in the chosen image are identified. These identified changes are used for modifying the provided image. Finally, such modifications of the expression are merged into the face provided so as to generate the new image containing the desired facial expression, as exemplified in the figure below.
 
 
