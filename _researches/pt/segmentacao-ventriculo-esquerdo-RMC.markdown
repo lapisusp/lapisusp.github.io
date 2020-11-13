@@ -9,7 +9,7 @@ members:
 project: Processamento de Imagens
 ---
 
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/yAQCiofLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/yAQCiofLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include image.html file="img/projects/segmentRMC/resumo_RMC2.png" alt="exame de ressonância magnética cardíaca" %}
 
