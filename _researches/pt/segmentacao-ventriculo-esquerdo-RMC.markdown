@@ -9,6 +9,8 @@ members:
 project: Processamento de Imagens
 ---
 
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/yAQCiofLRr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {% include image.html file="img/projects/segmentRMC/resumo_RMC2.png" alt="exame de ressonância magnética cardíaca" %}
 
 {% include image.html file="img/projects/segmentRMC/exemplos_erros_anatomia.png" alt="erros presentes em segmentações cardíacas" %}
