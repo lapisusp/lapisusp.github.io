@@ -1,4 +1,8 @@
-<div class="video-container">
-    <object class="video" data="http://www.youtube.com/embed/{{ include.id }}">
-    </object>
+<div class="video-container embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/{{ include.id }}"
+      width="100%"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
 </div>
