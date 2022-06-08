@@ -6,9 +6,9 @@ project: Computação Afetiva
 members:
 - Renan Vinicius Aranha
 - Fátima L. S. Nunes
-header-img: img/projects/affective-computing/woman-using-computer.jpg
-credit-img-author: Bruce Mars
-credit-img-url: https://www.pexels.com/photo/photo-of-woman-using-her-laptop-935756/
+header-img: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+credit-img-author: Lorenzo Herrera / Unsplash
+credit-img-url: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 links:
 - name: Dissertação de mestrado
   url: http://www.teses.usp.br/teses/disponiveis/100/100131/tde-24072017-083504/pt-br.php
