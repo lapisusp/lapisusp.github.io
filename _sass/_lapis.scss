@@ -256,6 +256,26 @@ nav .border{
 	padding-bottom: 20px;
 }
 
+#lab_video{
+  background: #243966;
+  padding: 80px 0 100px;
+  background-image: url(/img/grid-pattern.png);
+  background-position: left bottom;
+  background-repeat: repeat-x;
+}
+
+#lab_video .section-heading{
+  font-family: 'Bitter', serif;
+  font-weight: 900;
+  text-align: center;
+  color: #fff;
+}
+
+.video-lab-title{
+  font-family: 'Bitter', sans-serif;
+  font-weight: 900;
+}
+
 #researchprojects{
     background: #353b48;
     padding: 80px 0 100px;
