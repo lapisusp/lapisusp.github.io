@@ -1,0 +1,11 @@
+{% assign img = post.thumb %}
+<div class="card">
+    <a href="{post.redirect_to}">
+        <div class="card-image">
+            <img class="card-img-top" src="{{ img | absolute_url }}">
+        </div>
+        <div class="card-body">
+            <h4 class="card-title">{{ post.title }}</h4>
+        </div>
+    </a>
+</div>

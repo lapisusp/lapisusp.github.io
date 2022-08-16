@@ -1,0 +1,14 @@
+<section id="insta_posts" class="no-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="titulo">
+                    <h2 class="section-heading projects-title">Últimas postagens</h2>
+                </div>
+            </div>
+        </div>
+        {% assign posts = site.instaPosts%}
+        {% assign n = 3 %}
+        {% include posts.html %}
+    </div>
+</section>

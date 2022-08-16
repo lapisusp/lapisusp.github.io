@@ -1,0 +1,19 @@
+<div class="card-columns">
+    {% assign sorted = (posts | sort: 'update' | reverse ) %}
+  
+      {% if n %}
+  
+        {% for post in sorted  limit:n %}
+          {% include post.html %}
+        {% endfor %}
+  
+      {% else %}
+  
+        {% for post in sorted %}
+          {% include post.html %}
+        {% endfor %}
+  
+      {% endif %}
+  
+  </div>
+  
