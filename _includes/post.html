@@ -1,11 +1,14 @@
 {% assign img = post.thumb %}
-<div class="card">
+<div style="color: white">
     <a href="{{post.url | absolute_url }}">
-        <div class="card-image">
-            <img class="card-img-top" src="{{ img | absolute_url }}">
+        <div style="justify-content: center;display: grid;">
+            <img style="max-height: 500px;" src="{{ img | absolute_url }}">
         </div>
-        <div class="card-body">
-            <h4 class="card-title">{{ post.title }}</h4>
+        <div style="padding-top: 20px;
+                    padding-left: 20px;
+                    padding-right: 20px;
+                    color: black;">
+            <h4>{{ post.title }}</h4>
         </div>
     </a>
 </div>
