@@ -1,7 +1,7 @@
 <div>
     <div class="glider-contain">
         <div class="glider">
-            {% assign sorted = posts %}
+            {% assign sorted = (posts | sort: 'update' | reverse )%}
       
           {% if n %}
       
