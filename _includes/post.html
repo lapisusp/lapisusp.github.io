@@ -1,6 +1,6 @@
 {% assign img = post.thumb %}
 <div class="card">
-    <a href="{post.redirect_to}">
+    <a href="{{post.url | absolute_url }}">
         <div class="card-image">
             <img class="card-img-top" src="{{ img | absolute_url }}">
         </div>

@@ -12,6 +12,10 @@ collections:
   posts:
     title: Posts
     output: true
+  instaposts:
+    title: InstaPosts
+    output: true
+    permalink: "/instaPosts/:name"
   projects:
     title: Projects
     output: true
