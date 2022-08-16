@@ -1,3 +1,16 @@
+<script src="glide/glider.min.js"></script>
+<script>
+new Glider(document.querySelector('.glider'), {
+  slidesToShow: 1,
+  dots: '#dots',
+  draggable: true,
+  arrows: {
+    prev: '.glider-prev',
+    next: '.glider-next'
+  }
+});
+</script>
+
 <section id="insta_posts" class="no-padding">
     <div class="container">
         <div class="row">
@@ -10,5 +23,7 @@
         {% assign posts = site.instaPosts%}
         {% assign n = 3 %}
         {% include posts.html %}
+        
+        
     </div>
 </section>

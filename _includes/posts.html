@@ -1,19 +1,26 @@
 <div class="card-columns">
-    {% assign sorted = posts %}
-  
-      {% if n %}
-  
-        {% for post in sorted  limit:n %}
-          {% include post.html %}
-        {% endfor %}
-  
-      {% else %}
-  
-        {% for post in sorted %}
-          {% include post.html %}
-        {% endfor %}
-  
-      {% endif %}
-  
-  </div>
+    <div class="glider-contain">
+        <div class="glider">
+            {% assign sorted = posts %}
+      
+          {% if n %}
+      
+            {% for post in sorted  limit:n %}
+              {% include post.html %}
+            {% endfor %}
+      
+          {% else %}
+      
+            {% for post in sorted %}
+              {% include post.html %}
+            {% endfor %}
+      
+          {% endif %}
+        </div>
+      
+        <button aria-label="Previous" class="glider-prev">«</button>
+        <button aria-label="Next" class="glider-next">»</button>
+        <div role="tablist" class="dots"></div>
+      </div>
+</div>
   
