@@ -1,14 +1,17 @@
 {% assign img = post.thumb %}
 <div style="color: white">
     <a href="{{post.url | absolute_url }}">
-        <div style="justify-content: center;display: grid;">
+        <div style="justify-content: center;display: flex;">
             <img style="max-height: 500px;" src="{{ img | absolute_url }}">
         </div>
         <div style="padding-top: 20px;
                     padding-left: 20px;
                     padding-right: 20px;
                     color: black;">
-            <h4>{{ post.title }}</h4>
+            <h4 style="display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;">{{ post.title }}</h4>
         </div>
     </a>
 </div>

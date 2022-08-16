@@ -1,6 +1,8 @@
-<div>
+<div style="background: white;
+            border-radius: 2em;
+            margin-bottom: 20px;" >
     <div class="glider-contain">
-        <div class="glider">
+        <div class="glider" style="scrollbar-width: none;">
             {% assign sorted = (posts | sort: 'update' | reverse )%}
       
           {% if n %}
