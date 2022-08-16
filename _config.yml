@@ -12,7 +12,7 @@ collections:
   posts:
     title: Posts
     output: true
-  instaposts:
+  instaPosts:
     title: InstaPosts
     output: true
     permalink: "/instaPosts/:name"
