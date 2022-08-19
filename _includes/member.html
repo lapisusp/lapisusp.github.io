@@ -1,20 +1,51 @@
 <div style="box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;">
     <a href="{{ member.url | absolute_url }}">
-        <div style="text-align: center;">
+        <div style="text-align: center;
+                    height: 100%;
+                    padding: 10px">
             {% if member.photo %}
+                {% assign photo = member.photo %}
+            {% else %}
+                {% assign photo = "img/member.jpg" %}
+            {% endif %}
             <div class="member-photo-area"> 
-                <img src="{{ member.photo | absolute_url }}" style="width: 150px;
+                <img src="{{ photo | absolute_url }}" style="width: 150px;
                                                                     height: 150px;
                                                                     border-radius: 100%;
                                                                     object-fit: cover;
                                                                     border: 4px solid #fff;">
             </div>
-            {% else %}
-            <i class="fa fa-5x fa-user wow bounceIn text-primary"></i>
-            {% endif %}
             <div class="member-details">
                 <h4 class="member-name">{{ member.name }}</h3>
                 <p class="text-muted member-type">{{ member.membership }}</p>
+                <div style="display: flex;
+                            align-content: center;
+                            justify-content: center;
+                            margin-bottom: 10px;">
+                    {% if member.mail %}
+                        <a href="{{ member.mail | absolute_url }}"><img src="{{ img/mail.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+                    {% if member.orcid %}
+                        <a href="{{ member.orcid | absolute_url }}"><img src="{{ img/ORCIDiD_icon32x32.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+                    {% if member.lattes %}
+                        <a href="{{ member.lattes | absolute_url }}"><img src="{{ img/icon-lattes.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+                    {% if member.linkedin %}
+                        <a href="{{ member.linkedin | absolute_url }}"><img src="{{ img/LI-In-Bug.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+                    {% if member.publons %}
+                        <a href="{{ member.publons | absolute_url }}"><img src="{{ img/publons_blue_white_shadow.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+                    {% if member.scholar %}
+                        <a href="{{ member.scholar | absolute_url }}"><img src="{{ img/icons8-google-scholar-50.png | absolute_url }}" style="width: 40px;height: 40px; margin-left: 3px; margin-right: 3px;"></a>
+                    {% endif %}
+
+
+
+
+
+                </div>
             </div>
         </div>
     </a>

@@ -1,4 +1,4 @@
-<section id="info">
+<section id="info" style="padding: 0;">
     <div class="container" style="background: #f9f9f9;">
         {% assign all_members = site.members | where:"language", page.language %}
         {% assign all_members = all_members | sort: "order" %}
@@ -10,7 +10,8 @@
                     font-size: 35px;
                     text-transform: uppercase;
                     font-weight: 700;
-                    color: #000000;">
+                    color: #000000;
+                    padding-top: 40px;">
             {{ site.data.members.professors[page.language] }}
         </h3>
 
@@ -21,7 +22,8 @@
                     font-size: 35px;
                     text-transform: uppercase;
                     font-weight: 700;
-                    color: #000000;">
+                    color: #000000;
+                    padding-top: 40px">
             {{ site.data.members.students[page.language] }}
         </h3>
 
@@ -34,7 +36,8 @@
                     font-size: 35px;
                     text-transform: uppercase;
                     font-weight: 700;
-                    color: #000000;">
+                    color: #000000;
+                    padding-top: 40px">
             {{ site.data.members.old[page.language] }}
         </h3>
 

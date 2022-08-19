@@ -186,6 +186,7 @@ nav .border{
 }
 
 .member-name{
+  height: 58px;
   font-weight: 900;
   color: #333;
 }
@@ -507,6 +508,7 @@ footer .container{
 
 
 .member_list_grid{
+  display: grid;
   grid-column-gap: 20px;
   grid-template-columns: auto auto auto auto;
   grid-row-gap: 20px;
