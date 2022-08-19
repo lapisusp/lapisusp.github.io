@@ -1,0 +1,17 @@
+{% assign counter = 0 %}
+{% for member in members %}
+{% if counter == 0 %}
+
+<div class="row">
+    {% endif %}
+    {% include member.html %}
+    {% assign counter=counter | plus:1 %}
+    {% if counter == 6 %}
+    {% assign counter = 0 %}
+</div>
+
+{% endif %}
+{% endfor %}
+{% if counter != 6 %}
+</div>
+{% endif %}
