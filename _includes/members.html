@@ -1,5 +1,5 @@
 <section id="info" style="padding: 0;">
-    <div class="container" style="background: #f9f9f9;">
+    <div class="container">
         {% assign all_members = site.members | where:"language", page.language %}
         {% assign all_members = all_members | sort: "order" %}
         {% assign members = (all_members | where_exp:"item", "item.order < 2" ) %}
