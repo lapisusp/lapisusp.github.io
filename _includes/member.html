@@ -1,9 +1,13 @@
-<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 text-center">
+<div style="box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;">
     <a href="{{ member.url | absolute_url }}">
-        <div class="member-box h-100">
+        <div style="text-align: center;">
             {% if member.photo %}
             <div class="member-photo-area"> 
-                <img src="{{ member.photo | absolute_url }}" class="rounded member-thumb membro-foto">
+                <img src="{{ member.photo | absolute_url }}" style="width: 150px;
+                                                                    height: 150px;
+                                                                    border-radius: 100%;
+                                                                    object-fit: cover;
+                                                                    border: 4px solid #fff;">
             </div>
             {% else %}
             <i class="fa fa-5x fa-user wow bounceIn text-primary"></i>

@@ -1,26 +1,42 @@
 <section id="info">
-    <div class="container">
+    <div class="container" style="background: #f9f9f9;">
         {% assign all_members = site.members | where:"language", page.language %}
         {% assign all_members = all_members | sort: "order" %}
         {% assign members = (all_members | where_exp:"item", "item.order < 2" ) %}
 
         {{ page.lang }}
 
-        <h2>{{ site.data.members.current[page.language] }}</h2>     
-
-        <h3>{{ site.data.members.professors[page.language] }}</h3>
+        <h3 style=" text-align: center;
+                    font-size: 35px;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    color: #000000;">
+            {{ site.data.members.professors[page.language] }}
+        </h3>
 
 
         {% include members_list.html %}
 
-        <h3>{{ site.data.members.students[page.language] }}</h3>
+        <h3 style=" text-align: center;
+                    font-size: 35px;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    color: #000000;">
+            {{ site.data.members.students[page.language] }}
+        </h3>
 
         {% assign members = (all_members | where_exp:"item", "item.order == 2" ) %}
 
         {% include members_list.html %}
 
 
-        <h2>{{ site.data.members.old[page.language] }}</h2>
+        <h3 style=" text-align: center;
+                    font-size: 35px;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    color: #000000;">
+            {{ site.data.members.old[page.language] }}
+        </h3>
 
 
         {% assign members = (all_members | where_exp:"item", "item.order > 3") %}
