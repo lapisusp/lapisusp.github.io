@@ -24,7 +24,7 @@
                             justify-content: center;
                             margin-bottom: 10px;">
                     {% if member.mail %}
-                        <a href="{{ member.mail | absolute_url }}"><img src="{{ 'img/mail.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px;"></a>
+                        <a href="{{ member.mail }}"><img src="{{ 'img/mail.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px;"></a>
                     {% endif %}
                     {% if member.orcid %}
                         <a href="{{ member.orcid | absolute_url }}"><img src="{{ 'img/ORCIDiD_icon32x32.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px;"></a>

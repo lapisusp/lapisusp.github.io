@@ -51,7 +51,7 @@ layout: default
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="member_list_grid">
             {% assign members = site.members | where:"language", page.language %}
             {% for project_member in page.members %}
                 {% for lapis_member in members %}

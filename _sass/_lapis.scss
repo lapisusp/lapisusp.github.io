@@ -514,17 +514,17 @@ footer .container{
   grid-row-gap: 20px;
 }
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 1200px){
   .member_list_grid{
     grid-template-columns: repeat(3,minmax(0,1fr));
   }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 900px){
   .member_list_grid{
     grid-template-columns: repeat(2,minmax(0,1fr));
   }
 }
-@media screen and (max-width: 520px){
+@media screen and (max-width: 768px){
   .member_list_grid{
     grid-template-columns: auto;
   }
