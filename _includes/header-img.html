@@ -14,27 +14,26 @@
     {% assign subtitle = page.subtitle %}
 {% endunless %}
 
-<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}')">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12">
-                <div class="post-heading">
-                    {% if page.photo %}
-                        <img src="{{ page.photo | absolute_url }}" class="img-thumbnail float-left member-photo">
-                    {% endif %}
-                    {% if subtitle %}
-                    <h2 class="subheading">// {{ subtitle }}</h2>
-                    {% endif %}
-                    <h1>{{ title }}</h1>
-                    <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
-                    {% if page.credit-img-author and page.credit-img-url %}
-                    <span class="float-right">
-                            <p>{{ site.data.pre-info.photo[page.language] }} <a target="_blank" href="{{ page.credit-img-url }}">{{ page.credit-img-author }}</a></p>
-                        </span>
-                    {% endif %}
-                </div>
-            </div>
-        </div>
+<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}'); padding-bottom: 150px;">
+    <div class="overlay" style="display: contents;"></div>
+        {% if page.photo %}
+            <img style="width: 150px;
+                        height: 150px;
+                        border-radius: 100%;
+                        object-fit: cover;
+                        margin-top: 150px;
+                        border: 4px solid #fff;" src="{{ page.photo | absolute_url }}" class="">
+        {% endif %}
+        <h1 style="color: #f8f9fa; font-weight: 800; margin-top: 20px;">{{ title }}</h1>
+        {% if subtitle %}
+        <h2 style="color: #fdea00;">{{ subtitle }}</h2>
+        {% endif %}
+        
+        <a href="#info" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+        {% if page.credit-img-author and page.credit-img-url %}
+        <span class="float-right">
+                <p>{{ site.data.pre-info.photo[page.language] }} <a target="_blank" href="{{ page.credit-img-url }}">{{ page.credit-img-author }}</a></p>
+            </span>
+        {% endif %}
     </div>
 </header>
