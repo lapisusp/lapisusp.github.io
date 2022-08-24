@@ -2,8 +2,11 @@
 title: Fernando_yoiti_obana
 order: 4
 layout: member
-name: Fernando Yoiti Obana
+name: Fernando Y. Obana
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4734824E1
 membership: Alumni
+orcid: https://orcid.org/0000-0001-5140-8741
+update: '2022-08-15'
 ---
 
+Graduado em Engenharia Elétrica pela Universidade Estadual Paulista ? UNESP de Ilha Solteira, mestre em Controle e Automação pelo Programa de Pós Graduação em Engenharia Elétrica da UNESP de Ilha Solteira e Doutor em Ciências pelo Programa de Pós Graduação em Engenharia da Computação e Sistemas Digitais da Escola Politécnica da USP. Possui conhecimento teórico e prático no projeto e desenvolvimento de circuitos eletrônicos básicos, de controle automação e robóticos. Já foi coordenador dos Laboratórios Pedagógicos de Computação do Campus de Alto Araguaia da UNEMAT, coordenou o a turma fora de sede de Bacharelado em Ciência da Computação em Pontes e Lacerda, coordenou o curso de Ciência da Computação de Alto Araguaia, já foi por várias vezes membro do Colegiado do Curso de Ciência da Computação, atualmente é membro no Colegiado do Campus de Alto Araguaia, do Núcleo Docente Estruturante do curso de Ciência da Computação de Alto Araguaia e do Conselho Universitário da UNEMAT além de ser Coordenador do Centro de pesquisas de Alto Araguaia e coordenar desde 2015 o Laboratório de Eletrônica e Sistemas Embarcados (LESE) e o Proejto de Reutilização e Reciclagem de Eletroeletrônicos (PRREE). Professor engajado nas causas de inovação, com muitas participações, como convidado, em feiras de ciências e eventos como Feira de Ciência, Tecnologia e Inovação de Rondonópolis (FECITI 2017 e 2019), Mostra Maker 2019, Expositor na Semana Nacional de Ciência e Tecnologia em Cuiabá 2019, participou, do Hacking Help 2020, do curso de pré aceleração de startups 2020 e da Startup Weekend Nova Mutum 2019, onde alunos e professores do LESE foram membros das equipes vencedoras. Adepto dos movimentos DIY (Do It Yourself) e Maker, motiva sua equipe a trilhar o caminho do empreendedorismo e inovação, associando as questões de sustentabilidade por meio da reciclagem e reutilização de materiais eletroeletrônicos, conceito bastante atual e constante no contexto da indústria 4.0 através da metodologia STEAM (Science, Technology, Engineering, Arts e Mathematics). Frequentemente é convidado e participa de Feiras de Ciências em escolas municipais, estaduais e particulares em Mato Grosso e Goiás, mostrando para crianças e adolescentes que a tecnologia está a seu alcance.

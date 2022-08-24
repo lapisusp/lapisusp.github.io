@@ -1,8 +1,11 @@
 ---
 title: Jorge_henrique_aceiro_barbosa
 order: 4
-name: Jorge Henrique Aceiro Barbosa
+name: Jorge H. A. Barbosa
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4430551T0
 membership: Alumni
+photo: img/members/jorge_barbosa.png
+update: '2022-08-15'
 ---
 
+has graduation at Obstetrícia by Universidade de São Paulo (2013).

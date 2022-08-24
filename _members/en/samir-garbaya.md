@@ -5,5 +5,7 @@ layout: member
 name: Samir Garbaya
 membership: Professor
 redirect_to: http://artsetmetiersparistech.academia.edu/SamirGarbaya
+update: '2022-08-15'
+photo: img/members/Samir_garbaya.png
 ---
 
