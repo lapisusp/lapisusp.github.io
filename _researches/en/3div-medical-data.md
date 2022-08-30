@@ -3,7 +3,7 @@ title: Interactive three-dimensional visualization approach of temporal data bas
 update: '2020-09-30'
 project: Information Visualization
 members:
-- Leonardo Souza Silva
+- Leonardo S. Silva
 - Ricardo Nakamura
 - Fátima L. S. Nunes
 header-img: img/projects/vi/bloco3d.png

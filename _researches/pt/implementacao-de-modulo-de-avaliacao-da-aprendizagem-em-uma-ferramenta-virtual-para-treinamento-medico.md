@@ -4,7 +4,7 @@ title: Implementação de Módulo de Avaliação da Aprendizagem em uma ferramen
 update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 members:
-- BÁRBARA ANELE DE OLIVEIRA MONTEIRO
+- BÁRBARA A. O. MONTEIRO
 - Fátima L. S. Nunes
 links:
 - name: Monografia

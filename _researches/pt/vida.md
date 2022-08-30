@@ -7,10 +7,10 @@ members:
 - Romero Tori
 - Fátima L. S. Nunes
 - Ricardo Nakamura
-- Daniel Makoto Tokunaga
+- Daniel M. Tokunaga
 - Victor H. P. Gomes
-- Fábio Luiz Picchi
-- Cleber Gimenez Correa
+- Fábio L. Picchi
+- Cleber G. Correa
 links:
 - name: Artigo
   url: http://www.br-ie.org/pub/index.php/wie/article/view/2165/1931

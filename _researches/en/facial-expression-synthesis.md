@@ -3,8 +3,8 @@ title: Facial expression synthesis in photographs
 update: '2018-07-16'
 project: Emotions representation
 members:
-- Rafael Luiz Testa
-- Ariane Machado Lima
+- Rafael L. Testa
+- Ariane M. Lima
 - Fátima L. S. Nunes
 header-img: img/projects/emotion-representation/photograph.png
 links:

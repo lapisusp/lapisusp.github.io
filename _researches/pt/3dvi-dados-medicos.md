@@ -3,7 +3,7 @@ title: Uma abordagem para visualização tridimensional interativa de dados temp
 update: '2020-09-28'
 project: Visualização de Informação
 members:
-- Leonardo Souza Silva
+- Leonardo S. Silva
 - Ricardo Nakamura
 - Fátima L. S. Nunes
 header-img: img/projects/vi/bloco3d.png

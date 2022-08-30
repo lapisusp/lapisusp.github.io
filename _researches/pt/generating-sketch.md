@@ -4,8 +4,8 @@ title: Geração de expressões faciais a partir de antropometria e gramáticas 
 update: '2014-07-16'
 project: Representação de emoções
 members:
-- Rafael Luiz Testa
-- Ariane Machado Lima
+- Rafael L. Testa
+- Ariane M. Lima
 - Fátima L. S. Nunes
 header-img: img/projects/emotion-representation/sketch-au2.jpg
 links:

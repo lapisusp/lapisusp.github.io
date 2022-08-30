@@ -3,7 +3,7 @@ title: Visualização Tridimensional de Programas Orientados a Objeto
 update: '2006-10-05'
 project: Visualização de Informação
 members:
-- Roque Maitino Neto
+- Roque M. Neto
 - Fátima L. S. Nunes
 links:
 - name: Dissertação de Mestrado

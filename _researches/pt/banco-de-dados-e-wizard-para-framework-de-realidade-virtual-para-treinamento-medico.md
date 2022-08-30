@@ -4,7 +4,7 @@ title: Banco de dados e wizard para framework de realidade virtual para treiname
 update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 members:
-- Danilo Justo Rossatto
+- Danilo J. Rossatto
 - Fátima L. S. Nunes
 links:
 - name: Dissertação

@@ -5,7 +5,7 @@ update: '2016-01-07'
 project: Jogos Sérios
 software: ViMeT - Virtual Medical Training
 members:
-- Cleber Gimenez Correa
+- Cleber G. Correa
 - Fátima L. S. Nunes
 links:
 - name: Dissertação

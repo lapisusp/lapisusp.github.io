@@ -4,7 +4,7 @@ title: Estudo e análise comparativa entre modelos relacional e objeto-relaciona
 update: '2016-01-06'
 project: Banco de Dados
 members:
-- Roger Andrade Maedo
+- Roger A. Maedo
 - Fátima L. S. Nunes
 ---
 

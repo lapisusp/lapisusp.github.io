@@ -4,7 +4,7 @@ title: Visualização de Informação aplicada à compreensão de resultados de 
 update: '2014-01-05'
 project: Visualização de Informação
 members:
-- Davi Silva Rodrigues
+- Davi S. Rodrigues
 - Fátima L. S. Nunes
 links:
 - name: Artigo - iSys - Revista Brasileira de Sistemas de Informação

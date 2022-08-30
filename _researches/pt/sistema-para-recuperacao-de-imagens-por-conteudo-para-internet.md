@@ -3,7 +3,7 @@ title: Sistema para recuperação de imagens por conteúdo para Internet
 update: '2016-01-07'
 project: Recuperação de Informação
 members:
-- Rafael Roberto da Cruz Moraes
+- Rafael R. C. Moraes
 - Fátima L. S. Nunes
 links:
 - name: Monografia

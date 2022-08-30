@@ -1,5 +1,11 @@
+{% if page.photo %}
+                {% assign photo = page.photo %}
+{% else %}
+    {% assign photo = "img/member.jpg" %}
+{% endif %}
+
 <div id="member_card_info" class="container">
-    <img id="member_card_photo" src="{{ page.photo | absolute_url }}">
+    <img id="member_card_photo" src="{{ photo | absolute_url }}">
     <div style="margin-left: 20px;">
         <h2 style="font-weight: 600;">
             <span style="background-image: linear-gradient(#e74c3c,#e74c3c);

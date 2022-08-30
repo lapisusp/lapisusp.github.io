@@ -4,7 +4,7 @@ title: Definição, implementação e validação de técnicas de retorno hápti
 update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 members:
-- Mateus de Lara Ribeiro
+- Mateus L. Ribeiro
 - Fátima L. S. Nunes
 links:
 - name: SVR2014RSFinal

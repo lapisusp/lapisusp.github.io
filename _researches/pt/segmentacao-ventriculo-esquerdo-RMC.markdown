@@ -4,7 +4,7 @@ title: Segmentação automática do ventrículo esquerdo em exames de Ressonânc
 update: '2019-10-16'
 header-img: img/projects/segmentRMC/heart.jpg
 members:
-- Matheus Alberto de Oliveira Ribeiro
+- Matheus A. O. Ribeiro
 - Fátima L. S. Nunes
 project: Processamento de Imagens
 ---

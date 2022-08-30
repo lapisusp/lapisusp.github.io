@@ -3,7 +3,7 @@ title: Serious Games Baseados em Realidade Virtual para Educação Médica
 update: '2016-01-07'
 project: Jogos Sérios
 members:
-- Liliane dos Santos Machado
+- Liliane S. Machado
 - Fátima L. S. Nunes
 links:
 - name: Artigo

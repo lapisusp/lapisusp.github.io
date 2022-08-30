@@ -5,8 +5,8 @@ title: Registro de dados de interação usando Programação Orientada a Aspecto
 update: '2012-07-20'
 project: Realidade Virtual e Computação Gráfica
 members:
-- Rafael Luiz Testa
-- Eunice Pereira dos Santos Nunes
+- Rafael L. Testa
+- Eunice P. S. Nunes
 - Fátima L. S. Nunes
 header-img: img/projects/antigos/poa-ex.jpg
 links:

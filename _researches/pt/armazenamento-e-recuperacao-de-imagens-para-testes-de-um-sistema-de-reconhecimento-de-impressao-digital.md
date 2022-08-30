@@ -4,7 +4,7 @@ title: Armazenamento e recuperação de imagens para testes de um sistema de rec
 update: '2016-01-06'
 project: Processamento de Imagens
 members:
-- Rogério Machado Mendonça
+- Rogério M. Mendonça
 - Fátima L. S. Nunes
 ---
 

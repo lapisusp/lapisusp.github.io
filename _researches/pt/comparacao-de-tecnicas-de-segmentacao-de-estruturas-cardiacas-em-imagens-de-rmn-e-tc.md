@@ -4,7 +4,7 @@ title: Comparação de técnicas de segmentação de estruturas cardíacas em im
 update: '2016-01-06'
 project: Processamento de Imagens
 members:
-- Rafael Siqueira Torres
+- Rafael S. Torres
 - Fátima L. S. Nunes
 links:
 - name: apresentacaoQuali

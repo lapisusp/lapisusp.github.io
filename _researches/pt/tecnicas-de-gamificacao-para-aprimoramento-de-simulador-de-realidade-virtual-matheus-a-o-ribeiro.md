@@ -3,8 +3,8 @@ title: Técnicas de gamificação para aprimoramento de simulador de Realidade V
 update: '2017-05-24'
 project: Jogos Sérios
 members:
-- Matheus de Lara Ribeiro
-- Cleber Gimenez Correa
+- Matheus A. O. Ribeiro
+- Cleber G. Correa
 - Fátima L. S. Nunes
 header-img: img/projects/antigos/jogoEmAcao.png
 ---

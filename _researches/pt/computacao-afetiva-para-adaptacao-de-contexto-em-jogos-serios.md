@@ -4,7 +4,7 @@ title: Um framework de Computação Afetiva para adaptação automática de jogo
 update: '2016-01-06'
 project: Computação Afetiva
 members:
-- Renan Vinicius Aranha
+- Renan V. Aranha
 - Fátima L. S. Nunes
 header-img: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 credit-img-author: Lorenzo Herrera / Unsplash

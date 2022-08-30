@@ -3,7 +3,7 @@ title: Recuperação de Imagens Mamográficas Baseada em Conteúdo
 update: '2010-03-03'
 project: Recuperação de Informação
 members:
-- Ana Paula de Oliveira Santos
+- Ana P. O. Santos
 - Fátima L. S. Nunes
 links:
 - name: Dissertação

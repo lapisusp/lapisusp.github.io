@@ -3,7 +3,7 @@ title: Seleção Automatizada de Casos de Teste para Software com Saídas Gráfi
   CBIR e Conceitos de Variabilidade
 update: '2016-01-07'
 members:
-- Everton Note Narciso
+- Everton N. Narciso
 - Fátima L. S. Nunes
 project: Recuperação de Informação
 links:

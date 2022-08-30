@@ -4,7 +4,7 @@ title: VRVis Manager – Uma ferramenta para visualização de grandes volumes d
 update: '2010-01-07'
 project: Visualização de Informação
 members:
-- Silvia Helena de Oliveira Santos
+- Silvia H. O. Santos
 - Fátima L. S. Nunes
 links:
 - name: Dissertação de Mestrado

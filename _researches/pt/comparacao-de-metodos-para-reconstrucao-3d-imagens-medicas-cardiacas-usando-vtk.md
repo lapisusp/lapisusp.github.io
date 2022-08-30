@@ -4,7 +4,7 @@ title: Comparação de métodos para reconstrução 3D imagens médicas cardíac
 update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 members:
-- Rosiane Wolf Luz
+- Rosiane W. Luz
 - Fátima L. S. Nunes
 links:
 - name: Dissertação

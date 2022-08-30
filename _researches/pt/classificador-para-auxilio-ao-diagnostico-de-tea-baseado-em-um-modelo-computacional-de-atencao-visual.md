@@ -4,7 +4,7 @@ title: Classificador para auxílio ao diagnóstico de TEA baseado em um modelo c
 update: '2018-01-07'
 project: Processamento de Imagens
 members:
-- Jéssica dos Santos de Oliveira
+- Jéssica S. Oliveira
 - Fátima L. S. Nunes
 links:
 - name: Dissertação

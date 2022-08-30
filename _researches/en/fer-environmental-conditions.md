@@ -3,8 +3,8 @@ title: Influence of environmental conditions in the performance of open-source s
 update: '2020-11-09'
 project: Affective Computing
 members:
-- André Biondi Casaes
-- Renan Vinicius Aranha
+- André B. Casaes
+- Renan V. Aranha
 - Fátima L. S. Nunes
 ---
 

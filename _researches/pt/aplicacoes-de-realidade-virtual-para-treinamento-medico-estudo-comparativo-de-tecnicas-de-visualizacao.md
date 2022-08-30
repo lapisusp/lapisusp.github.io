@@ -5,7 +5,7 @@ update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 software: ViMeT - Virtual Medical Training
 members:
-- Marcela Braga Afonso
+- Marcela B. Afonso
 - Fátima L. S. Nunes
 header-img: "/img/projects/antigos/a2.jpg"
 links:

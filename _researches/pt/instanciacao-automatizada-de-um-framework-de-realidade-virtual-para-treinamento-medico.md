@@ -5,7 +5,7 @@ update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 software: ViMeT - Virtual Medical Training
 members:
-- Daniela Oliveira Bertolli
+- Daniela O. Bertolli
 - Fátima L. S. Nunes
 links:
 - name: Relatório

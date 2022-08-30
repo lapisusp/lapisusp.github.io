@@ -5,7 +5,7 @@ update: '2010-03-05'
 project: Jogos Sérios
 software: ViMeT - Virtual Medical Training
 members:
-- Ana Cláudia M. T. G. de Oliveira
+- Ana C. M. T. G. Oliveira
 - Fátima L. S. Nunes
 redirect_from:
 - 25-2/

@@ -4,7 +4,7 @@ title: 'Jogos sérios: uma aplicação de imersão em ambiente virtual com propr
 update: '2016-01-06'
 project: Jogos Sérios
 members:
-- Lênin Ferreira Barbosa
+- Lênin F. Barbosa
 - Fátima L. S. Nunes
 ---
 

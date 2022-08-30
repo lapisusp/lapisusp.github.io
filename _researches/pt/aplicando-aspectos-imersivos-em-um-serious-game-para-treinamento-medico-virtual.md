@@ -4,7 +4,7 @@ update: '2016-01-06'
 project: Jogos Sérios
 software: ViMeT - Virtual Medical Training
 members:
-- Rafael Siqueira Torres
+- Rafael S. Torres
 - Fátima L. S. Nunes
 header-img: img/projects/antigos/vimetGameHaptico.jpg
 links:

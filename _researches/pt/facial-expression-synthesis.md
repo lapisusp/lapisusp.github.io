@@ -3,8 +3,8 @@ title: Síntese de expressões faciais em fotografias baseado em faces similares
 update: '2018-07-20'
 project: Representação de emoções
 members:
-- Rafael Luiz Testa
-- Ariane Machado Lima
+- Rafael L. Testa
+- Ariane M. Lima
 - Fátima L. S. Nunes
 header-img: img/projects/emotion-representation/photograph.png
 links:

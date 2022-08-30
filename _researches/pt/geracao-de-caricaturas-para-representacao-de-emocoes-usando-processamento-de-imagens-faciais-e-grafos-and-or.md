@@ -3,9 +3,9 @@ title: Geração de caricaturas para representação de emoções usando process
   imagens faciais e grafos And-Or
 update: '2015-12-17'
 members:
-- Liseth Urpy Segundo Carpio
+- Liseth U. S. Carpio
 - Fátima L. S. Nunes
-- Ariane Machado Lima
+- Ariane M. Lima
 header-img: img/projects/emotion-representation/cap4-fig2-grafo.png
 links:
 - name: Dissertação

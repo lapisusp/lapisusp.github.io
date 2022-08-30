@@ -4,7 +4,7 @@ title: Um modelo de avaliação da percepção de tridimensionalidade para siste
 update: '2016-01-07'
 project: Realidade Virtual e Computação Gráfica
 members:
-- Sahra Karolina Gomes e Silva
+- Sahra K. G. Silva
 - Fátima L. S. Nunes
 ---
 

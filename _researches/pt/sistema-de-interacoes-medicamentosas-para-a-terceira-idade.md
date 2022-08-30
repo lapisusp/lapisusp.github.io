@@ -3,7 +3,7 @@ title: Sistema de Interações Medicamentosas para a Terceira Idade
 update: '2016-01-07'
 project: Sistemas de Informação
 members:
-- Aline Cristina Machado
+- Aline C. Machado
 - Fátima L. S. Nunes
 links:
 - name: Monografia

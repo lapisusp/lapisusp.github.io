@@ -4,7 +4,7 @@ title: 'Oracle e Firebird: uma análise de desempenho a partir de implementaçã
 update: '2016-01-06'
 project: Banco de Dados
 members:
-- João Paulo Coltri Marri
+- João P. C. Marri
 - Fátima L. S. Nunes
 ---
 

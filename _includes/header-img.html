@@ -14,6 +14,12 @@
     {% assign subtitle = page.subtitle %}
 {% endunless %}
 
+{% if page.photo %}
+    {% assign photo = page.photo %}
+{% else %}
+    {% assign photo = "img/member.jpg" %}
+{% endif %}
+
 <header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}'); padding-bottom: 50px;z-index: -2;">
     <div class="overlay" style="z-index:-1;"></div>
         {% if page.photo %}
@@ -22,7 +28,7 @@
                         border-radius: 100%;
                         object-fit: cover;
                         margin-top: 150px;
-                        border: 4px solid #fff;" src="{{ page.photo | absolute_url }}" class="">
+                        border: 4px solid #fff;" src="{{ photo | absolute_url }}" class="">
         {% endif %}
         <h1 style="color: #f8f9fa; font-weight: 800; margin-top: 20px;">{{ title }}</h1>
         {% if subtitle %}
