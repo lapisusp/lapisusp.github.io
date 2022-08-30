@@ -529,3 +529,13 @@ footer .container{
     grid-template-columns: auto;
   }
 }
+
+@media screen and (max-width: 500px){
+  #member_card_info{
+    display: block;
+    text-align: center;
+  }
+  #member_card_photo{
+    width: 60%;
+  }
+}

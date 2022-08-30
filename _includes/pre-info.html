@@ -1,39 +1,40 @@
-<div class="container" style="  display: flex;
+<div id="member_card_info" class="container" style="  display: flex;
                                 box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
                                 border-radius: 10px;
                                 justify-content: center;
                                 padding-top: 10px;
                                 margin-bottom: 10px;
                                 padding-bottom: 10px;">
-    <img src="{{ page.photo | absolute_url }}" style="width: 30%; object-fit: scale-down;">
+    <img id="member_card_photo" src="{{ page.photo | absolute_url }}" style="width: 30%; object-fit: scale-down;">
     <div style="margin-left: 20px;">
-        <h1 style="font-weight: 600;">
+        <h2 style="font-weight: 600;">
             <span style="background-image: linear-gradient(#e74c3c,#e74c3c);
                          background-size: 50% 3px;
                          background-position: bottom left;
                          background-repeat: no-repeat;">
-                {{ site.data.pre-info.name[page.language] }}
-            </span> {{ title }}</h1>   
-        <h2>
+                {{ site.data.pre-info.name[page.language] }}: 
+            </span> {{ title }}</h2>   
+        <h3>
             <span style="background-image: linear-gradient(#e74c3c,#e74c3c);
                          background-size: 50% 3px;
                          background-position: bottom left;
                          background-repeat: no-repeat;">
-                {{ site.data.pre-info.membership[page.language] }}
+                {{ site.data.pre-info.membership[page.language] }}: 
             </span> {{ subtitle }}
-        </h2>
+        </h3>
         {% if page.mail %}
-            <div style="display: flex; align-items: center;"> 
+            <div style="display: inline-flex; align-items: center; margin-top: 5px; margin-bottom: 5px;"> 
                 <img src="{{'img/mail.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> 
-                    <span style="font-size: 1.4rem; margin-left: 10px;"> 
+                    <span style="font-size: 1.3rem; margin-left: 10px;"> 
                         {{ page.mail }}
                     </span>      
             </div>
+        <br>
         {% endif %}
         {% if page.phone %}
-            <div style="display: flex; align-items: center;"> 
+            <div style="display: inline-flex; align-items: center; margin-top: 5px; margin-bottom: 5px;"> 
                 <img src="{{'img/phone.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> 
-                    <span style="font-size: 1.4rem; margin-left: 10px;"> 
+                    <span style="font-size: 1.3rem; margin-left: 10px;"> 
                         {{ page.phone }}
                     </span>      
             </div>
