@@ -3,6 +3,6 @@
 {% else %}
 {% assign cards = site.researches | where: page.type, page.title | where:"language", page.language %}
 {% endif %}
-<div class="research-list">
+<div id="research-list">
   {% include cards.html %}
 </div>
