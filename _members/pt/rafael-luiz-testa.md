@@ -2,8 +2,8 @@
 title: Rafael Luiz Testa
 order: 2
 layout: member
-name: Rafael Luiz Testa
-update: '2019-12-12'
+name: Rafael L. Testa
+update: '2022-08-15'
 membership: Doutorando
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4316890Y1
 orcid: https://orcid.org/0000-0002-7209-1111

@@ -1,7 +1,7 @@
 ---
 title: Ariane_machado_lima
 order: 1
-name: Ariane Machado Lima
+name: Ariane M. Lima
 update: '2022-08-15'
 membership: Professor
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4703763H4&idiomaExibicao=2"

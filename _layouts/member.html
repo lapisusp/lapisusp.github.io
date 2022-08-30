@@ -14,6 +14,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div id="member-icons" class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                <!--
                 {% if page.lattes %}
                 <a class="btn btn-secondary btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/icon-lattes.png' | absolute_url }}"> Lattes</a>
                 {% endif %}
@@ -38,6 +39,10 @@ layout: default
                 {% if page.phone %}
                 <a class="btn btn-secondary btn-large" href="tel:{{ page.phone }}" target="_top"> <i class="fa fa-phone"></i> {{ page.phone }}</a>
                 {% endif %}
+                -->
+                <div class="info-research">
+                  <h2>{{ site.data.research.about[page.language] }}</h2>
+                </div>
                 <hr>
 
                 {{ content }}

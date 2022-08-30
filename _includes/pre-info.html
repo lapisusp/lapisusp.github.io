@@ -1,9 +1,73 @@
-{% if page.date %}
-<div class="container">
-    <div id="info" class="row">
-        <div class="col-lg-12 col-md-12">                    
-                    <p>{{ site.data.pre-info.update[page.language] }} {{ page.update | date: "%d/%m/%Y" }}</p>
+<div class="container" style="  display: flex;
+                                box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+                                border-radius: 10px;
+                                justify-content: center;
+                                padding-top: 10px;
+                                margin-bottom: 10px;
+                                padding-bottom: 10px;">
+    <img src="{{ page.photo | absolute_url }}" style="width: 30%; object-fit: scale-down;">
+    <div style="margin-left: 20px;">
+        <h1 style="font-weight: 600;">
+            <span style="background-image: linear-gradient(#e74c3c,#e74c3c);
+                         background-size: 50% 3px;
+                         background-position: bottom left;
+                         background-repeat: no-repeat;">
+                {{ site.data.pre-info.name[page.language] }}
+            </span> {{ title }}</h1>   
+        <h2>
+            <span style="background-image: linear-gradient(#e74c3c,#e74c3c);
+                         background-size: 50% 3px;
+                         background-position: bottom left;
+                         background-repeat: no-repeat;">
+                {{ site.data.pre-info.membership[page.language] }}
+            </span> {{ subtitle }}
+        </h2>
+        {% if page.mail %}
+            <div style="display: flex; align-items: center;"> 
+                <img src="{{'img/mail.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> 
+                    <span style="font-size: 1.4rem; margin-left: 10px;"> 
+                        {{ page.mail }}
+                    </span>      
+            </div>
+        {% endif %}
+        {% if page.phone %}
+            <div style="display: flex; align-items: center;"> 
+                <img src="{{'img/phone.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> 
+                    <span style="font-size: 1.4rem; margin-left: 10px;"> 
+                        {{ page.phone }}
+                    </span>      
+            </div>
+        {% endif %}
+
+        <div style="
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            grid-row-gap: 20px;
+            grid-column-gap: 20px;
+            padding: 10px;
+        ">
+            {% if page.lattes %}
+            <a class="btn btn-secondary btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/lattes.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> Lattes</a>
+            {% endif %}
+            {% if page.orcid %}
+            <a class="btn btn-secondary btn-large" href="{{ page.orcid }}" target="_blank"><img src="{{'img/ORCIDiD_icon32x32.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> ORCID</a>
+            {% endif %}
+            {% if page.scholar %}
+            <a class="btn btn-secondary btn-large" href="{{ page.scholar }}" target="_blank"><img src="{{'img/icons8-google-scholar-50.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> Google Scholar</a>
+            {% endif %}
+            {% if page.publons %}
+            <a class="btn btn-secondary btn-large" href="{{ page.publons }}" target="_blank"><img src="{{'img/publons_blue_white_shadow.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> Publons</a>
+            {% endif %}
+            {% if page.github %}
+            <a class="btn btn-secondary btn-large" href="{{ page.github }}" target="_blank"><img src="{{'img/GitHub-Mark-32px.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> Github</a>
+            {% endif %}
+            {% if page.linkedin %}
+            <a class="btn btn-secondary btn-large" href="{{ page.linkedin }}" target="_blank"><img src="{{'img/LI-In-Bug.png' | absolute_url }}" style="width: 30px;height: 30px; margin-left: 3px; margin-right: 3px"> LinkedIN</a>
+            {% endif %}
+            
         </div>
+        {% if page.date %}
+            <p style="margin-top: 20px">{{ site.data.pre-info.update[page.language] }} {{ page.update | date: "%d/%m/%Y" }}</p>
+        {% endif %}
     </div>
 </div>
-{% endif %}

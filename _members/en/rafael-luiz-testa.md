@@ -1,8 +1,8 @@
 ---
 title: Rafael Luiz Testa
 order: 2
-name: Rafael Luiz Testa
-update: '2018-07-16'
+name: Rafael L Testa
+update: '2022-08-15'
 membership: PHD Candidate
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4316890Y1&idiomaExibicao=2
 orcid: https://orcid.org/0000-0002-7209-1111

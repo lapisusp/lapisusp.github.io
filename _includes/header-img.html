@@ -14,8 +14,8 @@
     {% assign subtitle = page.subtitle %}
 {% endunless %}
 
-<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}'); padding-bottom: 150px;">
-    <div class="overlay" style="display: contents;"></div>
+<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ header-img | absolute_url }}'); padding-bottom: 50px;z-index: -2;">
+    <div class="overlay" style="z-index:-1;"></div>
         {% if page.photo %}
             <img style="width: 150px;
                         height: 150px;
