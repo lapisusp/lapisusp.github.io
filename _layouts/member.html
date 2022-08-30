@@ -13,7 +13,7 @@ layout: default
 <article>
     <div class="container">
         <div class="row">
-            <div id="member-icons" class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+            <div id="member-icons">
                 <!--
                 {% if page.lattes %}
                 <a class="btn btn-secondary btn-large" href="{{ page.lattes }}" target="_blank"><img src="{{'img/icon-lattes.png' | absolute_url }}"> Lattes</a>
@@ -54,12 +54,12 @@ layout: default
           </div>
 
           <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+            <div >
               <div class="info-research">
                   <h2>{{ site.data.research.researches[page.language] }}</h2>
               </div>
 
-              <div class="card-columns">
+              <div id="research_list">
                 {% assign researches = site.researches | where:"language", page.language | sort: 'update' | reverse %}
                 {% for research in researches %}
                   {% for research_member in research.members %}

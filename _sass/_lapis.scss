@@ -530,6 +530,20 @@ footer .container{
   }
 }
 
+#member_card_info{
+  display: flex;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+  border-radius: 10px;
+  justify-content: center;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+#member_card_photo{
+  width: 30%; 
+  object-fit: scale-down;
+}
+
 @media screen and (max-width: 500px){
   #member_card_info{
     display: block;
@@ -537,5 +551,24 @@ footer .container{
   }
   #member_card_photo{
     width: 60%;
+  }
+}
+
+#research_list{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+}
+
+@media screen and (max-width: 990px){
+  #research_list{
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #research_list{
+    grid-template-columns: 1fr;
   }
 }

@@ -5,10 +5,10 @@
 {% elsif site.header-img %}
 {% assign img = site.header-img %}
 {% endif %}
-<div class="card">
+<div class="card" style="height: 100%;">
     <a href="{{ card.url | absolute_url }}">
         <div class="card-image">
-            <img class="card-img-top" src="{{ img | absolute_url }}">
+            <img class="card-img-top" style="object-fit: scale-down; height: 300px;" src="{{ img | absolute_url }}">
         </div>
         <div class="card-body">
             <h4 class="card-title">{{ card.title }}</h4>
