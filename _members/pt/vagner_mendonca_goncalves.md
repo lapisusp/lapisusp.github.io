@@ -1,12 +1,13 @@
 ---
 title: Vagner_mendonca_goncalves
-order: 4
+order: 2
 layout: member
-name: Vagner M. Goncalves
+name: Vagner Mendonça Gonçalves
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4449306J0
+scholar: https://scholar.google.com.br/citations?user=05hFLlUAAAAJ
+orcid: https://orcid.org/0000-0002-4807-2105
 membership: Doutorando
 photo: img/members/vagner_goncalves.png
-orcid: https://orcid.org/0000-0002-4807-2105
 update: '2022-08-15'
 ---
 
