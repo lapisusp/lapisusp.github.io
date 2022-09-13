@@ -7,10 +7,7 @@ members:
 - Fátima L. S. Nunes
 header-img: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 credit-img-author: Lorenzo Herrera / Unsplash
-credit-img-url: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
-links:
-- name: Player Experience with Brazilian accent: development and validation of PX-BR, a summarized instrument in Portuguese
-  url: https://doi.org/10.1145/3535511.3535527
+credit-img-url: https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 ---
 
 O desenvolvimento e a avaliação de jogos sérios é um tópico que envolve diferentes áreas, tanto internas à Ciência da Computação quanto fora dela. O potencial que este tipo de aplicação apresenta tem motivado seu aperfeiçoamento constante, tanto pela academia quanto pela indústria. Neste sentido, este trabalho aborda um dos principais desafios relacionados aos jogos sérios: torná-los mais atrativos aos jogadores. 
