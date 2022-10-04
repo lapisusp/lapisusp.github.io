@@ -1,5 +1,5 @@
 ---
-title: Karla_roberta_pereira_sampaio_lima
+title: Karla R. P. S. Lima
 order: 1
 layout: member
 name: Karla R. P. S. Lima

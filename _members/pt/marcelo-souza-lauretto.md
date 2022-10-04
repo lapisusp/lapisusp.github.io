@@ -1,5 +1,5 @@
 ---
-title: marcelo-souza-lauretto
+title: Marcelo de Souza Lauretto
 order: 1
 layout: member
 name: Marcelo de Souza Lauretto

@@ -1,5 +1,5 @@
 ---
-title: violeta_sun
+title: Violeta Sun
 order: 1
 layout: member
 name: Violeta Sun
