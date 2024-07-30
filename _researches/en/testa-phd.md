@@ -6,7 +6,9 @@ members:
 - Rafael L. Testa
 - Ariane M. Lima
 - Fátima L. S. Nunes
-header-img: img/projects/emotion-representation/photograph.png
+redirect_from:
+ - testa/
+header-img: /img/projects/phd-testa/architecture.png
 links:
 - name: Google forms
   url: https://forms.gle/gKdVY3Er3hfCdtpT9
