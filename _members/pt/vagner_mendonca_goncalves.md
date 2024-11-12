@@ -2,11 +2,12 @@
 title: vagner_mendonca_goncalves
 order: 2
 layout: member
+membership: Doutorando
 name: Vagner Mendonça Gonçalves
 lattes: http://lattes.cnpq.br/3557887107612299
 scholar: https://scholar.google.com/citations?hl=en&user=_IAaZqEAAAAJ
 orcid: https://orcid.org/0000-0002-4807-2105
-membership: Doutorando
+mail: vagner.goncalves@usp.br
 photo: img/members/vagner_goncalves.png
 update: '2024-11-12'
 ---
