@@ -1,6 +1,6 @@
 ---
 title: Leila_cristina_carneiro_bergamasco
-order: 4
+order: 3
 layout: member
 name: Leila Bergamasco
 membership: Doutora

@@ -7,6 +7,9 @@ professors:
 students:
   en: Participants
   pt: Integrantes
+external:
+  en: External associates
+  pt: Colaboradores externos
 old:
   en: Alumini
   pt: Alumini

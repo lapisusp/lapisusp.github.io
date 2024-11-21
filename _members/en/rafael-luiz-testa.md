@@ -1,9 +1,9 @@
 ---
 title: Rafael Luiz Testa
-order: 2
+order: 3
 name: Rafael L. Testa
 update: '2022-08-15'
-membership: PHD Candidate
+membership: PHD
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4316890Y1&idiomaExibicao=2
 orcid: https://orcid.org/0000-0002-7209-1111
 scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=8NCe0IgAAAAJ
@@ -15,4 +15,4 @@ mail: rafael.testa@usp.br
 header-img: img/members/rafael-luiz-testa2.jpg
 ---
 
-Bachelor (2014) and Master (2018) in Information Systems with the University of São Paulo, Brazil. He is currently working toward the Ph.D. degree with the University of São Paulo, Brazil. His main research interests are facial expression and video synthesis.
+PhD in Information Systems from the University of São Paulo (2024), with a Master's (2018) and Bachelor's (2014) degree in the same area and institution. His research interests focus on the field of multimedia processing, exploring topics such as the facial expressions' synthesis, deepfake detection, and biomonitoring.

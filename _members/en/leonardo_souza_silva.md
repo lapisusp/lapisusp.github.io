@@ -1,6 +1,6 @@
 ---
 title: Leonardo_souza_silva
-order: 4
+order: 3
 name: Leonardo S. Silva
 lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4753633E2
 membership: PHD
