@@ -2,9 +2,9 @@
 title: Rafael Luiz Testa
 order: 3
 name: Rafael L. Testa
-update: '2022-08-15'
+update: '2025-02-11'
 membership: PHD
-lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4316890Y1&idiomaExibicao=2
+lattes: https://lattes.cnpq.br/9428274086606707
 orcid: https://orcid.org/0000-0002-7209-1111
 scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=8NCe0IgAAAAJ
 github: https://github.com/lapidarioz
@@ -15,4 +15,4 @@ mail: rafael.testa@usp.br
 header-img: img/members/rafael-luiz-testa2.jpg
 ---
 
-PhD in Information Systems from the University of São Paulo (2024), with a Master's (2018) and Bachelor's (2014) degree in the same area and institution. His research interests focus on the field of multimedia processing, exploring topics such as the facial expressions' synthesis, deepfake detection, and biomonitoring.
+Ph.D. in Information Systems from the University of São Paulo (2024), where he also obtained his Master's (2018) and Bachelor's (2014) degrees in the same field. He completed a research internship at the University of Southern California. Currently, he is a professor at Centro Universitário FEI. His research interests focus on multimedia processing, with emphasis on computer vision and audio processing, exploring topics such as facial expression synthesis, deepfake detection, and biomonitoring. He was awarded the Fulbright Doctoral Dissertation Research Award (2021-2022). He works on projects that combine deep learning techniques with applications in areas such as animal behavior and human-computer interaction.
