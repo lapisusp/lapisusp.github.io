@@ -12,7 +12,7 @@ github: https://github.com/lapidarioz
 linkedin: https://www.linkedin.com/in/rafaelluiztesta/
 publons: https://publons.com/researcher/2190408/rafael-luiz-testa/
 photo: img/members/rafael-luiz-testa.jpg
-mail: rafael.testa@usp.br
+mail: rafaeluiztesta@gmail.com
 header-img: img/members/rafael-luiz-testa2.jpg
 ---
 
