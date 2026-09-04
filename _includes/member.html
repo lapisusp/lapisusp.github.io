@@ -1,6 +1,6 @@
 <div style="box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
             border-radius: 10px;">
-    <a href="{{ member.url | absolute_url }}">
+    <a href="{% if member.website %}{{ member.website }}{% else %}{{ member.url | absolute_url }}{% endif %}">
         <div style="text-align: center;
                     height: 100%;
                     padding: 10px">

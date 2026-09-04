@@ -3,6 +3,8 @@ title: Rafael Luiz Testa
 order: 3
 layout: member
 name: Rafael L. Testa
+redirect_to: https://rafaeltesta.org/
+website: https://rafaeltesta.org/
 update: '2025-02-11'
 membership: Doutor
 lattes: https://lattes.cnpq.br/9428274086606707
